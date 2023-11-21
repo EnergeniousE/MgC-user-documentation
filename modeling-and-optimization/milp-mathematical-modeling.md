@@ -31,7 +31,7 @@ $$
 
 MgC approaches for precise **component cost evaluation**, ensuring economic considerations in microgrid design. It is crucial for comprehensive cost assessment, considering all economic aspects of individual components.
 
-It calculates the total cost of a microgrid component "i," including investment cost, financing cost, incentives, and operational and maintenance costs.
+It calculates the total cost of a microgrid component "i", including investment cost, financing cost, incentives, and operational and maintenance costs.
 
 $$
 C_{cmp,i} =γ_iC_{Cmp,i}+γ_iC_{Fnc,i}-γ_{i}ρ_{Inc,i}+∑_{\substack{v}}C_{OM,v,i} \\\ Where\:(γ_iC_{Cmp,i})\:is\:Investment\:cost
