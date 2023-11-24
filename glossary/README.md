@@ -16,6 +16,6 @@ layout:
     visible: true
 ---
 
-# Glossary
+# [Work in progress] Glossary
 
 This is a just a test. This is a sceond test. And a third one. And a fourth.
