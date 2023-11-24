@@ -18,4 +18,4 @@ layout:
 
 # Glossary
 
-This is a just a test. This is a sceond test. And a third one.
+This is a just a test. This is a sceond test. And a third one. And a fourth.
