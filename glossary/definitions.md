@@ -15,7 +15,7 @@ This section serves as a comprehensive reference for abbreviations and technical
 | -------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | ANF            | na                 | Annuity factor                                                                                                                                  |
 | Cap            | kWh                | Capacity rated power size                                                                                                                       |
-| \P_{Max}         | kW                 | Peak power(resources)                                                                                                                           |
+| $$\P_{Max}$$         | kW                 | Peak power(resources)                                                                                                                           |
 | IIV            | €                  | Initial investment                                                                                                                              |
 | C an tot\*     | €/a                | Annualized total cost                                                                                                                           |
 | C an cp\*      | €/a                | Annualized CAPEX                                                                                                                                |
