@@ -13,7 +13,7 @@ This section serves as a comprehensive reference for abbreviations and technical
 
 | Symbol         | Unit of Measurment | Explanation                     |
 | -------------- | ------------------ | ------------------------------- |
-| ANF            | na                 | Annuity factor                  |
+| $$ANF_*$$            | na                 | Annuity factor                  |
 | $$Cap_*$$      | kWh                | Capacity rated power size       |
 |  $$P_{max,*}$$ | kW                 | Peak power(resources)           |
 | IIV            | €                  | Initial investment              |
