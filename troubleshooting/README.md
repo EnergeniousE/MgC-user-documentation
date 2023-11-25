@@ -51,6 +51,8 @@ Encountered a challenge with MgC, our powerful Microgrid Designing Software? Che
     * **Issue:** Using an outdated tool version.
     * **Quick Solution:** Ensure you are using the latest version of MgC to benefit from performance improvements and bug fixes.
 
+The detailed help and support options are explained in [Help and support](help-and-support.md) section.
+
 {% hint style="info" %}
 If the issue persists, reach out to MgC support. Provide detailed information about the problem, including error messages or screenshots, for a quicker resolution.
 {% endhint %}
