@@ -29,7 +29,5 @@
   * [Help and support](troubleshooting/help-and-support.md)
   * [FAQ´s](troubleshooting/faq-s.md)
 * [Work in Progress! Glossary](glossary/README.md)
-  * [Technical terminology](glossary/technical-terminology.md)
-  * [Definitions](glossary/definitions.md)
-  * [Abbreviations](glossary/abbreviations.md)
+  * [Abbreviations and technical terminology](glossary/definitions.md)
   * [Stay connected and updated](glossary/stay-connected-and-updated.md)
