@@ -1,4 +1,4 @@
-# Abbreviations and technical terminology
+a# Abbreviations and technical terminology
 
 serves as a comprehensive reference for abbreviations and technical terms used throughout the MgC platform. Understanding these terms is essential for navigating the tool effectively and interpreting results accurately.
 
