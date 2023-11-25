@@ -28,7 +28,5 @@ This section serves as a comprehensive reference for abbreviations and technical
 | OPEX           | €                  | Operating expenses                                                                                                                              |
 | Op. Income     | €                  | Operating income                                                                                                                                |
 | Residual value | €                  | Residual value                                                                                                                                  |
-|                |                    | <pre class="language-markdown"><code class="lang-markdown"># Math and TeX block
-<strong>$$f(x) = x * e^{2 \pi i \xi x}$$
-</strong></code></pre> |
+|                |                    | $$f(x) = x * e^{2 pi i \xi x}$$ |
 
