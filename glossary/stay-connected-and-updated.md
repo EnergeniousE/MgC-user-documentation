@@ -2,6 +2,8 @@
 
 We value your experience with MgC and want to ensure you stay connected for ongoing updates, support, and community engagement. Here are ways to stay connected:
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 **Newsletter Subscription:** Subscribe to our newsletter to receive the latest product updates, feature releases, and industry insights directly to your inbox.
 
 **User Forums:** Engage with fellow MgC users, share experiences, and seek advice on our user forums. It's a space to connect with a global community passionate about microgrid design and optimization.
