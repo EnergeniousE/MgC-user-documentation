@@ -21,7 +21,7 @@ This section serves as a comprehensive reference for abbreviations and technical
 | C an cp\*      | €/a                | Annualized CAPEX                |
 | C an op\*      | €/a                | Annualized OPEX                 |
 | I an op\*      | €/a                | Annualized operati. income      |
-| $$(CO_2)^*$$   | t                  | Annualized CO\_2 equiv.         |
+| $$CO_2^*$$     | t                  | Annualized $$CO_2$$ equiv.    |
 | E an prt\*     | kWh                | Annualized energy (@port)       |
 | P (t) prt\*    | kW                 | Power flow (@port)              |
 | CAPEX          | €                  | Capital expenses                |
