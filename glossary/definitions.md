@@ -32,6 +32,7 @@ This section serves as a comprehensive reference for abbreviations and technical
 | OPEX           | €                  | Operating expenses         |
 | Op. Income     | €                  | Operating income           |
 | Residual value | €                  | Residual value             |
+|                |                    | =                          |
 
 
 
