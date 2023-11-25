@@ -1,6 +1,6 @@
 # Abbreviations and technical terminology
 
-This section serves as a comprehensive reference for abbreviations and technical terms used throughout the MgC platform. Understanding these terms is essential for navigating the tool effectively and interpreting results accurately.
+serves as a comprehensive reference for abbreviations and technical terms used throughout the MgC platform. Understanding these terms is essential for navigating the tool effectively and interpreting results accurately.
 
 1. **Abbreviations and technical terms:** Uncover the meanings of abbreviations in MgC for a rapid understanding of concepts and acquire valuable insights into the specialized terminology of microgrid design and optimization.
 2. **Contextual Definitions:** Each entry provides a concise definition in the context of MgC's functionalities.
@@ -11,21 +11,46 @@ This section serves as a comprehensive reference for abbreviations and technical
 
 ### KPI formulas
 
-| Symbol         | Unit of Measurment | Explanation                     |
-| -------------- | ------------------ | ------------------------------- |
-| $$ANF_*$$            | na                 | Annuity factor                  |
-| $$Cap_*$$      | kWh                | Capacity rated power size       |
-|  $$P_{max,*}$$ | kW                 | Peak power(resources)           |
-| IIV            | €                  | Initial investment              |
-| $$C_{tot,*}^{an}$$     | €/a                | Annualized total cost           |
-| $$C_{cp,*}^{an}$$      | €/a                | Annualized CAPEX                |
-| $$C_{op,*}^{an}$$      | €/a                | Annualized OPEX                 |
-| $$I_{op,*}^{an}$$      | €/a                | Annualized operati. income      |
-| $$CO_{2,*}^{an}$$     | t                  | Annualized $$CO_2$$ equiv.      |
-| $$E_{prt,*}^{an}$$     | kWh                | Annualized energy (@port)       |
-| $$P_{prt,*}^{(t)}$$    | kW                 | Power flow (@port)              |
-| CAPEX          | €                  | Capital expenses                |
-| OPEX           | €                  | Operating expenses              |
-| Op. Income     | €                  | Operating income                |
-| Residual value | €                  | Residual value                  |
-|                |                    | $$f(x) = x * e^{2 pi i \xi x}$$ |
+| Symbol              | Unit of Measurment | Explanation                     |
+| ------------------- | ------------------ | ------------------------------- |
+| $$ANF_*$$           | na                 | Annuity factor                  |
+| $$Cap_*$$           | kWh                | Capacity rated power size       |
+| $$P_{max,*}$$       | kW                 | Peak power(resources)           |
+| IIV                 | €                  | Initial investment              |
+| $$C_{tot,*}^{an}$$  | €/a                | Annualized total cost           |
+| $$C_{cp,*}^{an}$$   | €/a                | Annualized CAPEX                |
+| $$C_{op,*}^{an}$$   | €/a                | Annualized OPEX                 |
+| $$I_{op,*}^{an}$$   | €/a                | Annualized operati. income      |
+| $$CO_{2,*}^{an}$$   | t                  | Annualized $$CO_2$$ equiv.      |
+| $$E_{prt,*}^{an}$$  | kWh                | Annualized energy (@port)       |
+| $$P_{prt,*}^{(t)}$$ | kW                 | Power flow (@port)              |
+| CAPEX               | €                  | Capital expenses                |
+| OPEX                | €                  | Operating expenses              |
+| Op. Income          | €                  | Operating income                |
+| Residual value      | €                  | Residual value                  |
+|                     |                    | $$f(x) = x * e^{2 pi i \xi x}$$ |
+
+
+
+
+
+### Results dashboards(single scenario)
+
+#### Cost analysis
+
+
+
+| Name           | Unit of Measurement | Definition                              |
+| -------------- | ------------------- | --------------------------------------- |
+| CAPEX          | €                   | {IIV (auf NPV) } for each...lifetime... |
+| OPEX           | €                   | rstOPX\*1a(auf NPV)                     |
+| OP. Income     | €                   | RstOPI \* 1a (auf NPV)                  |
+| Residual value | €                   | … (auf NPV)                             |
+
+
+
+### Output report (single scenario)
+
+#### KPI
+
+<table><thead><tr><th width="151">Symbol</th><th width="164">Name</th><th width="192">Unit of Measurement</th><th>Definition</th></tr></thead><tbody><tr><td>C^an_cp,sys</td><td><p>CAPEX (an)</p><p>(–)</p></td><td>€/a</td><td></td></tr><tr><td>C^an_op,sys</td><td><p>OPEX (an)</p><p>(–)</p></td><td>€/a</td><td></td></tr><tr><td>I^an_op,sys</td><td>OPIN (an)</td><td>€/a</td><td></td></tr><tr><td>C^an_CO_2,sys</td><td>CO2 cost</td><td>€/a</td><td></td></tr><tr><td>C^an_tot,sys</td><td><p>TOTEX</p><p>(–)</p></td><td>€/a</td><td></td></tr><tr><td>IIV_sys</td><td>Initial investment</td><td>k€</td><td></td></tr><tr><td>E^an_dm,sys</td><td>Total energy demand</td><td>kWh</td><td></td></tr><tr><td>LCE^an_tot,sys</td><td><p>LCoE</p><p>(Levelized cost of energy)</p></td><td>€/kWh</td><td></td></tr><tr><td>CO_2^an_tot,sys</td><td><p>Tot. CO2</p><p>(Total CO2 emissions)</p></td><td>t</td><td></td></tr><tr><td>E^an_imp,sys</td><td>Import</td><td>kWh</td><td></td></tr><tr><td>E^an_res,sys</td><td>Total renewable energy</td><td>kWh</td><td></td></tr><tr><td>E^an_exp,sys</td><td><p>Feed-in</p><p>(Total grid export</p></td><td>kWh</td><td></td></tr><tr><td>E^an_gen,sys</td><td><p>Generation</p><p>(Annual production)</p></td><td>kWh</td><td></td></tr><tr><td>y^an_res,sys</td><td>Renewable share</td><td>%</td><td></td></tr></tbody></table>
