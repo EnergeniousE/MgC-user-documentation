@@ -25,7 +25,7 @@
       * [Nodal networks examples](modeling-and-optimization/modeling/nodal-network/nodal-networks-examples.md)
   * [MILP modeling and optimization models](modeling-and-optimization/milp-modeling-and-optimization-models.md)
   * [MILP mathematical modeling](modeling-and-optimization/milp-mathematical-modeling.md)
-* [Work in Progress! Troubleshooting](troubleshooting/README.md)
+* [Work in Progress Troubleshooting](troubleshooting/README.md)
   * [FAQ´s](troubleshooting/faq-s.md)
   * [Help and support](troubleshooting/help-and-support.md)
   * [Quick solutions](troubleshooting/quick-solutions.md)
