@@ -23,7 +23,7 @@ This section serves as a comprehensive reference for abbreviations and technical
 | $$I_{op,*}^{an}$$      | €/a                | Annualized operati. income      |
 | $$CO_{2,*}^{an}$$     | t                  | Annualized $$CO_2$$ equiv.      |
 | $$E_{prt,*}^{an}$$     | kWh                | Annualized energy (@port)       |
-| $$P_{prt,*}^(t)$$    | kW                 | Power flow (@port)              |
+| $$P_{prt,*}^{(t)}$$    | kW                 | Power flow (@port)              |
 | CAPEX          | €                  | Capital expenses                |
 | OPEX           | €                  | Operating expenses              |
 | Op. Income     | €                  | Operating income                |
