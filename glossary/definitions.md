@@ -17,12 +17,12 @@ This section serves as a comprehensive reference for abbreviations and technical
 | $$Cap_*$$      | kWh                | Capacity rated power size       |
 |  $$P_{max,*}$$ | kW                 | Peak power(resources)           |
 | IIV            | €                  | Initial investment              |
-| $$C_{tot,*}^an$$     | €/a                | Annualized total cost           |
-| $$C_{cp,*}^an$$      | €/a                | Annualized CAPEX                |
-| $$C_{op,*}^an$$      | €/a                | Annualized OPEX                 |
-| $$I_{op,*}^an$$      | €/a                | Annualized operati. income      |
-| $$CO_{2,*}^an$$     | t                  | Annualized $$CO_2$$ equiv.      |
-| $$E_{prt,*}^an$$     | kWh                | Annualized energy (@port)       |
+| $$C_{tot,*}^{an}$$     | €/a                | Annualized total cost           |
+| $$C_{cp,*}^{an}$$      | €/a                | Annualized CAPEX                |
+| $$C_{op,*}^{an}$$      | €/a                | Annualized OPEX                 |
+| $$I_{op,*}^{an}$$      | €/a                | Annualized operati. income      |
+| $$CO_{2,*}^{an}$$     | t                  | Annualized $$CO_2$$ equiv.      |
+| $$E_{prt,*}^{an}$$     | kWh                | Annualized energy (@port)       |
 | $$P_{prt,*}^(t)$$    | kW                 | Power flow (@port)              |
 | CAPEX          | €                  | Capital expenses                |
 | OPEX           | €                  | Operating expenses              |
