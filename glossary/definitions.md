@@ -63,24 +63,24 @@ serves as a comprehensive reference for abbreviations and technical terms used t
 
 #### KPI
 
-| Symbol              | Uom                | Explanation                     |                                |
-| ------------------- | ------------------ | ------------------------------- |------------------------------- |
-| $$ANF_*$$           | na                 | Annuity factor                  |                                |
-| $$Cap_*$$           | kWh                | Capacity rated power size       |                                |
-| $$P_{max,*}$$       | kW                 | Peak power(resources)           |                                |
-| IIV                 | €                  | Initial investment              |                                |
-| $$C_{tot,*}^{an}$$  | €/a                | Annualized total cost           |                                |
-| $$C_{cp,*}^{an}$$   | €/a                | Annualized CAPEX                |                                |
-| $$C_{op,*}^{an}$$   | €/a                | Annualized OPEX                 |                                |
-| $$I_{op,*}^{an}$$   | €/a                | Annualized operati. income      |                                |
-| $$CO_{2,*}^{an}$$   | t                  | Annualized $$CO_2$$ equiv.      |                                |
-| $$E_{prt,*}^{an}$$  | kWh                | Annualized energy (@port)       |                                |
-| $$P_{prt,*}^{(t)}$$ | kW                 | Power flow (@port)              |                                |
-| CAPEX               | €                  | Capital expenses                |                                |
-| OPEX                | €                  | Operating expenses              |                                |
-| Op. Income          | €                  | Operating income                |                                |
-| Residual value      | €                  | Residual value                  |                                |
-|                     |                    | $$f(x) = x * e^{2 pi i \xi x}$$ |                                |
+|             Symbol             | Symbol              | Uom    | Explanation                     |                                |
+| ------------------------------ | ------------------- | ------ | ------------------------------- |------------------------------- |
+| $$C_{cp,sys}^{an}$$            | $$ANF_*$$           | na     | Annuity factor                  |                                |
+| $$C_{op,sys}^{an}$$            | $$Cap_*$$           | kWh    | Capacity rated power size       |                                |
+|                                | $$P_{max,*}$$       | kW     | Peak power(resources)           |                                |
+|                                | IIV                 | €      | Initial investment              |                                |
+|                                | $$C_{tot,*}^{an}$$  | €/a    | Annualized total cost           |                                |
+|                                | $$C_{cp,*}^{an}$$   | €/a    | Annualized CAPEX                |                                |
+|                                | $$C_{op,*}^{an}$$   | €/a    | Annualized OPEX                 |                                |
+|                                | $$I_{op,*}^{an}$$   | €/a    | Annualized operati. income      |                                |
+|                                | $$CO_{2,*}^{an}$$   | t      | Annualized $$CO_2$$ equiv.      |                                |
+|                                | $$E_{prt,*}^{an}$$  | kWh    | Annualized energy (@port)       |                                |
+|                                | $$P_{prt,*}^{(t)}$$ | kW     | Power flow (@port)              |                                |
+|                                | CAPEX               | €      | Capital expenses                |                                |
+|                                | OPEX                | €      |                                 |                                |
+|                                | Op. Income          | €      |                                 |                                |
+|                                | Residual value      | €      |                                 |                                |
+|                                |                     |        |                                 |                                |
 
 
 <table><thead><tr><th width="151">Symbol</th><th width="164">Name</th><th width="192">Unit of Measurement</th><th>Definition</th></tr></thead><tbody><tr><td>$$C_{cp,sys}^{an}$$</td><td><p>CAPEX (an)</p><p>(–)</p></td><td>€/a</td><td></td></tr><tr><td>$$C_{op,sys}^{an}$$</td><td><p>$$OPEX_{(an)(-)}$$</p><p>(–)</p></td><td>€/a</td><td></td></tr><tr><td>$$I_{op,sys}^{an}$$</td><td>OPIN_{(an)(-)}$$</td><td>€/a</td><td></td></tr><tr><td>$$C_{CO_[2],sys}^{an}$$</td><td>$$CO_2$$ cost</td><td>€/a</td><td></td></tr><tr><td>$$C_{tot,sys}^{an}$$</td><td><p>TOTEX</p><p>(–)</p></td><td>€/a</td><td></td></tr><tr><td>$$IIV_{sys}$$</td><td>Initial investment</td><td>k€</td><td></td></tr><tr><td>$$E_{dm,sys}^{an}$$</td><td>Total energy demand</td><td>kWh</td><td></td></tr><tr><td>$$LCE_{tot,sys}^{an}$$</td><td><p>LCoE</p><p>(Levelized cost of energy)</p></td><td>€/kWh</td><td></td></tr><tr><td>$${CO_2}_{tot,sys}^{an}$$</td><td><p>$$Tot. CO_2$$</p><p>$$(Total CO_2 emissions)$$</p></td><td>t</td><td></td></tr><tr><td>$$E_{imp,sys}^{an}$$</td><td>Import</td><td>kWh</td><td></td></tr><tr><td>$$E_{res,sys}^{an}$$</td><td>Total renewable energy</td><td>kWh</td><td></td></tr><tr><td>$$E_{exp,sys}^{an}$$</td><td><p>Feed-in</p><p>(Total grid export</p></td><td>kWh</td><td></td></tr><tr><td>$$E_{gen,sys}^{an}$$</td><td><p>Generation</p><p>(Annual production)</p></td><td>kWh</td><td></td></tr><tr><td>$$y_{res,sys}^{an}$$</td><td>Renewable share</td><td>%</td><td></td></tr></tbody></table>
