@@ -13,18 +13,13 @@ serves as a comprehensive reference for abbreviations and technical terms used t
 
 ### KPI formulas
 
-<table><thead><tr><th>Symbol</th><th width="66.33333333333331">Uom</th><th>Explanation</th></tr></thead><tbody><tr><td><span class="math">ANF_*</span></td><td>na</td><td>Annuity factor</td></tr><tr><td><span class="math">Cap_*</span></td><td>kWh</td><td>Capacity rated power size</td></tr><tr><td><span class="math">P_{max,*}</span></td><td>kW</td><td>Peak power(resources)</td></tr><tr><td>IIV</td><td>€</td><td>Initial investment</td></tr><tr><td><span class="math">C_{tot,*}^{an}</span></td><td>€/a</td><td>Annualized total cost</td></tr><tr><td><span class="math">C_{cp,*}^{an}</span></td><td>€/a</td><td>Annualized CAPEX</td></tr><tr><td><span class="math">C_{op,*}^{an}</span></td><td>€/a</td><td>Annualized OPEX</td></tr><tr><td><span class="math">I_{op,*}^{an}</span></td><td>€/a</td><td>Annualized operati. income</td></tr><tr><td><span class="math">CO_{2,*}^{an}</span></td><td>t</td><td>Annualized <span class="math">CO_2</span> equiv.</td></tr><tr><td><span class="math">E_{prt,*}^{an}</span></td><td>kWh</td><td>Annualized energy (@port)</td></tr><tr><td><span class="math">P_{prt,*}^{(t)}</span></td><td>kW</td><td>Power flow (@port)</td></tr><tr><td>CAPEX</td><td>€</td><td>Capital expenses</td></tr><tr><td>OPEX</td><td>€</td><td>Operating expenses</td></tr><tr><td>Op. Income</td><td>€</td><td>Operating income</td></tr><tr><td>Residual value</td><td>€</td><td>Residual value</td></tr><tr><td></td><td></td><td><span class="math">f(x) = x * e^{2 pi i \xi x}</span></td></tr></tbody></table>
+<table><thead><tr><th width="118">Symbol</th><th width="89.33333333333331">Uom</th><th>Explanation</th></tr></thead><tbody><tr><td><span class="math">ANF_*</span></td><td>na</td><td>Annuity factor</td></tr><tr><td><span class="math">Cap_*</span></td><td>kWh</td><td>Capacity rated power size</td></tr><tr><td><span class="math">P_{max,*}</span></td><td>kW</td><td>Peak power(resources)</td></tr><tr><td>IIV</td><td>€</td><td>Initial investment</td></tr><tr><td><span class="math">C_{tot,*}^{an}</span></td><td>€/a</td><td>Annualized total cost</td></tr><tr><td><span class="math">C_{cp,*}^{an}</span></td><td>€/a</td><td>Annualized CAPEX</td></tr><tr><td><span class="math">C_{op,*}^{an}</span></td><td>€/a</td><td>Annualized OPEX</td></tr><tr><td><span class="math">I_{op,*}^{an}</span></td><td>€/a</td><td>Annualized operati. income</td></tr><tr><td><span class="math">CO_{2,*}^{an}</span></td><td>t</td><td>Annualized <span class="math">CO_2</span> equiv.</td></tr><tr><td><span class="math">E_{prt,*}^{an}</span></td><td>kWh</td><td>Annualized energy (@port)</td></tr><tr><td><span class="math">P_{prt,*}^{(t)}</span></td><td>kW</td><td>Power flow (@port)</td></tr><tr><td>CAPEX</td><td>€</td><td>Capital expenses</td></tr><tr><td>OPEX</td><td>€</td><td>Operating expenses</td></tr><tr><td>Op. Income</td><td>€</td><td>Operating income</td></tr><tr><td>Residual value</td><td>€</td><td>Residual value</td></tr><tr><td></td><td></td><td><span class="math">f(x) = x * e^{2 pi i \xi x}</span></td></tr></tbody></table>
 
 ### Results dashboards(single scenario)
 
 #### Cost analysis
 
-| Name           | Unit of Measurement | Definition                              |
-| -------------- | ------------------- | --------------------------------------- |
-| CAPEX          | €                   | {IIV (auf NPV) } for each...lifetime... |
-| OPEX           | €                   | rstOPX\*1a(auf NPV)                     |
-| OP. Income     | €                   | RstOPI \* 1a (auf NPV)                  |
-| Residual value | €                   | … (auf NPV)                             |
+<table><thead><tr><th width="163.33333333333331">Name</th><th width="86">Uom</th><th>Definition</th></tr></thead><tbody><tr><td>CAPEX</td><td>€</td><td>{IIV (auf NPV) } for each...lifetime...</td></tr><tr><td>OPEX</td><td>€</td><td>rstOPX*1a(auf NPV)</td></tr><tr><td>OP. Income</td><td>€</td><td>RstOPI * 1a (auf NPV)</td></tr><tr><td>Residual value</td><td>€</td><td>… (auf NPV)</td></tr></tbody></table>
 
 ### Output report (single scenario)
 
