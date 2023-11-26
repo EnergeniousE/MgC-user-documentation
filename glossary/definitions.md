@@ -66,20 +66,5 @@ serves as a comprehensive reference for abbreviations and technical terms used t
 <table><thead><tr><th width="118">Number</th><th>Name</th><th>Symbol</th><th width="79">Uom</th><th width="200">Mathematical formula</th><th>Explanation</th></tr></thead><tbody><tr><td>1</td><td>CAPEX</td><td><span class="math">C_{cp,sys}^{an}</span></td><td>€/a</td><td></td><td>Annuity factor</td></tr><tr><td><span class="math">C_{op,sys}^{an}</span></td><td></td><td>C_{cp,sys}^{an}</td><td>€/a</td><td></td><td>Capacity rated power size</td></tr><tr><td></td><td></td><td></td><td>€/a</td><td></td><td>Peak power(resources)</td></tr><tr><td></td><td></td><td></td><td>€/a</td><td></td><td>Initial investment</td></tr><tr><td></td><td></td><td></td><td>€/a</td><td></td><td>Annualized total cost</td></tr></tbody></table>
 
 
-
-
-
-<table><thead><tr><th width="113">Number</th><th width="93">Name</th><th width="136">Symbol</th><th width="72">Uom</th><th width="210">Mathematical formula</th><th>Explanation</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
 <table><thead><tr><th width="151">Symbol</th><th width="164">Name</th><th width="192">Unit of Measurement</th><th>Definition</th></tr></thead><tbody><tr><td>$$C_{cp,sys}^{an}$$</td><td><p>CAPEX (an)</p><p>(–)</p></td><td>€/a</td><td></td></tr><tr><td>$$C_{op,sys}^{an}$$</td><td><p>$$OPEX_{(an)(-)}$$</p><p>(–)</p></td><td>€/a</td><td></td></tr><tr><td>$$I_{op,sys}^{an}$$</td><td>OPIN_{(an)(-)}$$</td><td>€/a</td><td></td></tr><tr><td>$$C_{CO_[2],sys}^{an}$$</td><td>$$CO_2$$ cost</td><td>€/a</td><td></td></tr><tr><td>$$C_{tot,sys}^{an}$$</td><td><p>TOTEX</p><p>(–)</p></td><td>€/a</td><td></td></tr><tr><td>$$IIV_{sys}$$</td><td>Initial investment</td><td>k€</td><td></td></tr><tr><td>$$E_{dm,sys}^{an}$$</td><td>Total energy demand</td><td>kWh</td><td></td></tr><tr><td>$$LCE_{tot,sys}^{an}$$</td><td><p>LCoE</p><p>(Levelized cost of energy)</p></td><td>€/kWh</td><td></td></tr><tr><td>$${CO_2}_{tot,sys}^{an}$$</td><td><p>$$Tot. CO_2$$</p><p>$$(Total CO_2 emissions)$$</p></td><td>t</td><td></td></tr><tr><td>$$E_{imp,sys}^{an}$$</td><td>Import</td><td>kWh</td><td></td></tr><tr><td>$$E_{res,sys}^{an}$$</td><td>Total renewable energy</td><td>kWh</td><td></td></tr><tr><td>$$E_{exp,sys}^{an}$$</td><td><p>Feed-in</p><p>(Total grid export</p></td><td>kWh</td><td></td></tr><tr><td>$$E_{gen,sys}^{an}$$</td><td><p>Generation</p><p>(Annual production)</p></td><td>kWh</td><td></td></tr><tr><td>$$y_{res,sys}^{an}$$</td><td>Renewable share</td><td>%</td><td></td></tr></tbody></table>
 
