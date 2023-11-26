@@ -13,24 +13,7 @@ serves as a comprehensive reference for abbreviations and technical terms used t
 
 ### KPI formulas
 
-| Symbol              | Unit of Measurment | Explanation                     |
-| ------------------- | ------------------ | ------------------------------- |
-| $$ANF_*$$           | na                 | Annuity factor                  |
-| $$Cap_*$$           | kWh                | Capacity rated power size       |
-| $$P_{max,*}$$       | kW                 | Peak power(resources)           |
-| IIV                 | €                  | Initial investment              |
-| $$C_{tot,*}^{an}$$  | €/a                | Annualized total cost           |
-| $$C_{cp,*}^{an}$$   | €/a                | Annualized CAPEX                |
-| $$C_{op,*}^{an}$$   | €/a                | Annualized OPEX                 |
-| $$I_{op,*}^{an}$$   | €/a                | Annualized operati. income      |
-| $$CO_{2,*}^{an}$$   | t                  | Annualized $$CO_2$$ equiv.      |
-| $$E_{prt,*}^{an}$$  | kWh                | Annualized energy (@port)       |
-| $$P_{prt,*}^{(t)}$$ | kW                 | Power flow (@port)              |
-| CAPEX               | €                  | Capital expenses                |
-| OPEX                | €                  | Operating expenses              |
-| Op. Income          | €                  | Operating income                |
-| Residual value      | €                  | Residual value                  |
-|                     |                    | $$f(x) = x * e^{2 pi i \xi x}$$ |
+<table><thead><tr><th>Symbol</th><th width="66.33333333333331">Uom</th><th>Explanation</th></tr></thead><tbody><tr><td><span class="math">ANF_*</span></td><td>na</td><td>Annuity factor</td></tr><tr><td><span class="math">Cap_*</span></td><td>kWh</td><td>Capacity rated power size</td></tr><tr><td><span class="math">P_{max,*}</span></td><td>kW</td><td>Peak power(resources)</td></tr><tr><td>IIV</td><td>€</td><td>Initial investment</td></tr><tr><td><span class="math">C_{tot,*}^{an}</span></td><td>€/a</td><td>Annualized total cost</td></tr><tr><td><span class="math">C_{cp,*}^{an}</span></td><td>€/a</td><td>Annualized CAPEX</td></tr><tr><td><span class="math">C_{op,*}^{an}</span></td><td>€/a</td><td>Annualized OPEX</td></tr><tr><td><span class="math">I_{op,*}^{an}</span></td><td>€/a</td><td>Annualized operati. income</td></tr><tr><td><span class="math">CO_{2,*}^{an}</span></td><td>t</td><td>Annualized <span class="math">CO_2</span> equiv.</td></tr><tr><td><span class="math">E_{prt,*}^{an}</span></td><td>kWh</td><td>Annualized energy (@port)</td></tr><tr><td><span class="math">P_{prt,*}^{(t)}</span></td><td>kW</td><td>Power flow (@port)</td></tr><tr><td>CAPEX</td><td>€</td><td>Capital expenses</td></tr><tr><td>OPEX</td><td>€</td><td>Operating expenses</td></tr><tr><td>Op. Income</td><td>€</td><td>Operating income</td></tr><tr><td>Residual value</td><td>€</td><td>Residual value</td></tr><tr><td></td><td></td><td><span class="math">f(x) = x * e^{2 pi i \xi x}</span></td></tr></tbody></table>
 
 ### Results dashboards(single scenario)
 
