@@ -21,14 +21,69 @@ This section serves as a comprehensive reference for abbreviations and technical
 
 ### KPI formula reference
 
-<table><thead><tr><th width="203">Name</th><th width="99">Symbol</th><th width="71">Uom</th><th width="197">Mathematical formula</th><th>Explanation</th></tr></thead><tbody><tr><td>CAPEX annualized</td><td><span class="math">C_{cp,sys}^{an}</span></td><td>€/a</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}C_{cp,*}^{an}</span></td><td>Annual capital expenditure.</td></tr><tr><td>OPEX annualized</td><td><span class="math">C_{op,sys}^{an}</span></td><td>€/a</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}C_{op,*}^{an}</span></td><td>Annual operating expenditure.</td></tr><tr><td>OPIN annualized</td><td><span class="math">I_{op,sys}^{an}</span></td><td>€/a</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}I_{op,*}^{an}</span></td><td></td></tr><tr><td><span class="math">CO_2</span> cost</td><td><span class="math">C_{CO_2{,sys}}^{an}</span></td><td>€/a</td><td><span class="math">CO_2 </span>price x <span class="math">CO_{2 tot,sys}^{an}</span></td><td></td></tr><tr><td>TOTEX</td><td><span class="math">C_{tot,sys}^{an}</span></td><td>€/a</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}C_{tot,*}^{an}</span></td><td>Annual total expenditure</td></tr><tr><td>Initial investment</td><td><span class="math">IIV_{sys}</span></td><td>k€</td><td><span class="math">\frac{\displaystyle\sum_{o=1}^{all*}IIV_{*}}{1000}</span></td><td>Investment at the starting of the project.</td></tr><tr><td>Total energy demand</td><td><span class="math">E_{dm,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{I=1}^{LG1}E_{I}^{an}</span></td><td></td></tr><tr><td><p>LCoE</p><p>(Levelized cost of energy)</p></td><td><span class="math">LCE_{tot,sys}^{an}</span></td><td>€/kWh</td><td><span class="math">\frac{C_{tot,sys}^{an}}{E_{dm,sys}^{an}}</span></td><td>Annualized total cost of a system relative to the total energy demand of that system.</td></tr><tr><td>Total <span class="math">CO_{2}</span> emissions</td><td><span class="math">CO_{{2}tot,sys}^{an}</span></td><td>t</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}C_{tot,*}^{an}</span></td><td>Sum of the annualized total cost for all entities in a given set.</td></tr><tr><td>Total energy Import</td><td><span class="math">E_{imp,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{r=1}^{RG1}E_{r}^{an}</span></td><td></td></tr><tr><td>Total renewable energy</td><td><span class="math">E_{res,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{r=1}^{RG2}E_{r}^{an}</span></td><td></td></tr><tr><td><p>Feed-in</p><p>(Total grid export)</p></td><td><span class="math">E_{exp,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{r=1}^{RG3}E_{r}^{an}</span></td><td></td></tr><tr><td><p>Energy generation</p><p>(Annual production)</p></td><td><span class="math">E_{gen,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{r=1}^{RG4,TG6,TG7,TG8}E_{r}^{an}</span></td><td></td></tr><tr><td>Renewable share</td><td><span class="math">y_{res,sys}^{an}</span></td><td>%</td><td><span class="math">\frac{E_{res,sys}^{an}}{E_{res,sys}^{an}+E_{gen,sys}^{an}+E_{imp,sys}^{an}}</span></td><td></td></tr><tr><td>Share contribution</td><td><span class="math">y_{part,*}^{an}</span></td><td>%</td><td><span class="math">\frac{abs(E_{part,*}^{an}}{E_{gen,sys}^{an}+E_{dm,sys}^{an}}</span></td><td>Percentage of the absolute value of the annualized energy for a specific entity relative to the sum of the annualized generation and energy demand for the entire system.</td></tr><tr><td>Full load hours</td><td><span class="math">FLH_*</span></td><td>h/a</td><td><span class="math">\frac{abs(E_{part,*}^{an}}{Cap_{*}}</span></td><td>Ratio of absolute value of annualized energy for a specific equipment <em>to its corresponding capacity.</em></td></tr><tr><td>Hours of use</td><td><span class="math">hou_*</span></td><td>h/a</td><td>---</td><td></td></tr><tr><td>Annual <span class="math">CO_2 </span>emissions</td><td><span class="math">CO_{2,*}^{an}</span></td><td>t/a</td><td>---</td><td></td></tr><tr><td>Annual penalty costs</td><td><span class="math">C_{CO_{2,*}}^{an}</span></td><td>€/a</td><td><span class="math">c_{CO_{2,sys}}CO_{2*}^{an}</span></td><td>Annualized carbon dioxide emissions associated with a cost of penalty for carbondioxide emissions of a specific system</td></tr><tr><td>Emission cost share</td><td><span class="math">y_{CO_{2,*}}^{an}</span></td><td>%</td><td><span class="math">\frac{CO_{2,*}^{an}}{CO_{2,sys}^{an}}</span></td><td>Ratio of annualized carbon dioxide emissions for a specific entity (*) to the total annualized carbon dioxide emissions of the entire system.</td></tr></tbody></table>
+<table><thead><tr><th width="203">Name</th><th width="99">Symbol</th><th width="71">Uom</th><th width="197">Mathematical formula</th><th>Explanation</th></tr></thead><tbody><tr><td>CAPEX annualized</td><td><span class="math">C_{cp,sys}^{an}</span></td><td>€/a</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}C_{cp,*}^{an}</span></td><td>Annual capital expenditure.</td></tr><tr><td>OPEX annualized</td><td><span class="math">C_{op,sys}^{an}</span></td><td>€/a</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}C_{op,*}^{an}</span></td><td>Annual operating expenditure.</td></tr><tr><td>OPIN annualized</td><td><span class="math">I_{op,sys}^{an}</span></td><td>€/a</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}I_{op,*}^{an}</span></td><td></td></tr><tr><td><span class="math">CO_2</span> cost</td><td><span class="math">C_{CO_2{,sys}}^{an}</span></td><td>€/a</td><td><span class="math">CO_2 </span>price x <span class="math">CO_{2 tot,sys}^{an}</span></td><td></td></tr><tr><td>TOTEX</td><td><span class="math">C_{tot,sys}^{an}</span></td><td>€/a</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}C_{tot,*}^{an}</span></td><td>Annual total expenditure</td></tr><tr><td>Initial investment</td><td><span class="math">IIV_{sys}</span></td><td>k€</td><td><span class="math">\frac{\displaystyle\sum_{o=1}^{all*}IIV_{*}}{1000}</span></td><td>Investment at the starting of the project.</td></tr><tr><td>Total energy demand</td><td><span class="math">E_{dm,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{I=1}^{LG1}E_{dm}^{an}</span></td><td></td></tr><tr><td><p>LCoE</p><p>(Levelized cost of energy)</p></td><td><span class="math">LCE_{tot,sys}^{an}</span></td><td>€/kWh</td><td><span class="math">\frac{C_{tot,sys}^{an}}{E_{dm,sys}^{an}}</span></td><td>Annualized total cost of a system relative to the total energy demand of that system.</td></tr><tr><td>Total <span class="math">CO_{2}</span> emissions</td><td><span class="math">CO_{{2}tot,sys}^{an}</span></td><td>t</td><td><span class="math">\displaystyle\sum_{o=1}^{all*}CO_{2}{tot,*}^{an}</span></td><td>Sum of the annualized total cost for all entities in a given set.</td></tr><tr><td>Total energy Import</td><td><span class="math">E_{imp,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{r=1}^{RG1}E_{r}^{an}</span></td><td></td></tr><tr><td>Total renewable energy</td><td><span class="math">E_{res,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{r=1}^{RG2}E_{r}^{an}</span></td><td></td></tr><tr><td><p>Feed-in</p><p>(Total grid export)</p></td><td><span class="math">E_{exp,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{r=1}^{RG3}E_{r}^{an}</span></td><td></td></tr><tr><td><p>Energy generation</p><p>(Annual production)</p></td><td><span class="math">E_{gen,sys}^{an}</span></td><td>kWh</td><td><span class="math">\displaystyle\sum_{r=1}^{RG4,TG6,TG7,TG8}E_{r}^{an}</span></td><td></td></tr><tr><td>Renewable share</td><td><span class="math">y_{res,sys}^{an}</span></td><td>%</td><td><span class="math">\frac{E_{res,sys}^{an}}{E_{res,sys}^{an}+E_{gen,sys}^{an}+E_{imp,sys}^{an}}</span></td><td></td></tr><tr><td>Share contribution</td><td><span class="math">y_{part,*}^{an}</span></td><td>%</td><td><span class="math">\frac{abs(E_{part,*}^{an})}{E_{gen,sys}^{an}+E_{dm,sys}^{an}}</span></td><td>Percentage of the absolute value of the annualized energy for a specific entity relative to the sum of the annualized generation and energy demand for the entire system.</td></tr><tr><td>Full load hours</td><td><span class="math">FLH_*</span></td><td>h/a</td><td><span class="math">\frac{abs(E_{part,*}^{an})}{Cap_{*}}</span></td><td>Ratio of absolute value of annualized energy for a specific equipment <em>to its corresponding capacity.</em></td></tr><tr><td>Hours of use</td><td><span class="math">hou_*</span></td><td>h/a</td><td>---</td><td></td></tr><tr><td>Annual <span class="math">CO_2 </span>emissions</td><td><span class="math">CO_{2,*}^{an}</span></td><td>t/a</td><td>---</td><td></td></tr><tr><td>Annual penalty costs</td><td><span class="math">C_{CO_{2,*}}^{an}</span></td><td>€/a</td><td><span class="math">c_{CO_{2,sys}}CO_{2*}^{an}</span></td><td>Annualized carbon dioxide emissions associated with a cost of penalty for carbondioxide emissions of a specific system</td></tr><tr><td>Emission cost share</td><td><span class="math">y_{CO_{2,*}}^{an}</span></td><td>%</td><td><span class="math">\frac{CO_{2,*}^{an}}{CO_{2,sys}^{an}}</span></td><td>Ratio of annualized carbon dioxide emissions for a specific entity (*) to the total annualized carbon dioxide emissions of the entire system.</td></tr></tbody></table>
 
 Formula entities
 
 
+####Technologies
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| ID  |  Technology name     |   |
+| -   | -                    | - |
+| T1  |  Photovoltaic        |  
+| T2  |  Wind turbine        |  
+| T3  |  CHP                 | 
+| T4  |  Battery             |
+| T5  |  E-grid              |
+| T6  |  Electric generator  |
+| T7  |  Boiler              |
+| T8  |  E-heater            |
+| T9  |  Evse                |
+| T10 |  Fuel cell           |
+
+####Resources
+
+|  ID  |  Resource name |   |
+| -    | -              | - |
+|  R1  |  Weather       |
+|  R2  |  Electricity   |
+|  R3  |  Natural-gas   |
+|  R4  |  Feed-In       |
+|  R5  |  onSite        |
+
+
+####Loads
+
+|  ID  |  Type of loads  |   
+| -    | -               | 
+|  L1  |  Electric-load  |
+|  L2  |  Cooling.load   |
+|  L3  |  Healting-load  |
+
+####Groupings in the formulas
+
+|  ID   |  Group name                     |  Types included                                                                  |
+|   -   |   -                             |   -                                                                              |
+|  TG1  |  Dispatchable                   |  T3, T6, T7, T8, T9, T12, T14                                                    |
+|  TG2  |  Non-Dispatchable               |  T1, T2                                                                          |
+|  TG3  |  Storage                        |  T4, T10, T11                                                                    |
+|  TG4  |  Other                          |  -                                                                               |
+|  TG5  |  Energy demand-electricity      |  T8, T9, T12, T14, T13                                                           |
+|  TG6  |  Energy generation-cold         |  T12                                                                             |
+|  TG7  |  Energy generators-electricity  |  T1, T2, T3, T6                                                                  |
+|  TG8  |  Energy generators-heat         |  T3, T7, T8, T9                                                                  |   
+|  LG1  |  Total demand                   |  L1, L2, L3                                                                      |
+|  RG1  |  Grid import                    |  All element with type “rsc” whose energy value is < 0                           |
+|  RG2  |  Renewables                     |  All element with type “ugn” whose energy value is < 0                           |
+|  RG3  |  Feed-in                        |  All element with type “rsc” and __typename “Carrier” whose energy value is > 0  |
+|  RG4  |  Generation                     |  T5, R2                                                                          |
+|  RG5  |  Demand                         |  R4                                                                              |
+
+
+
+
+
+
+
+
+
