@@ -30,5 +30,4 @@
   * [FAQ´s](troubleshooting/faq-s.md)
 * [Work in Progress! Glossary](glossary/README.md)
   * [Abbreviations and technical terminology](glossary/definitions.md)
-  * [Page](glossary/page.md)
   * [Stay connected and updated](glossary/stay-connected-and-updated.md)
