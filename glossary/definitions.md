@@ -28,56 +28,56 @@ Formula entities
 
 Technologies
 
-| ID  |  Technology name     |   
-| -   | -                    | 
-| T1  |  Photovoltaic        |  
-| T2  |  Wind turbine        |  
-| T3  |  CHP                 | 
-| T4  |  Battery             |
-| T5  |  E-grid              |
-| T6  |  Electric generator  |
-| T7  |  Boiler              |
-| T8  |  E-heater            |
-| T9  |  Evse                |
-| T10 |  Fuel cell           |
+|ID |  Technology name     |   
+|-  | -                    | 
+|T1 |  Photovoltaic        |  
+|T2 |  Wind turbine        |  
+|T3 |  CHP                 | 
+|T4 |  Battery             |
+|T5 |  E-grid              |
+|T6 |  Electric generator  |
+|T7 |  Boiler              |
+|T8 |  E-heater            |
+|T9 |  Evse                |
+|T10|  Fuel cell           |
 
 Resources
 
-|  ID  |  Resource name | 
-| -    | -              | 
-|  R1  |  Weather       |
-|  R2  |  Electricity   |
-|  R3  |  Natural-gas   |
-|  R4  |  Feed-In       |
-|  R5  |  onSite        |
+|ID|  Resource name | 
+|- | -              | 
+|R1|  Weather       |
+|R2|  Electricity   |
+|R3|  Natural-gas   |
+|R4|  Feed-In       |
+|R5|  onSite        |
 
 
 Loads
 
-|  ID  |  Type of loads  |   
-| -    | -               | 
-|  L1  |  Electric-load  |
-|  L2  |  Cooling.load   |
-|  L3  |  Healting-load  |
+|ID|  Type of loads  |   
+|- | -               | 
+|L1|  Electric-load  |
+|L2|  Cooling.load   |
+|L3|  Healting-load  |
 
 Groupings in the formulas
 
-|  ID   |  Group name                     |  Types included                                                                  |
-|   -   |   -                             |   -                                                                              |
-|  TG1  |  Dispatchable                   |  T3, T6, T7, T8, T9, T12, T14                                                    |
-|  TG2  |  Non-Dispatchable               |  T1, T2                                                                          |
-|  TG3  |  Storage                        |  T4, T10, T11                                                                    |
-|  TG4  |  Other                          |  -                                                                               |
-|  TG5  |  Energy demand-electricity      |  T8, T9, T12, T14, T13                                                           |
-|  TG6  |  Energy generation-cold         |  T12                                                                             |
-|  TG7  |  Energy generators-electricity  |  T1, T2, T3, T6                                                                  |
-|  TG8  |  Energy generators-heat         |  T3, T7, T8, T9                                                                  |   
-|  LG1  |  Total demand                   |  L1, L2, L3                                                                      |
-|  RG1  |  Grid import                    |  All element with type “rsc” whose energy value is < 0                           |
-|  RG2  |  Renewables                     |  All element with type “ugn” whose energy value is < 0                           |
-|  RG3  |  Feed-in                        |  All element with type “rsc” and __typename “Carrier” whose energy value is > 0  |
-|  RG4  |  Generation                     |  T5, R2                                                                          |
-|  RG5  |  Demand                         |  R4                                                                              |
+|ID |  Group name                     |  Types included                                                                  |
+|-  |   -                             |   -                                                                              |
+|TG1|  Dispatchable                   |  T3, T6, T7, T8, T9, T12, T14                                                    |
+|TG2|  Non-Dispatchable               |  T1, T2                                                                          |
+|TG3|  Storage                        |  T4, T10, T11                                                                    |
+|TG4|  Other                          |  -                                                                               |
+|TG5|  Energy demand-electricity      |  T8, T9, T12, T14, T13                                                           |
+|TG6|  Energy generation-cold         |  T12                                                                             |
+|TG7|  Energy generators-electricity  |  T1, T2, T3, T6                                                                  |
+|TG8|  Energy generators-heat         |  T3, T7, T8, T9                                                                  |   
+|LG1|  Total demand                   |  L1, L2, L3                                                                      |
+|RG1|  Grid import                    |  All element with type “rsc” whose energy value is < 0                           |
+|RG2|  Renewables                     |  All element with type “ugn” whose energy value is < 0                           |
+|RG3|  Feed-in                        |  All element with type “rsc” and __typename “Carrier” whose energy value is > 0  |
+|RG4|  Generation                     |  T5, R2                                                                          |
+|RG5|  Demand                         |  R4                                                                              |
 
 
 
