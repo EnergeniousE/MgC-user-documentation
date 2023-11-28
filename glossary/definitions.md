@@ -26,10 +26,10 @@ This section serves as a comprehensive reference for abbreviations and technical
 Formula entities
 
 
-####Technologies
+Technologies
 
-| ID  |  Technology name     |   |
-| -   | -                    | - |
+| ID  |  Technology name     |   
+| -   | -                    | 
 | T1  |  Photovoltaic        |  
 | T2  |  Wind turbine        |  
 | T3  |  CHP                 | 
@@ -41,10 +41,10 @@ Formula entities
 | T9  |  Evse                |
 | T10 |  Fuel cell           |
 
-####Resources
+Resources
 
-|  ID  |  Resource name |   |
-| -    | -              | - |
+|  ID  |  Resource name | 
+| -    | -              | 
 |  R1  |  Weather       |
 |  R2  |  Electricity   |
 |  R3  |  Natural-gas   |
@@ -52,7 +52,7 @@ Formula entities
 |  R5  |  onSite        |
 
 
-####Loads
+Loads
 
 |  ID  |  Type of loads  |   
 | -    | -               | 
@@ -60,7 +60,7 @@ Formula entities
 |  L2  |  Cooling.load   |
 |  L3  |  Healting-load  |
 
-####Groupings in the formulas
+Groupings in the formulas
 
 |  ID   |  Group name                     |  Types included                                                                  |
 |   -   |   -                             |   -                                                                              |
