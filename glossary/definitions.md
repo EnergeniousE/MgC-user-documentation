@@ -31,4 +31,5 @@ This section serves as a comprehensive reference for abbreviations and technical
 
 Formula entities
 
+
 <table><thead><tr><th width="100">ID</th><th>Technology name</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
