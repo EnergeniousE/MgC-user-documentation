@@ -14,7 +14,7 @@
     * [Branch creation and setup](user-interface-ui-navigation/project-setup-and-simulation/branch-creation-and-setup.md)
     * [Component creation and setup](user-interface-ui-navigation/project-setup-and-simulation/component-creation-and-setup.md)
     * [Project simulation](user-interface-ui-navigation/project-setup-and-simulation/project-simulation.md)
-* [Data analysis and visualization](data-analysis-and-visualization/README.md)
+* [MgC performance analytics and features](data-analysis-and-visualization/README.md)
   * [Sensitivity analysis](data-analysis-and-visualization/sensitivity-analysis.md)
   * [Key Performance Indicators(KPI´s)](data-analysis-and-visualization/key-performance-indicators-kpi-s.md)
   * [Project results](data-analysis-and-visualization/project-results.md)
