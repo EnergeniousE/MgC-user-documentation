@@ -96,4 +96,4 @@ Explore the KPIs that steer project towards cost-efficiency, reduced emissions, 
 
 As part of MgC (Microgrid Control), the system overview showcases post-simulation results, presenting the project's essential Key Performance Indicators (KPIs) in the report. This feature provides precise and relevant data for assessing and optimizing the system's key parameters, offering valuable insights for informed decision-making and performance evaluation within the microgrid. Utilizing MgC's insights into these factors optimizes project outcomes, promoting efficiency and sustainability.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>Performance indicators after the project simulation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption><p>Performance indicators after the project simulation</p></figcaption></figure>

@@ -1,6 +1,7 @@
 # Table of contents
 
-* [MicrogridCreator (MgC)](README.md)
+* [Table of contents](README.md)
+* [MicrogridCreator (MgC)](<README (1).md>)
   * [MgC features](microgridcreator-mgc/mgc-features.md)
   * [System requirements](microgridcreator-mgc/system-requirements.md)
   * [Getting started](microgridcreator-mgc/getting-started.md)
@@ -13,11 +14,11 @@
     * [Branch creation and setup](user-interface-ui-navigation/project-setup-and-simulation/branch-creation-and-setup.md)
     * [Component creation and setup](user-interface-ui-navigation/project-setup-and-simulation/component-creation-and-setup.md)
     * [Project simulation](user-interface-ui-navigation/project-setup-and-simulation/project-simulation.md)
-    * [Project results](user-interface-ui-navigation/project-setup-and-simulation/project-results.md)
-  * [Save and exporting the project](user-interface-ui-navigation/save-and-exporting-the-project.md)
 * [Data analysis and visualization](data-analysis-and-visualization/README.md)
   * [Sensitivity analysis](data-analysis-and-visualization/sensitivity-analysis.md)
   * [Key Performance Indicators(KPI´s)](data-analysis-and-visualization/key-performance-indicators-kpi-s.md)
+  * [Project results](data-analysis-and-visualization/project-results.md)
+  * [Save and exporting the project](data-analysis-and-visualization/save-and-exporting-the-project.md)
 * [Modeling and Optimization](modeling-and-optimization/README.md)
   * [Modeling](modeling-and-optimization/modeling/README.md)
     * [Modeling approach](modeling-and-optimization/modeling/modeling-approach.md)

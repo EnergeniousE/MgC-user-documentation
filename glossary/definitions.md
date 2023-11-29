@@ -43,10 +43,12 @@ Similarly, resources are indicated in the same manner as described above.
 
 This identical approach is seamlessly extended to denote loads within the system.
 
-<table><thead><tr><th width="87">ID</th><th>Type of loads</th></tr></thead><tbody><tr><td>L1</td><td>Electric-load</td></tr><tr><td>L2</td><td>Cooling.load</td></tr><tr><td>L3</td><td>Healting-load</td></tr></tbody></table>
+<table><thead><tr><th width="87">ID</th><th>Type of loads</th></tr></thead><tbody><tr><td>L1</td><td>Electric-loads (battery, e-loads, charging stations, electric vehicles etc)</td></tr><tr><td>L2</td><td>Cooling.loads (hot storage, heat loads etc)</td></tr><tr><td>L3</td><td>Healting-loads (cooling loads, cold storage, etc)</td></tr></tbody></table>
 
 ### Groupings
 
 The solver leverages the categorized groupings of resources, loads, and technologies in MgC, optimizing efficiency and enabling effective problem-solving.
 
 <table><thead><tr><th width="88.33333333333331">ID</th><th width="259">Group name</th><th>Types included</th></tr></thead><tbody><tr><td>TG1</td><td>Dispatchable</td><td>T3, T6, T7, T8, T9, T12, T14</td></tr><tr><td>TG2</td><td>Non-Dispatchable</td><td>T1, T2</td></tr><tr><td>TG3</td><td>Storage</td><td>T4, T10, T11</td></tr><tr><td>TG4</td><td>Other</td><td>-</td></tr><tr><td>TG5</td><td>Energy demand-electricity</td><td>T8, T9, T12, T14, T13</td></tr><tr><td>TG6</td><td>Energy generation-cold</td><td>T12</td></tr><tr><td>TG7</td><td>Energy generators-electricity</td><td>T1, T2, T3, T6</td></tr><tr><td>TG8</td><td>Energy generators-heat</td><td>T3, T7, T8, T9</td></tr><tr><td>LG1</td><td>Total demand</td><td>L1, L2, L3</td></tr><tr><td>RG1</td><td>Grid import</td><td>All element with type “rsc” whose energy value is &#x3C; 0</td></tr><tr><td>RG2</td><td>Renewables</td><td>All element with type “ugn” whose energy value is &#x3C; 0</td></tr><tr><td>RG3</td><td>Feed-in</td><td>All element with type “rsc” and __typename “Carrier” whose energy value is > 0</td></tr><tr><td>RG4</td><td>Generation</td><td>T5, R2</td></tr><tr><td>RG5</td><td>Demand</td><td>R4</td></tr></tbody></table>
+
+For additional information about MgC or if you need support, kindly find further assistance on the next page [stay connected and updated](stay-connected-and-updated.md) for comprehensive assistance.
