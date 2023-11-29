@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Table of contents](README.md)
+* [Comprehending MgC: A Professional guide to MicrogridCreator](README.md)
 * [MicrogridCreator (MgC)](<README (1).md>)
   * [MgC features](microgridcreator-mgc/mgc-features.md)
   * [System requirements](microgridcreator-mgc/system-requirements.md)

@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Table of contents
+# Comprehending MgC: A Professional guide to MicrogridCreator
 
-Discover the power of MgC with our Table of Contents. Dive into microgrid design and optimization with this user documentationeffortlessly.&#x20;
+Discover the potential of MgC with the following roadmap. Dive into microgrid design and optimization with this user documentation effortlessly.&#x20;
 
 MgC's comprehensive guide covers microgrid design tools, analytics, modeling, support resources, and a glossary for clear navigation and understanding.
 
