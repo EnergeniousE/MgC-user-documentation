@@ -16,9 +16,7 @@ layout:
     visible: true
 ---
 
-# Work in Progress! Glossary
-
-<mark style="color:red;">**##Work in Progress!##**</mark>
+# Glossary
 
 This section provides the list of key terms and concepts related to microgrid technology and the MgC software. Understanding these terms will enhance the user knowledge and proficiency in using MgC for microgrid design and optimization.
 
