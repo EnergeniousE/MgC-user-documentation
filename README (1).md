@@ -1,14 +1,14 @@
 ---
 description: >-
-  MicrogridCreator: Streamlined simulation and optimization of microgrids.
-  Simplifying complex decentralized energy systems for developers and end-users.
-  Cloud-based for seamless accessibility.
+  MgC: Streamlined simulation and optimization of microgrids. Simplifying
+  complex decentralized energy systems for developers and end-users. Cloud-based
+  for seamless accessibility.
 coverY: 0
 ---
 
 # MicrogridCreator (MgC)
 
-**MicrogridCreator** is a powerful and easy-to-use microgrid simulation and optimization engine. It helps developers and end users plan, design and optimize complex sector-coupled decentralized energy systems. The final version of **MicrogridCreator** is a cloud-based service that can run independently of the end-user's device. The Microgrid Creator tool holds immense potential for designing efficient and resilient microgrid systems, enabling optimized energy management and sustainable power distribution.
+**MicrogridCreator** is a powerful and easy-to-use microgrid simulation and optimization engine. It helps developers and end users plan, design, and optimize complex sector-coupled decentralized energy systems. The final version of **MgC** is a cloud-based service that can run independently of the end-user's device. The MgC tool holds immense potential for designing efficient and resilient microgrid systems, enabling optimized energy management and sustainable power distribution.
 
 ### Advantages
 
@@ -29,10 +29,10 @@ In 4 steps to your goal:
 
 The extensive visualization features give you a quick overview of the most important parameters and optimization results.
 
-* Both the technical and the economic key figures can be recorded as time series data and summary overview.
+* Both the technical and the economic key figures can be recorded as time series data and summary overviews.
 * Export the data in the format you need for integration into your workflow.
 
-Seeing what really matters at a glance saves you a lot of time and effort.
+Seeing what matters at a glance saves you a lot of time and effort.
 
 3. **Work flexibility**
 
@@ -42,7 +42,7 @@ Manage your project on any device at any time.
 
 * Start a new project in the office,
 * deal with it more closely on the way to your customers,
-* change it when meeting with your project partners.
+* and change it when meeting with your project partners.
 
 **MicrogridCreator** 's cloud concept enables you to work together on your projects whenever you want.
 
@@ -50,10 +50,10 @@ Manage your project on any device at any time.
 
 <figure><img src=".gitbook/assets/learning-normalized-1.jpg" alt=""><figcaption></figcaption></figure>
 
-**MicrogridCreator helps you** to better understand how your optimized energy system works  . You can use **MicrogridCreator** to:
+**MicrogridCreator helps you** to better understand how your optimized energy system works. You can use **MicrogridCreator** to:
 
-* &#x20;learn  more about system design and management in general
+* learn  more about system design and management in general
 * advise your business customers&#x20;
 * To teach students in an academic context
 
-**MicrogridCreator** 's academic background enables it to be widely used in many different contexts.
+**MgC** 's academic background enables it to be widely used in many different contexts.
