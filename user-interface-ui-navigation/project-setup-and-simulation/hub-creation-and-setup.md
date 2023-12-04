@@ -10,10 +10,10 @@ They enable seamless coordination between renewable energy sources, such as sola
 
 **Hubs:** The process of creating new hubs in a microgrid project is streamlined, and a step-by-step guide is as follows:
 
-1. **Accessing System Design:** To begin, access the "System Design" feature on the left side of the MgC interface.
-2. **Default Hub:** A default hub will be already in place, created when the project was initiated.
-3. **Creating New Hubs:** To expand the microgrid by adding more hubs, navigate to the "Hubs" section, also located on the right side of the MgC layout.
-4. **Initiating Creation:** Within the "Hubs" section, locate and click on the "Create New Hub" option.
+1. **Accessing system design:** To begin, access the "System Design" feature on the left side of the MgC interface.
+2. **Default hub:** A default hub will be already in place, and created when the project was initiated.
+3. **Creating new hubs:** To expand the microgrid by adding more hubs, navigate to the "Hubs" section, also located on the right side of the MgC layout.
+4. **Initiating creation:** Within the "Hubs" section, locate and click on the "Create New Hub" option.
 
 Following these steps, the process of creating new hubs is facilitated, enhancing the microgrid's capacity and control for efficient energy management.
 
@@ -23,6 +23,6 @@ To create the hub, begin by **clicking on the desired location** on the MgC layo
 
 <figure><img src="../../.gitbook/assets/2 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
-After submitting the hub creation request, hub will be created and the relevant information about the hubs will be shown on the right side of the MgC layout as shown in the below image.
+After submitting the hub creation request, the hub will be created and the relevant information about the hubs will be shown on the right side of the MgC layout as shown in the below image.
 
 <figure><img src="../../.gitbook/assets/3 (3).png" alt="" width="563"><figcaption></figcaption></figure>

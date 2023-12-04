@@ -17,8 +17,8 @@ MgC comprises essential core functionalities for microgrid design and optimizati
 
 **Model generator**
 
-1. **Modeling Real Building Blocks:** In MgC, the process of modeling real building blocks involves users defining the core attributes of microgrid components. This is achieved by inputting specific characteristics, such as the capacity of energy sources, efficiency of storage systems, and performance data for loads. The tool uses this detailed information to create a virtual representation of each component.
-2. **Assembling a Networked System:** Once users have accurately modeled these building blocks, the next step is assembling them into a networked microgrid system. MgC facilitates this by allowing users to connect these virtual components in a way that mirrors their physical interconnections in an actual microgrid. This networked system is then ready for configuration and optimization to ensure it operates efficiently and meets user-defined objectives. The tool's user-friendly interface simplifies the process of creating a comprehensive and interconnected microgrid model.
+1. **Modeling real building blocks:** In MgC, the process of modeling real building blocks involves users defining the core attributes of microgrid components. This is achieved by inputting specific characteristics, such as the capacity of energy sources, efficiency of storage systems, and performance data for loads. The tool uses this detailed information to create a virtual representation of each component.
+2. **Assembling a networked system:** Once users have accurately modeled these building blocks, the next step is assembling them into a networked microgrid system. MgC facilitates this by allowing users to connect these virtual components in a way that mirrors their physical interconnections in an actual microgrid. This networked system is then ready for configuration and optimization to ensure it operates efficiently and meets user-defined objectives. The tool's user-friendly interface simplifies the process of creating a comprehensive and interconnected microgrid model.
 
 **Solving engine for optimization**
 

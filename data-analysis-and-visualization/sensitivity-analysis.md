@@ -16,7 +16,7 @@ Upon selecting the desired project, duplicating it for project modification or s
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_00_46-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-To edit the required parameter, select a domain from the advanced features panel. For instance, adjust the consumer electricity price to perform **sensitivity analysis.** This functionality offers flexibility and empowers users to customize project parameters for data-driven decision-making and project optimization.
+To edit the required parameter, select a domain from the advanced features panel. For instance, adjust the consumer electricity price to perform "**sensitivity analysis".** This functionality offers flexibility and empowers users to customize project parameters for data-driven decision-making and project optimization.
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_01_54-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -32,27 +32,27 @@ To perform sensitivity analysis, adjust the selling price to stakeholders from 0
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_04_33-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-User can precisely **adjust parameters** for loads, technologies, and resources, including investment and operation costs, installed capacities, and asset lifetime. This control empowers users to customize key project aspects for optimal performance and financial efficiency.&#x20;
+Users can precisely **adjust parameters** for loads, technologies, and resources, including investment and operation costs, installed capacities, and asset lifetime. This control empowers users to customize key project aspects for optimal performance and financial efficiency.&#x20;
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_05_26-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-MgC offers the users to **evaluate the project's overall impact** by changing the investment cost of components such as standard PV module from 200 to 1800 €/kWp. This precise adjustment provides valuable insights into how it influences the project's financial and operational aspects, aiding data-driven decision-making and optimization.
+MgC allows the users to **evaluate the project's overall impact** by changing the investment cost of components such as standard PV modules from 200 to 1800 €/kWp. This precise adjustment provides valuable insights into how it influences the project's financial and operational aspects, aiding data-driven decision-making and optimization.
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_05_49-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-User can **alter technical, economic, and environmental specifications** for components within technologies, loads, and resources by duplicating the project. For instance, change the standard PV panel's fixed cost from 1000 to 2000 € and OPEX from 60 to 90 €/a/kWp. This precise modification empowers MgC users to perform detailed analysis and data-driven decision-making for the project at any time.
+Users can **alter technical, economic, and environmental specifications** for components within technologies, loads, and resources by duplicating the project. For instance, change the standard PV panel's fixed cost from 1000 to 2000 € and OPEX from 60 to 90 €/a/kWp. This precise modification empowers MgC users to perform detailed analysis and data-driven decision-making for the project at any time.
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_06_45-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Similarly, **environmental parameter** such as variable GHG emissions can be adjusted to analyze the project's sensitivity to this parameter. This dynamic feature provides users with a deeper understanding of the [Key Performance Indicators (KPIs)](key-performance-indicators-kpi-s.md), enabling more informed decision-making and a holistic view of project performance. With MgC's capabilities, users gain a valuable tool for exploring project dynamics and optimizing its environmental impact and sustainability.&#x20;
+Similarly, **environmental parameters** such as variable GHG emissions can be adjusted to analyze the project's sensitivity to this parameter. This dynamic feature provides users with a deeper understanding of the [Key Performance Indicators (KPIs)](key-performance-indicators-kpi-s.md), enabling more informed decision-making and a holistic view of project performance. With MgC's capabilities, users gain a valuable tool for exploring project dynamics and optimizing its environmental impact and sustainability.&#x20;
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_07_42-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Upon completing the project modifications and entering parameters for the duplicated project, MgC will initiate a fresh project simulation upon selecting the **"Submit"** button. This streamlined procedure facilitates an updated evaluation of the entire system, providing user with the opportunity to assess the project's performance in a innovative and efficient manner.
+Upon completing the project modifications and entering parameters for the duplicated project, MgC will initiate a fresh project simulation upon selecting the **"Submit"** button. This streamlined procedure facilitates an updated evaluation of the entire system, providing users with the opportunity to assess the project's performance innovatively and efficiently.
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_08_01-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-This presents an overview of the system both prior to and following the simulation of the project with the necessary adjustments.
+This presents an overview of the system both before and following the simulation of the project with the necessary adjustments.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption><p>System overview before sensitivity analysis</p></figcaption></figure>
 

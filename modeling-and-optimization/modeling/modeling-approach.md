@@ -16,7 +16,7 @@ System model linearization is a captivating process that transforms intricate, n
 
 <summary>MILP (Mixed Integer Linear Programming)</summary>
 
-MgC uses the Mixed Integer Linear Programming(MILP) techniques which are popular in Operations Research. MILP is a widely used mathematical optimization technique that addresses problems with both continuous and discrete variables, making it valuable for complex decision-making and resource allocation.
+MgC uses the MILP techniques which are popular in Operations Research. MILP is a widely used mathematical optimization technique that addresses problems with both continuous and discrete variables, making it valuable for complex decision-making and resource allocation.
 
 </details>
 
@@ -38,19 +38,21 @@ This combination of variable types in MgC enhances the flexibility and granulari
 
 <summary>Constraints + Boundaries</summary>
 
-In microgrid modeling, constraints and boundaries are critical limitations that guide technical design and operation. They encompass factors such as physical specifications, operational restrictions, and safety requirements, ensuring that the microgrid operates within defined parameters.
+In microgrid modeling, constraints, and boundaries are critical limitations that guide technical design and operation. They encompass factors such as physical specifications, operational restrictions, and safety requirements, ensuring that the microgrid operates within defined parameters.
 
-**Technical Design Constraints:** These constraints restrict the microgrid's design based on physical and operational characteristics, such as the maximum capacity of components, voltage limits, and temperature thresholds. MgC incorporates these limitations to maintain compliance with technical specifications.
+**Technical design constraints:** These constraints restrict the microgrid's design based on physical and operational characteristics, such as the maximum capacity of components, voltage limits, and temperature thresholds. MgC incorporates these limitations to maintain compliance with technical specifications.
 
-**Operational Constraints:** Operational constraints define how the microgrid functions, accounting for factors like load demands and energy source availability. MgC considers these constraints to ensure effective microgrid operation within operational boundaries.
+**Operational constraints:** Operational constraints define how the microgrid functions, accounting for factors like load demands and energy source availability. MgC considers these constraints to ensure effective microgrid operation within operational boundaries.
 
-**Safety and Regulatory Boundaries:** These boundaries encompass legal and safety requirements, including environmental standards and regulatory policies. MgC adheres to these boundaries to guarantee microgrid designs and operations align with safety and compliance standards.
+**Safety and regulatory boundaries:** These boundaries encompass legal and safety requirements, including environmental standards and regulatory policies. MgC adheres to these boundaries to guarantee microgrid designs and operations align with safety and compliance standards.
 
 </details>
 
 Through the use of MILP techniques, MgC offers an optimized model that closely approximates the objectives set by the user.
 
-MgC's modeling approach is both methodical and user-friendly. As shown in below graph, It begins with linear programming, represented in grey, and then seamlessly transitions to integer programming, illustrating feasible solutions with black dots on the x and y axes. The next step involves plotting user-specified objective planes, pinpointing the exact intersection point where two lines meet. This point of convergence, closely matching the user's objective, is highlighted as a blue line in the graph below.&#x20;
+MgC's modeling approach is both methodical and user-friendly, allowing for efficient and effective application in various contexts.&#x20;
+
+As shown in below graph, It begins with linear programming, represented in grey, and then seamlessly transitions to integer programming, illustrating feasible solutions with black dots on the x and y axes. The next step involves plotting user-specified objective planes, pinpointing the exact intersection point where two lines meet. This point of convergence, closely matching the user's objective, is highlighted as a blue line in the graph below.&#x20;
 
 <figure><img src="../../.gitbook/assets/2023-10-28 11_41_55-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit) (1).png" alt="" width="408"><figcaption><p>MgC modeling approach</p></figcaption></figure>
 

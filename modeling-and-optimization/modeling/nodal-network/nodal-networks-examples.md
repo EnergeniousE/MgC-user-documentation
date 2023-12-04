@@ -8,7 +8,7 @@ MgC intelligently models nodes using domain layers, as depicted in image 'b', wh
 
 **Electric power domain**
 
-This is how MgC establishes the nodal network: It begins with the external power distribution grid, injecting energy into node1 (n1). From there, energy is seamlessly transferred to node2 (n2), and node 3 (n3) serving as a central junction for MV and LV connections. This facilitates the interaction of technical components t2 and t3 within the electric power domain. Additionally, t4 and load l1, along with natural gas supply to the co-generation plant (t4), operate within this domain layer. MgC's design ensures an efficient and interconnected nodal network for energy distribution.
+This is how MgC establishes the nodal network: It begins with the external power distribution grid, injecting energy into node1 (n1). From there, energy is seamlessly transferred to node 2 (n2), and node 3 (n3) serves as a central junction for MV and LV connections. This facilitates the interaction of technical components t2 and t3 within the electric power domain. Additionally, t4 and load l1, along with natural gas supply to the co-generation plant (t4), operate within this domain layer. MgC's design ensures an efficient and interconnected nodal network for energy distribution.
 
 **Heating domain**
 

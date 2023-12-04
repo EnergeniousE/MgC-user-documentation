@@ -200,14 +200,6 @@ Yes, MgC includes tools for assessing the environmental impact of microgrid desi
 
 <details>
 
-<summary><strong>How does MgC handle cybersecurity considerations in microgrid modeling?</strong></summary>
-
-MgC incorporates cybersecurity features to address the security challenges associated with microgrid systems, ensuring resilience against cyber threats.
-
-</details>
-
-<details>
-
 <summary><strong>What level of customization is possible in MgC for specific project requirements?</strong></summary>
 
 MgC offers a high degree of customization, allowing users to tailor the software to meet the specific requirements of their microgrid projects.
@@ -246,4 +238,4 @@ MgC provides user support through documentation, forums, and community resources
 
 </details>
 
-Always refer to the official MgC documentation or contact the software provider for the most accurate and up-to-date information.
+Always refer to the official MgC documentation or contact the [energenious](https://energenious.eu/) for the most accurate and up-to-date information.

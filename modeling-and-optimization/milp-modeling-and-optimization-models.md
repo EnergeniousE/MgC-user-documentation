@@ -1,6 +1,6 @@
 ---
 description: >-
-  Key advantage of MgC is its ability to leverage mathematical models for
+  The key advantage of MgC is its ability to leverage mathematical models for
   precise and efficient microgrid design and operation.
 ---
 
@@ -12,7 +12,7 @@ Mathematical models are abstract representations of real-world systems, processe
 
 **Mgc choice of technologies and capacities**
 
-MgC takes the decisions regarding the selection of specific technologies (e.g., solar panels, batteries, energy management systems) and their respective capacities within the microgrid design. These choices are essential for optimizing the microgrid's performance, ensuring it meets energy demands efficiently and effectively.&#x20;
+MgC makes the decisions regarding the selection of specific technologies (e.g., solar panels, batteries, energy management systems) and their respective capacities within the microgrid design. These choices are essential for optimizing the microgrid's performance, ensuring it meets energy demands efficiently and effectively.&#x20;
 
 The solver efficiently computes the energy source and its associated capacities, as depicted in the formula provided below.
 
@@ -26,13 +26,13 @@ In MgC, this formula defines constraints on the variable (γ\_{i}) representing 
 {% hint style="info" %}
 _Where_
 
-* _**μ** is to indicate configuration choices of certain energy source (e.g., solar panels) (1 for active, 0 for inactive)._
+* _**μ** is to indicate configuration choices of certain energy sources (e.g., solar panels) (1 for active, 0 for inactive)._
 * _**γ** is the min and max capacities of the technology._
 {% endhint %}
 
 **Operational characteristics components/system**
 
-MgC encompass the efficient functioning of components like energy sources, storage, and load management, as well as the system's response to grid conditions. These aspects are vital for optimizing microgrid performance and ensuring cost-effective, reliable operation.
+MgC encompasses the efficient functioning of components like energy sources, storage, and load management, as well as the system's response to grid conditions. These aspects are vital for optimizing microgrid performance and ensuring cost-effective, reliable operation.
 
 The MgC solver utilizes the provided mathematical models to compute and oversee the system's behavior and responses.
 
@@ -40,30 +40,30 @@ $$
 P_{ex,i,t}=η_iP_{in,i,t}  \:\:\:\:\:\:(i=1,2,3....,I;t=1,2,3....,T)
 $$
 
-The power leaving(P\_ex) the system is determined by multiplying the component's efficiency(η) with the power input(P\_in) with respect to the time(t) into the system.
+The power leaving(P\_ex) the system is determined by multiplying the component's efficiency(η) with the power input(P\_in) for the time(t) into the system.
 
 $$
 v_{i,t} P_{in,min,i}(γ_{i})≤ P_{in,t,i} ≤ v_{i,t}P_{in,max,i}(γ_{i})
 \:\:\:\:\:\:(i=1,2,3....,I;t=1,2,3....,T)
 $$
 
-This formula imposes constraints on the power input of a component (i) at a given time (t) in a microgrid. It ensures that the power input falls within predefined minimum and maximum limits based on the binary variable, which determines whether the component is active (1) or inactive (0). These constraints are applied across various component types (i) and time periods (t). The parameter gamma (γ) may represent specific conditions or states associated with each component (i).
+This formula imposes constraints on the power input of a component (i) at a given time (t) in a microgrid. It ensures that the power input falls within the predefined minimum and maximum limits based on the binary variable, which determines whether the component is active (1) or inactive (0). These constraints are applied across various component types (i) and time periods (t). The parameter gamma (γ) may represent specific conditions or states associated with each component (i).
 
 $$
 P_{in,i,t-1}-\boldsymbol{\nabla}_{Pdown,i} P_{in,max,i}(γ_{i}) ≤ P_{in,i,t}≤P_{in,i,t-1}+\boldsymbol{\nabla}_{Pup,i}P_{in,max,i}(γ_{i})
 \\(i=1,2,3....,I;t=1,2,3....,T)
 $$
 
-In MgC, this formula constrains the power input (P\_{in,i,t}) of a specific component (i) at a given time ((t)) to be within a range determined by the power input at the previous time step (P\_{in,i,t-1}) adjusted by factors represented by (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pdown,i}) and (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pup,i}). These constraints are associated with the component's maximum power input (P\_{in,max,i}) under specific conditions (γ\_{i}) and are applicable across various components (i) and time periods (t) in the microgrid.
+In MgC, this formula constrains the power input (P\_{in,i,t}) of a specific component (i) at a given time ((t)) to be within a range determined by the power input at the previous time step (P\_{in,i,t-1}) adjusted by factors represented by (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pdown,i}) and (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pup,i}). These constraints are associated with the component's maximum power input (P\_{in,max,i}) under specific conditions (γ\_{i}) and are applicable across various components (i) and periods (t) in the microgrid.
 
 $$
 v_{i,t} ∈ [0,1]  \:\:\:\:\:( i=1,2,3....,I; t=1,2,3,...T)
 $$
 
 {% hint style="info" %}
-$$"νi"​$$_is a binary switch \[0,1] for including or excluding specific microgrid components  for the component(i), at time(t)._
+$$"νi"​$$_is a binary switch \[0,1] for including or excluding specific microgrid components for the component(i), at the time(t)._
 
-![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2) _(Nebla) is the rate of change of a scalar field or function with respect to its variables. In microgrid modeling, this can be crucial for understanding how various parameters, such as power consumption or renewable energy generation, changes concerning spatial or temporal variables._
+![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2) _(Nebla) is the rate of change of a scalar field or function for its variables. In microgrid modeling, this can be crucial for understanding how various parameters, such as power consumption or renewable energy generation, change concerning spatial or temporal variables._
 {% endhint %}
 
 **Balancing of coupled components and overall system by MgC**
@@ -77,17 +77,15 @@ $$
 $$
 
 {% hint style="info" %}
-
-
 _Where,_&#x20;
 
-* _**P** represents the power in the whole system._
-* _**i** represents different types of components within a microgrid, such as solar panels, battery storage, or loads._
-* _**n** represents different instances or units of those components, like individual solar panels or batteries._
-* _**t** represents discrete time intervals or time steps used to model the behavior of the microgrid components over time._
+* _**P:** represents the power in the whole system._
+* _**i:** represents different types of components within a microgrid, such as solar panels, battery storage, or loads._
+* _**n:** represents different instances or units of those components, like individual solar panels or batteries._
+* _**t:** represents discrete time intervals or time steps used to model the behavior of the microgrid components over time._
 {% endhint %}
 
-And to balance the system, MgC solver provides a flexible and precise way to comprehensively analyze, optimize, and assess the performance of microgrid components, instances, and time intervals, ensuring efficient and cost-effective designs.
+To balance the system, the MgC solver provides a flexible and precise way to comprehensively analyze, optimize, and assess the performance of microgrid components, instances, and time intervals, ensuring efficient and cost-effective designs.
 
 **Balancing of components with storage characteristics**
 
@@ -109,7 +107,7 @@ _Where,_
 * _**P:** Power input and output to the system_
 * _**Δt:** Time difference between operation periods_
 * _**ch:** Component characteristics_
-* _**t:** Time periods_
+* _**t:** Periods_
 * _**i:** Component type_
 * _**st:** Component's storage_
 {% endhint %}

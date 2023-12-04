@@ -1,6 +1,6 @@
 ---
 description: >-
-  Seamlessly couple sectors, make informed decisions, plan size and operation,
+  Seamless sector coupling, make informed decisions, plan plant size, operation,
   and integrate load flexibility.
 ---
 
@@ -24,10 +24,10 @@ With **MgC** you can combine different optimization goals and weigh their import
 
 When planning energy systems, it is important to remember that design and operation are interdependent. In this way, operational improvements can ensure that the interaction of certain technologies has a positive influence on the overall costs of the project. On the other hand, there is no point in considering components with low investment costs unless one also examines the physical and economic effects of operation.
 
-With **MgC** users can optimize technology selection, system design, and operation during the planning phase. At the same time, it is possible to optimize the operation of already existing systems by adding additional components and examining their influence on the goals you are striving for.
+With MgC users can optimize technology selection, system design, and operation during the planning phase. At the same time, it is possible to optimize the operation of already existing systems by adding additional components and examining their influence on the goals you are striving for.
 
 4. **Integrate load flexibility**
 
 With the increasing integration of fluctuating renewable energies such as solar and wind power, the proportion of technologies that can be used to balance the differences between demand and generation is decreasing. Newer concepts predict that the user side can contribute to the necessary balance.
 
-With **MgC**, you can take flexible load and demand management into account when planning and operating your energy system. Several options allow you to examine the effectiveness of the load flexibility concept in terms of system improvement.
+With MgC, you can take flexible load and demand management into account when planning and operating your energy system. Several options allow you to examine the effectiveness of the load flexibility concept in terms of system improvement.
