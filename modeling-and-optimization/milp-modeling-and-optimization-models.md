@@ -54,7 +54,7 @@ P_{in,i,t-1}-\boldsymbol{\nabla}_{Pdown,i} P_{in,max,i}(γ_{i}) ≤ P_{in,i,t}�
 \\(i=1,2,3....,I;t=1,2,3....,T)
 $$
 
-In MgC, this formula constrains the power input ($$P_{in,i,t}$$) of a specific component (i) at a given time ((t)) to be within a range determined by the power input at the previous time step ($$P_{in,i,t-1}$$) adjusted by factors represented by $$\boldsymbol{\nabla}_{P{down,i}}$$) and $$\boldsymbol{\nabla}_{Pup,i}$$). These constraints are associated with the component's maximum power input ($$P_{in,max,i}$$) under specific conditions ($$γ_{i}$$) and are applicable across various components (i) and periods (t) in the microgrid.
+In MgC, this formula constrains the power input ($$P_{in,i,t}$$) of a specific component (i) at a given time (t) to be within a range determined by the power input at the previous time step ($$P_{in,i,t-1}$$) adjusted by factors represented by $$\boldsymbol{\nabla}_{P{down,i}}$$ and $$\boldsymbol{\nabla}_{Pup,i}$$. These constraints are associated with the component's maximum power input ($$P_{in,max,i}$$) under specific conditions ($$γ_{i}$$) and are applicable across various components (i) and periods (t) in the microgrid.
 
 $$
 ν_{i,t} ∈ [0,1]  \:\:\:\:\:( i=1,2,3....,I; t=1,2,3,...T)
