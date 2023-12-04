@@ -4,7 +4,7 @@ MgC enhances decision-making and optimization in microgrid design, and MILP serv
 
 **Weighted multi-objective**
 
-The MgC uses a weighted multi-objective approach to evaluate and optimize microgrid designs. It calculates a single metric, "F," by considering various components (F\_1, F\_2, ..., F\_k) and their importance. The weights (α\_1, α\_2, ..., α\_k) are assigned to these components, and "F\_1,ref," "F\_2,ref," ..., "F\_k,ref" serve as reference values. This formula allows for a customized evaluation of microgrid designs and facilitates decision-making by producing a clear and objective result.&#x20;
+The MgC uses a weighted multi-objective approach to evaluate and optimize microgrid designs. It calculates a single metric, "F" by considering various components ($$F_1, F_2, ..., F_k$$) and their importance. The weights ($$α_1, α_2, ..., α_k$$) are assigned to these components, and "$$F_{1,ref}, F_{2,ref},..., F_{k,ref}$$" serve as reference values. This formula allows for a customized evaluation of microgrid designs and facilitates decision-making by producing a clear and objective result.&#x20;
 
 $$
 min\ F = (α_1\frac{F_1}{F_1,ref}+α_2\frac{F_2}{F_2,ref}+....α_k\frac{F_k}{F_k,ref}); 
