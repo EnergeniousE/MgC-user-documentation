@@ -63,7 +63,7 @@ $$
 {% hint style="info" %}
 $$"νi"​$$_is a binary switch \[0,1] for including or excluding specific microgrid components for the component(i), at the time(t)._
 
-\boldsymbol{\nabla} is the rate of change of a scalar field or function for its variables. In microgrid modeling, this can be crucial for understanding how various parameters, such as power consumption or renewable energy generation, change concerning spatial or temporal variables._
+$$\boldsymbol{\nabla}$$ is the rate of change of a scalar field or function for its variables. In microgrid modeling, this can be crucial for understanding how various parameters, such as power consumption or renewable energy generation, change concerning spatial or temporal variables._
 {% endhint %}
 
 **Balancing of coupled components and overall system by MgC**
