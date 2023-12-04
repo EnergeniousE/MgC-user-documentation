@@ -8,7 +8,7 @@ coverY: 0
 
 # MicrogridCreator (MgC)
 
-**MicrogridCreator** is a powerful and easy-to-use microgrid simulation and optimization engine. It helps developers and end users plan, design, and optimize complex sector-coupled decentralized energy systems. The final version of **MgC** is a cloud-based service that can run independently of the end-user's device. The MgC tool holds immense potential for designing efficient and resilient microgrid systems, enabling optimized energy management and sustainable power distribution.
+**MicrogridCreator** is a powerful and easy-to-use microgrid simulation and optimization engine. It helps developers and end users plan, design, and optimize complex sector-coupled decentralized energy systems. MgC is a cloud-based service that can run independently of the end-user's device. The MgC tool holds immense potential for designing efficient and resilient microgrid systems, enabling optimized energy management and sustainable power distribution.
 
 ### Advantages
 
@@ -50,10 +50,10 @@ Manage your project on any device at any time.
 
 <figure><img src=".gitbook/assets/learning-normalized-1.jpg" alt=""><figcaption></figcaption></figure>
 
-**MicrogridCreator helps you** to better understand how your optimized energy system works. You can use **MicrogridCreator** to:
+**MgC helps you** to better understand how your optimized energy system works. You can use **MgC** to:
 
-* learn  more about system design and management in general
-* advise your business customers&#x20;
-* To teach students in an academic context
+* Learn more about system design and management in general.
+* Advise your business customers.
+* To teach students in an academic context.
 
 **MgC** 's academic background enables it to be widely used in many different contexts.
