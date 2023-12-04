@@ -21,7 +21,7 @@ $$
 \:\:\:\:\:\:(i=1,2,3....,I)\\μ_i ∈ [0,1] \:\:\:\:\:( i=1,2,3....,I)
 $$
 
-In MgC, this formula defines constraints on the variable (γ\_{i}) representing specific conditions for a component (i). It ensures that (γ\_{i}) falls within a range defined by the parameter (μ\_{i}), which is limited to values between 0 and 1. This constraint is applied to various component types (i) within the microgrid.
+In MgC, this formula defines constraints on the variable ($$γ_{i}$$) representing specific conditions for a component (i). It ensures that ($$γ_{i}$$) falls within a range defined by the parameter ($$μ_{i}$$), which is limited to values between 0 and 1. This constraint is applied to various component types (i) within the microgrid.
 
 {% hint style="info" %}
 _Where_
@@ -40,21 +40,21 @@ $$
 P_{ex,i,t}=η_iP_{in,i,t}  \:\:\:\:\:\:(i=1,2,3....,I;t=1,2,3....,T)
 $$
 
-The power leaving(P\_ex) the system is determined by multiplying the component's efficiency(η) with the power input(P\_in) for the time(t) into the system.
+The power leaving($$P_ex$$) the system is determined by multiplying the component's efficiency(η) with the power input($$P_in$$) for the time(t) into the system.
 
 $$
 v_{i,t} P_{in,min,i}(γ_{i})≤ P_{in,t,i} ≤ v_{i,t}P_{in,max,i}(γ_{i})
 \:\:\:\:\:\:(i=1,2,3....,I;t=1,2,3....,T)
 $$
 
-This formula imposes constraints on the power input of a component (i) at a given time (t) in a microgrid. It ensures that the power input falls within the predefined minimum and maximum limits based on the binary variable, which determines whether the component is active (1) or inactive (0). These constraints are applied across various component types (i) and time periods (t). The parameter gamma (γ) may represent specific conditions or states associated with each component (i).
+This formula imposes constraints on the power input of a component (i) at a given time (t) in a microgrid. It ensures that the power input falls within the predefined minimum and maximum limits based on the binary variable, which determines whether the component is active (1) or inactive (0). These constraints are applied across various component types (i) and periods (t). The parameter gamma (γ) may represent specific conditions or states associated with each component (i).
 
 $$
 P_{in,i,t-1}-\boldsymbol{\nabla}_{Pdown,i} P_{in,max,i}(γ_{i}) ≤ P_{in,i,t}≤P_{in,i,t-1}+\boldsymbol{\nabla}_{Pup,i}P_{in,max,i}(γ_{i})
 \\(i=1,2,3....,I;t=1,2,3....,T)
 $$
 
-In MgC, this formula constrains the power input (P\_{in,i,t}) of a specific component (i) at a given time ((t)) to be within a range determined by the power input at the previous time step (P\_{in,i,t-1}) adjusted by factors represented by (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pdown,i}) and (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pup,i}). These constraints are associated with the component's maximum power input (P\_{in,max,i}) under specific conditions (γ\_{i}) and are applicable across various components (i) and periods (t) in the microgrid.
+In MgC, this formula constrains the power input ($$P_{in,i,t}$$) of a specific component (i) at a given time ((t)) to be within a range determined by the power input at the previous time step ($$P_{in,i,t-1}$$) adjusted by factors represented by (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pdown,i}) and (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pup,i}). These constraints are associated with the component's maximum power input (P\_{in,max,i}) under specific conditions (γ\_{i}) and are applicable across various components (i) and periods (t) in the microgrid.
 
 $$
 v_{i,t} ∈ [0,1]  \:\:\:\:\:( i=1,2,3....,I; t=1,2,3,...T)
