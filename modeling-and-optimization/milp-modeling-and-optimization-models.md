@@ -40,7 +40,7 @@ $$
 P_{ex,i,t}=η_iP_{in,i,t}  \:\:\:\:\:\:(i=1,2,3....,I;t=1,2,3....,T)
 $$
 
-The power leaving($$P_ex$$) the system is determined by multiplying the component's efficiency(η) with the power input($$P_in$$) for the time(t) into the system.
+The power leaving($$P_{ex}$$) the system is determined by multiplying the component's efficiency(η) with the power input($$P_{in}$$) for the time(t) into the system.
 
 $$
 v_{i,t} P_{in,min,i}(γ_{i})≤ P_{in,t,i} ≤ v_{i,t}P_{in,max,i}(γ_{i})
@@ -54,7 +54,7 @@ P_{in,i,t-1}-\boldsymbol{\nabla}_{Pdown,i} P_{in,max,i}(γ_{i}) ≤ P_{in,i,t}�
 \\(i=1,2,3....,I;t=1,2,3....,T)
 $$
 
-In MgC, this formula constrains the power input ($$P_{in,i,t}$$) of a specific component (i) at a given time ((t)) to be within a range determined by the power input at the previous time step ($$P_{in,i,t-1}$$) adjusted by factors represented by (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pdown,i}) and (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pup,i}). These constraints are associated with the component's maximum power input (P\_{in,max,i}) under specific conditions (γ\_{i}) and are applicable across various components (i) and periods (t) in the microgrid.
+In MgC, this formula constrains the power input ($$P_{in,i,t}$$) of a specific component (i) at a given time ((t)) to be within a range determined by the power input at the previous time step ($$P_{in,i,t-1}$$) adjusted by factors represented by $$\boldsymbol{\nabla}$$ (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pdown,i}) and (![\nabla](https://wikimedia.org/api/rest\_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2)\_{Pup,i}). These constraints are associated with the component's maximum power input ($$P_{in,max,i}$$) under specific conditions (γ\_{i}) and are applicable across various components (i) and periods (t) in the microgrid.
 
 $$
 v_{i,t} ∈ [0,1]  \:\:\:\:\:( i=1,2,3....,I; t=1,2,3,...T)
