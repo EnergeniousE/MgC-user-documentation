@@ -38,7 +38,7 @@ Upon choosing the suitable project location, the MgC captures precise **geograph
 
 <figure><img src="../.gitbook/assets/9_1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Step 8:** A notable feature of MgC is its ability to promote environmental consciousness by reducing CO2 emissions and cutting costs through renewable resource utilization in microgrids. Moving the slider from left to right indicates the choice between saving CAPEX/OPEX or saving CO2 emissions. This results in the utilization of the most cost-effective resources when the save CAPEX/OPEX option is selected, and the use of renewable resources in the Microgrid to reduce emissions when the save CO2 emissions option is chosen.&#x20;
+**Step 8:** A notable feature of MgC is its ability to promote environmental consciousness by reducing <span class="math">CO_2</span> emissions and cutting costs through renewable resource utilization in microgrids. Moving the slider from left to right indicates the choice between saving CAPEX/OPEX or saving <span class="math">CO_2</span> emissions. This results in the utilization of the most cost-effective resources when the save CAPEX/OPEX option is selected, and the use of renewable resources in the Microgrid to reduce emissions when the save <span class="math">CO_2</span> emissions option is chosen.&#x20;
 
 <figure><img src="../.gitbook/assets/11 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
