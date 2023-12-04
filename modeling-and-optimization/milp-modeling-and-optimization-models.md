@@ -57,13 +57,13 @@ $$
 In MgC, this formula constrains the power input ($$P_{in,i,t}$$) of a specific component (i) at a given time ((t)) to be within a range determined by the power input at the previous time step ($$P_{in,i,t-1}$$) adjusted by factors represented by $$\boldsymbol{\nabla}_{P{down,i}}$$) and $$\boldsymbol{\nabla}_{Pup,i}$$). These constraints are associated with the component's maximum power input ($$P_{in,max,i}$$) under specific conditions ($$γ_{i}$$) and are applicable across various components (i) and periods (t) in the microgrid.
 
 $$
-v_{i,t} ∈ [0,1]  \:\:\:\:\:( i=1,2,3....,I; t=1,2,3,...T)
+ν_{i,t} ∈ [0,1]  \:\:\:\:\:( i=1,2,3....,I; t=1,2,3,...T)
 $$
 
 {% hint style="info" %}
-$$"νi"​$$_is a binary switch \[0,1] for including or excluding specific microgrid components for the component(i), at the time(t)._
+$$"ν_{i,t}"​$$_is a binary switch \[0,1] for including or excluding specific microgrid components for the component(i), at the time(t)._
 
-$$\boldsymbol{\nabla}$$ is the rate of change of a scalar field or function for its variables. In microgrid modeling, this can be crucial for understanding how various parameters, such as power consumption or renewable energy generation, change concerning spatial or temporal variables._
+$$"\boldsymbol{\nabla}"$$ is the rate of change of a scalar field or function for its variables. In microgrid modeling, this can be crucial for understanding how various parameters, such as power consumption or renewable energy generation, change concerning spatial or temporal variables._
 {% endhint %}
 
 **Balancing of coupled components and overall system by MgC**
