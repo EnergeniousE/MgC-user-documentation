@@ -1,5 +1,6 @@
 ---
-coverY: 142
+cover: ../.gitbook/assets/3.jpeg
+coverY: 0
 layout:
   cover:
     visible: true

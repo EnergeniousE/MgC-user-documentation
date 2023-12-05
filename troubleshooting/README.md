@@ -1,5 +1,6 @@
 ---
-coverY: 96
+cover: ../.gitbook/assets/IDC-report-print-security-services-730x410.jpg
+coverY: 0
 layout:
   cover:
     visible: true

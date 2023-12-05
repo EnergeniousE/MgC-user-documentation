@@ -3,10 +3,11 @@ description: >-
   MgC: Streamlined simulation and optimization of microgrids. Simplifying
   complex decentralized energy systems for developers and end-users. Cloud-based
   for seamless accessibility.
-coverY: 0
+cover: .gitbook/assets/ERP-budgeting.jpg
+coverY: 113
 ---
 
-# MicrogridCreator (MgC)
+# Introduction to MgC
 
 **MicrogridCreator** is a powerful and easy-to-use microgrid simulation and optimization engine. It helps developers and end users plan, design, and optimize complex sector-coupled decentralized energy systems. MgC is a cloud-based service that can run independently of the end-user's device. The MgC tool holds immense potential for designing efficient and resilient microgrid systems, enabling optimized energy management and sustainable power distribution.
 

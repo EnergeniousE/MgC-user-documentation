@@ -3,7 +3,8 @@ description: >-
   MgC facilitates microgrid modeling and optimization, allowing users to define
   objectives, apply algorithms, run simulations, and iterate designs for
   efficient and tailored microgrid solutions.
-coverY: 164
+cover: ../.gitbook/assets/Insights - Various.jpg
+coverY: 22.630494505494504
 layout:
   cover:
     visible: true

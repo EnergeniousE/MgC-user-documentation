@@ -1,5 +1,6 @@
 ---
-coverY: 121
+cover: ../.gitbook/assets/5.webp
+coverY: 0
 layout:
   cover:
     visible: true

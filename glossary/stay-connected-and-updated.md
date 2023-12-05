@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/4.jpeg
+coverY: 0
+---
+
 # Stay connected and updated
 
 We value your experience with MgC and want to ensure you stay connected for ongoing updates, support, and community engagement. Here are ways to stay connected:

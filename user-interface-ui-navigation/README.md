@@ -3,6 +3,7 @@ description: >-
   MgC features an exceptionally user-friendly interface, ensuring that
   individuals, regardless of their technical background, can easily grasp the
   tool's layout and functionality.
+cover: ../.gitbook/assets/user-expierence-design-t.jpg
 coverY: 0
 layout:
   cover:

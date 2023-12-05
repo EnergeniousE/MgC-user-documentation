@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/energenious_cover.jpeg
 coverY: 0
 layout:
   cover:
