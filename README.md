@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Welcome to MgC
+# Welcome to MicrogridCreator
 
 Discover the potential of MgC with the following roadmap. Dive into microgrid design and optimization with this user documentation effortlessly.&#x20;
 
