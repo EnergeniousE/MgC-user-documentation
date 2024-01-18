@@ -32,3 +32,5 @@
 * [Glossary](glossary/README.md)
   * [Abbreviations and technical terminology](glossary/definitions.md)
   * [Stay connected and updated](glossary/stay-connected-and-updated.md)
+* [Elements Creation](elements-creation.md)
+* [Project Samples](project-samples.md)
