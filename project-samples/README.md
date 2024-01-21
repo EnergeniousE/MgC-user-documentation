@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/shutterstock_653068420-1.jpg
+cover: ../.gitbook/assets/shutterstock_653068420-1.jpg
 coverY: 100.5881241565452
 layout:
   cover:
