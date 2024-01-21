@@ -42,7 +42,7 @@ Users can **alter technical, economic, and environmental specifications** for co
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_06_45-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Similarly, **environmental parameters** such as variable GHG emissions can be adjusted to analyze the project's sensitivity to this parameter. This dynamic feature provides users with a deeper understanding of the [Key Performance Indicators (KPIs)](key-performance-indicators-kpi-s.md), enabling more informed decision-making and a holistic view of project performance. With MgC's capabilities, users gain a valuable tool for exploring project dynamics and optimizing its environmental impact and sustainability.&#x20;
+Similarly, **environmental parameters** such as variable [GHG emissions](../glossary/definitions.md#reference-for-kpi-formulas) can be adjusted to analyze the project's sensitivity to this parameter. This dynamic feature provides users with a deeper understanding of the [Key Performance Indicators (KPIs)](key-performance-indicators-kpi-s.md), enabling more informed decision-making and a holistic view of project performance. With MgC's capabilities, users gain a valuable tool for exploring project dynamics and optimizing its environmental impact and sustainability.&#x20;
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_07_42-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
