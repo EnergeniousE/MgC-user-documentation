@@ -24,15 +24,13 @@ In the past, the base cost for the consumer electricity tariff stood at 100 €/
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_02_19-Window.png" alt="" width="563"><figcaption></figcaption></figure>
 
-In the past, the base cost for the consumer electricity tariff stood at 100 €/a. Modifying this cost is a straightforward process: **just double-click** on the base cost value and enter the desired assumed value. This user-friendly interface offers efficient control over project variables and parameter adjustments.
+To perform sensitivity analysis, **adjust the selling price** to stakeholders from 0.05 to 0.4 €/kWh. This step empowers the users to gain insights into the project's **financial dynamics and optimize outcomes**.&#x20;
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_03_58-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-To perform sensitivity analysis, adjust the selling price to stakeholders from 0.05 to 0.4 €/kWh. This step empowers the users to gain insights into the project's **financial dynamics and optimize outcomes**.&#x20;
-
 <figure><img src="../.gitbook/assets/2023-11-04 19_04_33-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Users can precisely **adjust parameters** for loads, technologies, and resources, including investment and operation costs, installed capacities, and asset lifetime. This control empowers users to customize key project aspects for optimal performance and financial efficiency.&#x20;
+Users can precisely **adjust parameters** for loads, technologies, and resources, including [investment and operation costs, installed capacities, and asset lifetime](../glossary/definitions.md#reference-for-kpi-formulas). This control empowers users to customize key project aspects for optimal performance and financial efficiency.&#x20;
 
 <figure><img src="../.gitbook/assets/2023-11-04 19_05_26-MgC.png" alt="" width="563"><figcaption></figcaption></figure>
 

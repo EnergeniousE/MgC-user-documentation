@@ -9,7 +9,7 @@ description: >-
 
 **Results summary**
 
-The simulation results in MgC can be accessed and explored by clicking on the **"Results"** section, conveniently located under the **"Action"** feature on the left side of the MgC layout. Here, a comprehensive summary of crucial project details, including **installed capacities, emissions data, operational timelines, and annualized asset costs**, can be viewed, facilitating a thorough examination of key project insights and outcomes.
+The simulation results in MgC can be accessed and explored by clicking on the **"Results"** section, conveniently located under the **"Action"** feature on the left side of the MgC layout. Here, a comprehensive summary of crucial project details, including [**installed capacities**](../glossary/definitions.md#reference-for-kpi-formulas)**,** [**emissions data**](../glossary/definitions.md#reference-for-kpi-formulas)**,** [**operational timelines**](../glossary/definitions.md#reference-for-kpi-formulas)**, and** [**annualized asset costs**](../glossary/definitions.md#reference-for-kpi-formulas), can be viewed, facilitating a thorough examination of key project insights and outcomes.
 
 <figure><img src="../.gitbook/assets/23 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -45,6 +45,6 @@ Checkout this functionality within the "Optimal Operation" section located under
 
 Cost analysis in the MgC is facilitated, allowing valuable insights into the financial aspects of the microgrid project. Inputting data related to resources, technologies, and operational parameters enables an assessment of capital and operational expenses, determination of cost-effectiveness, and informed decision-making regarding the project's financial sustainability.&#x20;
 
-The MgC offers a detailed cost analysis covering project expenses throughout its lifespan, encompassing both CAPEX and OPEX. This feature can be accessed by clicking on "Cost Analysis" within the "Results" section, providing valuable financial insights for effective project management.
+The MgC offers a detailed cost analysis covering project expenses throughout its lifespan, encompassing both [CAPEX](../glossary/definitions.md#reference-for-kpi-formulas) and [OPEX](../glossary/definitions.md#reference-for-kpi-formulas). This feature can be accessed by clicking on "Cost Analysis" within the "Results" section, providing valuable financial insights for effective project management.
 
 <figure><img src="../.gitbook/assets/28.png" alt="" width="563"><figcaption></figcaption></figure>
