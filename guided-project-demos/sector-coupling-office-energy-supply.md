@@ -16,6 +16,10 @@ MgC excels in facilitating sector coupling by providing a unified platform for t
 
 By harnessing these capabilities, MgC empowers users to design and implement sector-coupled systems that contribute to a more sustainable and interconnected energy landscape.
 
+{% hint style="info" %}
+The following template guides through the public project's key aspects: objectives, resources, technologies, and loads for effective sector coupling project modeling.
+{% endhint %}
+
 {% tabs %}
 {% tab title="Objective" %}
 * Design a comprehensive energy supply system for a modern office in Berlin.
@@ -24,14 +28,27 @@ By harnessing these capabilities, MgC empowers users to design and implement sec
 {% endtab %}
 
 {% tab title="Resources" %}
-* Solar
-* Wind
+* Weather data
+* Natural gas
+* Fuel
+* Electricity from grid
+{% endtab %}
+
+{% tab title="Technologies" %}
+* Solar PV panels
+* Wind turbines
 * Grid connection
+* CHP(combined heat and power)
+* Boiler
+* Heat pump
+* Electric heater
+* Compression chiller
 {% endtab %}
 
 {% tab title="Loads" %}
-* Electrical power, heating, hot water, and cooling.
-* Handle peak load of 70 kW in the residential scenario.
+* Battery, electrical loads.
+* Heat storage, heat loads.
+* Cold storage, cold loads.
 {% endtab %}
 {% endtabs %}
 
