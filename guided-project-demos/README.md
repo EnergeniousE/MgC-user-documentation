@@ -22,8 +22,8 @@ layout:
 
 # Guided Project Demos
 
-* **Tailored Guidance:** These demonstrations serve as the compass in efficiently modeling projects related to several features of MgC such as PV, Sector coupling, EV, etc. within the energy sector.&#x20;
-* **Efficient Modeling with MgC:** These are tailored to guide the user through the modeling process, ensuring a clear understanding of how to design projects that align with the specific goals. Whether diving into Photovoltaics (PV), exploring Sector coupling possibilities, or navigating Electric Vehicles (EV), the step-by-step guidance will empower the user to efficiently steer the energy sector using MgC.&#x20;
+* **Tailored Guidance:** The project demonstrations serve as the compass in efficiently modeling projects related to several features of MgC such as PV, Sector coupling, EV, etc. within the energy sector.&#x20;
+* **Efficient Modeling with MgC:** Tailored to guide the user through the modeling process, ensuring a clear understanding of how to design projects that align with the specific goals. Whether diving into Photovoltaics (PV), exploring Sector coupling possibilities, or navigating Electric Vehicles (EV), the step-by-step guidance will empower the user to efficiently steer the energy sector using MgC.&#x20;
 * **Clear Goals, Clear Designs:** Each illustration provides practical insights, enabling the MgC user to make informed decisions and achieve optimal results in the microgrid projects.
 
 \
