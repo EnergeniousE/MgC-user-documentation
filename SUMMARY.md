@@ -35,5 +35,5 @@
 * [Elements Creation](elements-creation.md)
 * [Guided Project Demos](guided-project-demos/README.md)
   * [PV Battery](guided-project-demos/thermal-energy-supply-for-new-apartments.md)
-  * [Sector Coupling](guided-project-demos/sector-coupling-office-energy-supply.md)
+  * [Sector Coupling-Office Energy Supply](guided-project-demos/sector-coupling-office-energy-supply.md)
   * [Electric Vehicle-EV](guided-project-demos/retrofit-or-apartment-building-sector-coupling.md)
