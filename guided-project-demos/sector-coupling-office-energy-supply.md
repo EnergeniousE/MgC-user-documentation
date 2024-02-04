@@ -54,6 +54,8 @@ The following template guides through the public project's key aspects: objectiv
 
 
 
+
+
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.13.26 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
@@ -85,4 +87,44 @@ The following template guides through the public project's key aspects: objectiv
 
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.27 PM (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.52.01 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.54.15 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.55.29 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.01.28 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.01.39 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.02.02 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
 
