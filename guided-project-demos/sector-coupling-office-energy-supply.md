@@ -1,4 +1,4 @@
-# Sector Coupling-Office Energy Supply
+# Sector coupling-office energy supply
 
 **Sector Coupling Concept:**
 
@@ -139,7 +139,7 @@ Users can edit the basic parameters of technologies, like capacity and lifetime,
 
 The additional specifications such as technical, economic, and environmental parameters can be edited according to the data available or required and can be seen as shown below.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.08.13 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.08.13 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Loads
 
@@ -163,11 +163,74 @@ Statistical details and values distribution for electricity demand can be seen i
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.01.28 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Project simulation: In MgC, the project is simulated is initiated by selecting the "Simulate" option, enabling users to analyze and evaluate the performance of their microgrid design. This process provides valuable insights into system behavior and assists in making informed decisions for optimal operation and efficiency.
+Project simulation: In MgC, the project simulation is initiated by selecting the "Simulate" option, enabling users to analyze and evaluate the performance of their microgrid design. This process provides valuable insights into system behavior and assists in making informed decisions for optimal operation and efficiency.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.01.39 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.02.02 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
+### Results
 
+After simulation, MgC provides users with the results section, allowing for flexible exploration of various simulation outcomes. This feature offers detailed data analysis, empowering users to optimize energy management strategies effectively.
 
+**Summary**
 
+**The summary of the project can be seen in the summary page under the results section. The istalled capacities, CO2, operation time, asset costs etc can be understood by seeing the projects's summary results.**&#x20;
+
+**Initialized capacities: The hot water tank capacity is the highest and the wind turbine capacity is the lowest according to the project specification.**&#x20;
+
+**CO\_2 emissions: The rooftop PV saves lots of the emissions and the cold storage saves very less amount of emissions where as heat pump, heating rod, hot water tank saves medium amount of emissions according to the project specification.**
+
+**Operation time: The power grid connection and the heat pump operation time is high compared to the wind turbine, PV, chiller and the loads like hot water tank, cold storage, and heating rod operation time is less compared.**
+
+**Asset costs: As rooftop PV is high in cost its its CAPEX, OPEX is also high and stays at top. The economical parameters of heat pump, chiller and wind turbine is medium. And the cold storage, heating rod asset costs are less compared to all other elements in the project.**
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.41.04 PM.png" alt=""><figcaption></figcaption></figure>
+
+**Energy mix:**
+
+**Electricity generation:**
+
+**Heat generation:**
+
+**Cold generation:**
+
+**Electricity demand:**
+
+**Heat demand:**&#x20;
+
+**Cold demand:**
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.41.17 PM.png" alt=""><figcaption></figcaption></figure>
+
+**Optimal operation graphs**
+
+The parameters of the domains are displayed on the left (kW) and right (kWh) axes, with a set point ranging from -50 to +50 kW for each domain.
+
+**Electricity domain**
+
+The graph illustrates high electricity demand input into the sector coupling system during the winter season, decreasing in the summer months. Despite these fluctuations, the output from consumer electricity, wind turbines, and rooftop PV consistently meets this demand, ensuring system stability and preventing blackouts.&#x20;
+
+This highlights MgC's significance in effectively managing energy supply and demand dynamics, optimizing resource utilization, and maintaining grid reliability throughout changing seasons and demand patterns.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.44.11 PM.png" alt=""><figcaption></figcaption></figure>
+
+**Heating domain**
+
+The graph below depicts the heating domain, with parameters represented. During the winter season, the hot water tank and space heating demand peak, while the output from the heat pump, space heating, and heating rod sufficiently meets this demand, contributing to grid stabilization.&#x20;
+
+MgC's significance lies in its ability to accurately model and optimize the microgrid's heating system, ensuring reliable supply and demand balancing. By simulating various scenarios and optimizing system parameters, MgC empowers users to improve energy efficiency, reduce costs, and enhance overall system performance.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.44.18 PM.png" alt=""><figcaption></figcaption></figure>
+
+**Cooling domain**
+
+The graph below illustrates the cooling domain of the microgrid. Cooling demand peaks between May and September, coinciding with warmer temperatures, while the chiller output consistently meets this demand. The State of Charge (SOC) of the cold storage fluctuates between 0 and 20 kWh, indicating variations in stored cold energy over time. This fluctuation in SOC can be attributed to factors such as variations in cooling demand, chiller efficiency, and renewable energy availability.&#x20;
+
+MgC's significance lies in its ability to accurately model and optimize the microgrid's cooling system, allowing users to efficiently manage energy resources, ensure reliable cooling supply, and optimize system performance.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.44.25 PM.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+MgC users can easily switch the visibility of graphs from duration curves to line charts by clicking on the icon located at the top left corner of each graph. This flexibility allows for instant customization of graph displays at any time during analysis.
+{% endhint %}
+
+MgC furnishes users with comprehensive project reports, which can be exported in PDF format from the [results section.](../data-analysis-and-visualization/save-and-exporting-the-project.md)
