@@ -23,8 +23,7 @@ The following template guides through the public project's key aspects: objectiv
 {% tabs %}
 {% tab title="Objective" %}
 * Design a comprehensive energy supply system for a modern office in Berlin.
-* Power electricity, heating, hot water, and cooling.
-* Handle peak load of 70 kW in the residential scenario.
+* Model a sector coupling energy system including various resources, technologies, and loads to maintain stability in the energy supply.
 {% endtab %}
 
 {% tab title="Resources" %}
@@ -52,39 +51,23 @@ The following template guides through the public project's key aspects: objectiv
 {% endtab %}
 {% endtabs %}
 
-
-
-
+Step 1: To start a new project in MgC, simply click on the "New Project" option available in the software interface.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.13.26 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.01.48 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
-
-
+Step 2: Choose the project location, allowing MgC to access energy sources like weather data for wind and solar.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.31 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-
+Step 3: To activate the sector coupling feature in MgC, select the pre-modeled sector coupling-office model, which includes pre-modeled resources, loads, and technologies. This option saves users time by already having elements built into the network.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.37 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-
+Step 4: Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.01 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-
+Step 5: Finally, click on the "Submit" button after providing the project name and details.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.27 PM (2).png" alt="" width="375"><figcaption></figcaption></figure>
 

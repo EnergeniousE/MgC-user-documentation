@@ -18,7 +18,7 @@ Upon choosing the suitable project location, the MgC captures precise **geograph
 
 <figure><img src="../.gitbook/assets/4 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Step 3:** Choosing the right project plan is essential. MgC provides different options like Sector Coupling and Rooftop System. To make your selection, simply click on the plan template you prefer in the MgC interface. Follow the energenious website for more updates on the various templates in MgC.&#x20;
+**Step 3:** Choosing the right project plan is essential. MgC provides different options like Sector Coupling and Rooftop System. To make your selection, simply click on the plan template you prefer in the MgC interface. Follow the energenious website for more updates on the various templates in MgC.
 
 <figure><img src="../.gitbook/assets/5 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ Upon choosing the suitable project location, the MgC captures precise **geograph
 
 <figure><img src="../.gitbook/assets/7 (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Step 6:** Loads in microgrids are crucial for balancing electricity supply and demand, ensuring grid stability, optimizing energy usage, and assessing economic viability. To choose the **load facilities**,  provide the peak demand of the load and the number of offices within the Microgrid for accurate configuration.
+**Step 6:** Loads in microgrids are crucial for balancing electricity supply and demand, ensuring grid stability, optimizing energy usage, and assessing economic viability. To choose the **load facilities**, provide the peak demand of the load and the number of offices within the Microgrid for accurate configuration.
 
 <figure><img src="../.gitbook/assets/8 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ Upon choosing the suitable project location, the MgC captures precise **geograph
 
 <figure><img src="../.gitbook/assets/9_1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Step 8:** A notable feature of MgC is its ability to promote environmental consciousness by reducing <span class="math">CO_2</span> emissions and cutting costs through renewable resource utilization in microgrids. Moving the slider from left to right indicates the choice between saving CAPEX/OPEX or saving <span class="math">CO_2</span> emissions. This results in the utilization of the most cost-effective resources when the save CAPEX/OPEX option is selected, and the use of renewable resources in the Microgrid to reduce emissions when the save <span class="math">CO_2</span> emissions option is chosen.&#x20;
+**Step 8:** A notable feature of MgC is its ability to promote environmental consciousness by reducing emissions and cutting costs through renewable resource utilization in microgrids. Moving the slider from left to right indicates the choice between saving CAPEX/OPEX or saving $$CO_2$$ emissions. This results in the utilization of the most cost-effective resources when the save CAPEX/OPEX option is selected, and the use of renewable resources in the Microgrid to reduce emissions when the save $$CO_2$$ emissions option is chosen.
 
 <figure><img src="../.gitbook/assets/11 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
