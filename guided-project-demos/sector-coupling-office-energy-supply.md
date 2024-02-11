@@ -129,17 +129,43 @@ Innovatively, users can adjust feed-in tariff parameters like details and compos
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.20 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Technologies:** Under the sector coupling template, resource capacities for PV panels, wind turbines, CHP, heating rods, boilers, heat pumps, and chillers in the electricity, heating, and cooling domains are automatically generated. Users simply need to select the appropriate data, such as capacity, asset lifetime, investment, operational costs, and technical, economic, and environmental parameters by double-clicking on the respective parameter.
+### Technologies
 
-**Loads:** In the sector coupling template, all loads except for EV vehicles and charging stations are initially unselected but can be chosen by the user at any point before simulating the project. Users can assign appropriate parameters such as electrical, cooling, and heating peak values in kW to the loads by selecting the relevant element.
+Under the sector coupling template, resource capacities for PV panels, wind turbines, CHP, heating rods, boilers, heat pumps, and chillers in the electricity, heating, and cooling domains are automatically generated. Users simply need to select the appropriate data, such as capacity, asset lifetime, investment, operational costs, and technical, economic, and environmental parameters by double-clicking on the respective parameter.
+
+Users can edit the basic parameters of technologies, like capacity and lifetime, as well as financial figures such as feed-in tariff, investment, and operational costs, by double-clicking on the specific parameter. By editing these basic parameters, users can tailor the characteristics of technologies to suit their project requirements. Adjusting parameters such as capacity, lifetime, feed-in tariff, investment, and operational costs enables users to fine-tune the project design, optimize financial planning, and align with specific project goals efficiently.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.00.52 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+The additional specifications such as technical, economic, and environmental parameters can be edited according to the data available or required and can be seen as shown below.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.08.13 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Loads
+
+In the sector coupling template, all loads except for EV vehicles and charging stations are initially unselected but can be chosen by the user at any point before simulating the project. Users can set electrical, cooling, and heating peak values in kW for loads by selecting the relevant element and double-clicking on the parameter as demonstrated below.&#x20;
+
+MgC efficiently handles changes in load data within the sector coupling model by providing intuitive interfaces for updating parameters and employing sophisticated algorithms for dynamic resource allocation. This ensures optimal operation and resilience of the microgrid, making MgC indispensable for effective sector coupling modeling.
+
+#### Timestep:&#x20;
+
+The timestep determines how often the weather data updates and plots the kW values on the diagram over time. If the timestep is smaller, we get more frequent updates and a finer view of power changes. With a larger timestep, updates are less frequent, giving a broader view.
+
+The electricity demand profile for the timestep vs power can be visualized in the timestep vs power as shown in the below screenshot.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.58.44 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Statistical details and values distribution for electricity demand can be seen in the resource ribbon under the drop-down feature in the MgC. This applies to all loads such as batteries, building, cold, and heat storage, within the electricity, heating, and cooling domains.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 6.06.10 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### Project saving: Saving a project in MgC is essential for preserving work progress. By clicking "Save," users securely store project data, ensuring easy retrieval and management.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.01.28 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-
+Project simulation: In MgC, the project is simulated is initiated by selecting the "Simulate" option, enabling users to analyze and evaluate the performance of their microgrid design. This process provides valuable insights into system behavior and assists in making informed decisions for optimal operation and efficiency.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.01.39 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.02.02 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
