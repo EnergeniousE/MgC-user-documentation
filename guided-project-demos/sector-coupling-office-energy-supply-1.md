@@ -1,145 +1,122 @@
-# Photovoltaic(PV) and battery
+# Rooftop system
 
-**Sector coupling concept:**
+**Rooftop System concept:**
 
-Sector coupling refers to the integration and coordination of different energy sectors, such as electricity, heating, and transportation, to enhance overall efficiency and sustainability. The aim is to create synergies between traditionally isolated sectors, allowing them to interact and complement each other. For instance, surplus electricity generated from renewable sources can be used to produce heat or power electric vehicles, contributing to a more integrated and flexible energy system.
+The 'Rooftop system concept' refers to the design and implementation of solar panels on building rooftops to generate electricity from sunlight. By harnessing solar power directly from rooftops, this approach helps to reduce reliance on traditional energy sources, lower electricity bills, and contribute to a more sustainable and environmentally friendly energy system.
 
-**MgC's capability in sector coupling:**
+**MgC's capability in "Rooftop System" modeling:**
 
-MgC excels in facilitating sector coupling by providing a unified platform for the design and management of integrated energy systems. Its capabilities include:
+MgC stands out in the rooftop system by offering a unified platform for designing and managing integrated energy systems. Its functionalities encompass:
 
-1. **Multi-sector integration:** MgC allows users to model and optimize the integration of various energy sectors, enabling a holistic approach to energy management.
-2. **Renewable energy integration:** MgC supports the efficient integration of renewable energy sources, ensuring that surplus energy can be intelligently utilized across different sectors.
-3. **Load balancing:** MgC's capabilities extend to optimizing energy distribution and balancing loads between sectors to enhance overall efficiency and minimize waste.
-4. **Scenario modeling:** Users can simulate different sector coupling scenarios within MgC, allowing for thorough analysis and decision-making based on specific project goals and requirements.
-5. **Flexibility and adaptability:** MgC's flexibility enables users to adapt and tailor sector coupling configurations based on evolving energy needs and technological advancements.
+1. **Effortless Rooftop System design**: MgC simplifies the process of designing "Rooftop Systems" by providing intuitive tools and interfaces that guide users through the layout and configuration process.
+2. **Optimized system sizing**: With MgC, users can accurately size Rooftop Systems to maximize energy generation potential while ensuring optimal utilization of available rooftop space.
+3. **Performance simulation**: Users can simulate the performance of Rooftop Systems using MgC's advanced modeling capabilities, gaining insights into energy generation, system efficiency, and potential savings.
+4. **Economic viability analysis**: MgC facilitates economic viability analysis of Rooftop Systems by providing tools to assess costs, returns on investment, and payback periods, helping users make informed decisions about solar PV installations.
+5. **Environmental impact assessment**: MgC enables users to evaluate the environmental impact of Rooftop Systems by analyzing carbon emissions reduction, renewable energy generation, and overall sustainability benefits.
 
-By harnessing these capabilities, MgC empowers users to design and implement sector-coupled systems that contribute to a more sustainable and interconnected energy landscape.
+By leveraging these features, MgC empowers users to model Rooftop Systems with confidence, ensuring efficient design, optimal performance, and positive environmental and economic outcomes.
 
 {% hint style="info" %}
-The following template guides through the public project's key aspects: objectives, resources, technologies, and loads for effective sector coupling project modeling.
+The following template guides through the public project's key aspects: objectives, resources, technologies, and loads for effective rooftop system project modeling.
 {% endhint %}
 
 {% tabs %}
 {% tab title="Objective" %}
-* Design a comprehensive energy supply system for a modern office in Berlin.
-* Model a sector coupling energy system including various resources, technologies, and loads to maintain stability in the energy supply.
+* Model a PV system including various resources, technologies, and loads to maintain stability in the energy supply.
 {% endtab %}
 
 {% tab title="Resources" %}
 * Weather data
-* Natural gas
-* Fuel
 * Electricity from grid
 {% endtab %}
 
 {% tab title="Technologies" %}
 * Solar PV panels
-* Wind turbines
 * Grid connection
-* CHP(combined heat and power)
-* Boiler
-* Heat pump
-* Electric heater
-* Compression chiller
 {% endtab %}
 
 {% tab title="Loads" %}
 * Battery, electrical loads.
-* Heat storage, heat loads.
-* Cold storage, cold loads.
 {% endtab %}
 {% endtabs %}
 
-**Step 1:** To start a new project in MgC, simply click on the "New Project" option available in the software interface.
+**Step 1:** To get the benefits of the rooftop system in MgC, simply click on the "New Project" option available in the MgC interface.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.13.26 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Step 2:** Choose the project location, allowing MgC to access energy sources like weather data for wind, solar, and other parameters.
+**Step 2:** Choose the project location, allowing MgC to access energy sources at the selected location like weather data for wind, solar, and other parameters.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.31 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Step 3:** To activate the sector coupling feature in MgC, select the sector coupling-office model in MgC, which includes pre-modeled resources, loads, and technologies. This option saves users time by already having elements built into the network.
+**Step 3:** To activate the rooftop PV system feature in MgC, select the "Rooftop System" in MgC, which includes pre-modeled resources, loads, and technologies. This option saves users time by already having elements built into the network.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.37 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 3.48.14 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Step 4:** In the second step of project specifications, users can configure the initial settings of system components like resources, loads, and technologies to tailor the sector coupling to specific requirements. This customization ensures that the microgrid system is optimized to meet the unique needs and goals of the project.
+**Step 4:** In the second step of project specifications, users can configure the initial settings of system components like resources, loads, and technologies to tailor the solar rooftop system to specific requirements. This customization ensures that the microgrid system is optimized to meet the unique needs and goals of the project.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving a 75% reduction in emissions has been selected here.
+**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving 25% of CAPEX/OPEX has been selected here.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.01 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 3.53.52 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step 6:** Finally, click on the "Submit" button after providing the project name and details.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.27 PM (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Step 7:** After initializing the project, the user can view the performance indicators, and here the project details such as fixed CAPEX, OPEX, interest, and inflation rates can be changed by the user.
+**Step 7:** After initializing the project, the user can view the performance indicators, and here the project details such as fixed CAPEX, OPEX, interest, and inflation rates can be changed according to the requirements.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.52.01 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 3.58.16 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step 8:** The default hub at the selected location will be created automatically, and the user can add additional hubs by following the steps outlined in [hub creation and setup](../user-interface-ui-navigation/project-setup-and-simulation/hub-creation-and-setup.md).
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.54.15 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.00.23 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 MgC provides flexibility and time-saving benefits to the user by offering templates with required technologies and loads. Users can easily modify attributes of selected elements and add new elements or loads as needed.&#x20;
 
 ### Resources
 
-In MgC's sector coupling feature, data from resources such as weather data, natural gas, oil, and grid electricity are utilized to maintain stability. If excess energy is produced in the hub, it can be exported, allowing users to benefit from feed-in tariffs.
+In MgC's rooftop system feature, information from resources like weather data and grid electricity is accessed to ensure system stability. Excess energy generated in the hub can be stored in batteries for later use during periods of high demand. Below is the network flowsheet of the rooftop system, presented through MgC's rooftop feature.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.55.29 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.01.43 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The features of the MgC can be explored more by clicking on the respective feature under the ribbon advanced.
+Users can access comprehensive project details in the system design's details section, offering thorough information on the technical, environmental, and economic aspects of technologies, loads, and resources involved in the project as shown below.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.03.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.06.11 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+The features of the MgC can be explored more by clicking on the respective feature under the section "Advanced".
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.09.29 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Weather data
 
-The weather data is gathered automatically from the selected location by the use of the MgC. The weather profile such as global horizontal radiation for solar energy, dry bulb temperature, and wind speed can be seen as shown in the below screenshot.
+The weather data is gathered automatically from the selected location by the MgC. The weather profile such as global horizontal radiation for solar energy, dry bulb temperature, and wind speed can be seen as shown in the below screenshot.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.42.14 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.11.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Statistical details for the weather data can be seen in the resource ribbon under the advanced feature in the MgC.
+Statistical details for the weather data at the Stuttgart location can be seen in the resource ribbon under the "Advanced" feature in the MgC.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.21.31 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.13.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Consumer electricity
 
-MgC users can adjust the details and composition of costs, energy, and power parameters for consumer electricity by double-clicking on the respective parameters at any time, offering flexibility.
+MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time. Here for this project, the base cost in the tariff composition of consumer electricity was increased to maintain the stability of the grid. Give the reasons for this, i don't know why I increased.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.03.55 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+And the equivalent GHG emission in the environmental parameters was changed due to this project is totally rooftop system without any other technologies such as CHP, diesel&#x20;
 
-#### Natural gas
-
-Different from conventional methods, MgC users can effortlessly adjust natural gas' technical, tariff, details, compositions, and environmental parameters by simply double-clicking on the respective parameters.
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.04 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-#### Diesel
-
-In MgC, users can easily adjust diesel's technical specs, tariffs, details, compositions, and environmental parameters with a simple double-click.
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.13 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 5.56.48 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Feed-in tariff
 
-Innovatively, users can adjust feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters whenever needed.
+Innovatively, users can swiftly customize feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters, enhancing flexibility and efficiency.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.20 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Technologies
 
-Under the sector coupling template, resource capacities for PV panels, wind turbines, CHP, heating rods, boilers, heat pumps, and chillers in the electricity, heating, and cooling domains are automatically generated. Users simply need to select the appropriate data, such as capacity, asset lifetime, investment, operational costs, and technical, economic, and environmental parameters by double-clicking on the respective parameter.
-
-Users can edit the basic parameters of technologies, like capacity and lifetime, as well as financial figures such as feed-in tariff, investment, and operational costs, by double-clicking on the specific parameter. By editing these basic parameters, users can tailor the characteristics of technologies to suit their project requirements. Adjusting parameters such as capacity, lifetime, feed-in tariff, investment, and operational costs enables users to fine-tune the project design, optimize financial planning, and align with specific project goals efficiently.
+Under the rooftop system template in MgC, PV panel resource capacities in the electricity domains are automatically generated, simplifying the initial setup. Users can further customize parameters such as capacity, lifetime, and costs by double-clicking on specific parameters, and tailoring characteristics to project needs. This flexibility extends beyond PV modules, empowering users to model additional technologies and loads in electricity, cooling, and heating domains, optimizing project design and alignment with specific goals.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.00.52 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
