@@ -34,6 +34,6 @@
   * [Stay connected and updated](glossary/stay-connected-and-updated.md)
 * [Elements Creation](elements-creation.md)
 * [Guided projects](guided-project-demos/README.md)
-  * [Photovoltaic(PV) and battery](guided-project-demos/thermal-energy-supply-for-new-apartments.md)
   * [Sector coupling-office energy supply](guided-project-demos/sector-coupling-office-energy-supply.md)
+  * [Photovoltaic(PV) and battery](guided-project-demos/sector-coupling-office-energy-supply-1.md)
   * [Electric Vehicle-EV](guided-project-demos/retrofit-or-apartment-building-sector-coupling.md)
