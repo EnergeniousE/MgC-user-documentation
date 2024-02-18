@@ -63,19 +63,25 @@ Step 3: To activate the sector coupling feature in MgC, select the pre-modeled s
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.37 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 4: Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving a 75% reduction in emissions has been selected here.
+Step 4: In the second step of project specifications, users can configure the initial settings of system components like resources, loads, and technologies to tailor the sector coupling to specific requirements. This customization ensures that the microgrid system is optimized to meet the unique needs and goals of the project.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Step 5: Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving a 75% reduction in emissions has been selected here.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.01 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 5: Finally, click on the "Submit" button after providing the project name and details.
+Step 6: Finally, click on the "Submit" button after providing the project name and details.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.27 PM (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 6: After initializing the project, the user can view the performance indicators, and here the project details such as fixed CAPEX, OPEX, interest, and inflation rates can be changed by the user.
+Step 7: After initializing the project, the user can view the performance indicators, and here the project details such as fixed CAPEX, OPEX, interest, and inflation rates can be changed by the user.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.52.01 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 7: The default hub at the selected location will be created automatically, and the user can add additional hubs by following the steps outlined in [hub creation and setup](../user-interface-ui-navigation/project-setup-and-simulation/hub-creation-and-setup.md).
+Step 8: The default hub at the selected location will be created automatically, and the user can add additional hubs by following the steps outlined in [hub creation and setup](../user-interface-ui-navigation/project-setup-and-simulation/hub-creation-and-setup.md).
 
 <div data-full-width="true">
 
@@ -93,17 +99,17 @@ In MgC's sector coupling feature, data from resources such as weather data, natu
 
 The features of the MgC can be explored more by clicking on the respective feature under the ribbon advanced.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.03.40 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.03.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Weather data
 
 The weather data is gathered automatically from the selected location by the use of the MgC. The weather profile such as global horizontal radiation for solar energy, dry bulb temperature, and wind speed can be seen as shown in the below screenshot.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.42.14 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.42.14 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Statistical details for the weather data can be seen in the resource ribbon under the advanced feature in the MgC.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.21.31 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.21.31 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Consumer electricity
 
@@ -115,19 +121,19 @@ MgC users can adjust the details and composition of costs, energy, and power par
 
 Different from conventional methods, MgC users can effortlessly adjust natural gas' technical, tariff, details, compositions, and environmental parameters by simply double-clicking on the respective parameters.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.04 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.04 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Diesel
 
 In MgC, users can easily adjust diesel's technical specs, tariffs, details, compositions, and environmental parameters with a simple double-click.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.13 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.13 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Feed-in tariff
 
 Innovatively, users can adjust feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters whenever needed.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.20 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.20 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Technologies
 
@@ -135,11 +141,11 @@ Under the sector coupling template, resource capacities for PV panels, wind turb
 
 Users can edit the basic parameters of technologies, like capacity and lifetime, as well as financial figures such as feed-in tariff, investment, and operational costs, by double-clicking on the specific parameter. By editing these basic parameters, users can tailor the characteristics of technologies to suit their project requirements. Adjusting parameters such as capacity, lifetime, feed-in tariff, investment, and operational costs enables users to fine-tune the project design, optimize financial planning, and align with specific project goals efficiently.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.00.52 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.00.52 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 The additional specifications such as technical, economic, and environmental parameters can be edited according to the data available or required and can be seen as shown below.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.08.13 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.08.13 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Loads
 
@@ -153,11 +159,11 @@ The timestep determines how often the weather data updates and plots the kW valu
 
 The electricity demand profile for the timestep vs power can be visualized in the timestep vs power as shown in the below screenshot.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.58.44 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.58.44 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Statistical details and values distribution for electricity demand can be seen in the resource ribbon under the drop-down feature in the MgC. This applies to all loads such as batteries, building, cold, and heat storage, within the electricity, heating, and cooling domains.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 6.06.10 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 6.06.10 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Project saving:** Saving a project in MgC is essential for preserving work progress. By clicking "Save," users securely store project data, ensuring easy retrieval and management.
 
@@ -183,7 +189,7 @@ The project summary, accessible on the results section's summary page, provides 
 
 **Asset costs:** Rooftop PV incurs high CAPEX and OPEX costs, placing it at the top in terms of economic parameters. Heat pumps, chiller, and wind turbines have medium economic parameters, while cold storage and heating rod asset costs are comparatively lower than other elements in the project.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.41.04 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.41.04 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Energy mix**
 
@@ -201,7 +207,7 @@ In this section, users can analyze the distribution of energy production and dem
 
 **Cold demand:** Building space cooling accounts for 99.4% of the total cooling demand, with the remaining allocated to cold storage. This breakdown highlights the primary role of building space cooling within the microgrid's cooling system.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.41.17 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.41.17 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 MgC offers users clear and intuitive visualizations of energy generation, demand, and system performance, aiding in informed decision-making. With MgC's real-time monitoring capabilities, users can track system performance and make timely adjustments for optimal efficiency. Its scenario analysis tools enable users to explore different configurations and strategies, ensuring cost-effective and sustainable solutions for microgrid management.
 
@@ -215,7 +221,7 @@ The graph illustrates high electricity demand input into the sector coupling sys
 
 This highlights MgC's significance in effectively managing energy supply and demand dynamics, optimizing resource utilization, and maintaining grid reliability throughout changing seasons and demand patterns.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.44.11 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.44.11 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Heating domain**
 
@@ -223,7 +229,7 @@ The graph below depicts the heating domain, with parameters represented. During 
 
 MgC's significance lies in its ability to accurately model and optimize the microgrid's heating system, ensuring reliable supply and demand balancing. By simulating various scenarios and optimizing system parameters, MgC empowers users to improve energy efficiency, reduce costs, and enhance overall system performance.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.44.18 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.44.18 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Cooling domain**
 
@@ -231,7 +237,7 @@ The graph below illustrates the cooling domain of the microgrid. Cooling demand 
 
 MgC's significance lies in its ability to accurately model and optimize the microgrid's cooling system, allowing users to efficiently manage energy resources, ensure reliable cooling supply, and optimize system performance.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.44.25 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.44.25 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 MgC simplifies energy project planning, providing clear financial insights and resource optimization. With its user-friendly tools, informed decisions are made, promoting cost-effectiveness and sustainability. MgC leads the way in efficient energy management, shaping a greener and more resilient future.
 
@@ -239,4 +245,4 @@ MgC simplifies energy project planning, providing clear financial insights and r
 MgC users can easily switch the visibility of graphs from duration curves to line charts by clicking on the icon located at the top left corner of each graph. This flexibility allows for instant customization of graph displays at any time during analysis.
 {% endhint %}
 
-MgC furnishes users with comprehensive project reports, which can be exported in MS-Excel, PDF format from the [results section.](../data-analysis-and-visualization/save-and-exporting-the-project.md)
+MgC furnishes users with comprehensive project reports, which can be exported in MS Excel, or PDF format from the [results section.](../data-analysis-and-visualization/save-and-exporting-the-project.md)
