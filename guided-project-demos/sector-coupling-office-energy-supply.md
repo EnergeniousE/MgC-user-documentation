@@ -51,37 +51,37 @@ The following template guides through the public project's key aspects: objectiv
 {% endtab %}
 {% endtabs %}
 
-Step 1: To start a new project in MgC, simply click on the "New Project" option available in the software interface.
+**Step 1:** To start a new project in MgC, simply click on the "New Project" option available in the software interface.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.13.26 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 2: Choose the project location, allowing MgC to access energy sources like weather data for wind, solar, and other parameters.
+**Step 2:** Choose the project location, allowing MgC to access energy sources like weather data for wind, solar, and other parameters.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.31 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 3: To activate the sector coupling feature in MgC, select the pre-modeled sector coupling-office model, which includes pre-modeled resources, loads, and technologies. This option saves users time by already having elements built into the network.
+**Step 3:** To activate the sector coupling feature in MgC, select the pre-modeled sector coupling-office model, which includes pre-modeled resources, loads, and technologies. This option saves users time by already having elements built into the network.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.37 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 4: In the second step of project specifications, users can configure the initial settings of system components like resources, loads, and technologies to tailor the sector coupling to specific requirements. This customization ensures that the microgrid system is optimized to meet the unique needs and goals of the project.
+**Step 4:** In the second step of project specifications, users can configure the initial settings of system components like resources, loads, and technologies to tailor the sector coupling to specific requirements. This customization ensures that the microgrid system is optimized to meet the unique needs and goals of the project.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 5: Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving a 75% reduction in emissions has been selected here.
+**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving a 75% reduction in emissions has been selected here.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.01 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 6: Finally, click on the "Submit" button after providing the project name and details.
+**Step 6:** Finally, click on the "Submit" button after providing the project name and details.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.27 PM (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 7: After initializing the project, the user can view the performance indicators, and here the project details such as fixed CAPEX, OPEX, interest, and inflation rates can be changed by the user.
+**Step 7:** After initializing the project, the user can view the performance indicators, and here the project details such as fixed CAPEX, OPEX, interest, and inflation rates can be changed by the user.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.52.01 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 8: The default hub at the selected location will be created automatically, and the user can add additional hubs by following the steps outlined in [hub creation and setup](../user-interface-ui-navigation/project-setup-and-simulation/hub-creation-and-setup.md).
+**Step 8:** The default hub at the selected location will be created automatically, and the user can add additional hubs by following the steps outlined in [hub creation and setup](../user-interface-ui-navigation/project-setup-and-simulation/hub-creation-and-setup.md).
 
 <div data-full-width="true">
 
