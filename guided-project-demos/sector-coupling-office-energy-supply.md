@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/istockphoto-1204702669-612x612.jpg
+coverY: 77.83516483516483
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Sector coupling-office energy supply
 
 **Sector coupling concept:**
