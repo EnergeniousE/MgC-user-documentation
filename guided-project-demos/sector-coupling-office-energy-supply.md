@@ -115,7 +115,7 @@ Statistical details for the weather data can be seen in the resource ribbon unde
 
 MgC users can adjust the details and composition of costs, energy, and power parameters for consumer electricity by double-clicking on the respective parameters at any time, offering flexibility.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.03.55 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.03.55 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Natural gas
 
