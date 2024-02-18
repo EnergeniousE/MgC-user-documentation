@@ -59,7 +59,7 @@ The following template guides through the public project's key aspects: objectiv
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.31 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Step 3:** To activate the sector coupling feature in MgC, select the pre-modeled sector coupling-office model, which includes pre-modeled resources, loads, and technologies. This option saves users time by already having elements built into the network.
+**Step 3:** To activate the sector coupling feature in MgC, select the sector coupling-office model in MgC, which includes pre-modeled resources, loads, and technologies. This option saves users time by already having elements built into the network.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.37 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
