@@ -102,9 +102,9 @@ Statistical details for the weather data at the Stuttgart location can be seen i
 
 #### Consumer electricity
 
-MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time. Here for this project, the base cost in the tariff composition of consumer electricity was increased to maintain the stability of the grid. Give the reasons for this, i don't know why I increased.
+MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time.&#x20;
 
-And the equivalent GHG emission in the environmental parameters was changed due to this project is totally rooftop system without any other technologies such as CHP, diesel&#x20;
+Here in the below image, the increase in the base cost of consumer electricity tariff composition likely aims to stabilize the grid by encouraging more efficient energy use. Adjusting the equivalent GHG emissions for a rooftop system without additional technologies ensures accurate environmental impact assessment, supporting informed decision-making and sustainability goals.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 5.56.48 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -112,43 +112,39 @@ And the equivalent GHG emission in the environmental parameters was changed due 
 
 Innovatively, users can swiftly customize feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters, enhancing flexibility and efficiency.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.20 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.03.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Technologies
 
-Under the rooftop system template in MgC, PV panel resource capacities in the electricity domains are automatically generated, simplifying the initial setup. Users can further customize parameters such as capacity, lifetime, and costs by double-clicking on specific parameters, and tailoring characteristics to project needs. This flexibility extends beyond PV modules, empowering users to model additional technologies and loads in electricity, cooling, and heating domains, optimizing project design and alignment with specific goals.
+In MgC's rooftop system template, PV panel capacities are automatically generated for electricity domains, streamlining setup. Users can customize parameters like capacity and costs by double-clicking and tailoring characteristics to project needs. This flexibility extends beyond PV modules, allowing the modeling of additional technologies and loads, optimizing project design and alignment with goals.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.00.52 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.05.56 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The additional specifications such as technical, economic, and environmental parameters can be edited according to the data available or required and can be seen as shown below.
+Additional specifications like technical, economic, and environmental parameters can be easily edited based on available or required data, as demonstrated below.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.08.13 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.07.10 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Loads
 
-In the sector coupling template, all loads except for EV vehicles and charging stations are initially unselected but can be chosen by the user at any point before simulating the project. Users can set electrical, cooling, and heating peak values in kW for loads by selecting the relevant element and double-clicking on the parameter as demonstrated below.&#x20;
-
-MgC efficiently handles changes in load data within the sector coupling model by providing intuitive interfaces for updating parameters and employing sophisticated algorithms for dynamic resource allocation. This ensures optimal operation and resilience of the microgrid, making MgC indispensable for effective sector coupling modeling.
+In the rooftop system template, initially only building and battery loads are selected, but users can choose additional loads such as heating and cooling before simulating the project. Peak values for electrical, cooling, and heating loads can be adjusted by double-clicking on the relevant element. MgC seamlessly manages changes in load data in the sector coupling model, offering intuitive interfaces for parameter updates and advanced algorithms for resource allocation. This ensures optimal microgrid operation and resilience, making MgC essential for effective sector coupling modeling.
 
 #### Timestep:&#x20;
 
 The timestep determines how often the weather data updates and plots the kW values on the diagram over time. If the timestep is smaller, we get more frequent updates and a finer view of power changes. With a larger timestep, updates are less frequent, giving a broader view.
 
-The electricity demand profile for the timestep vs power can be visualized in the timestep vs power as shown in the below screenshot.
+The electricity demand profile can be visualized in the timestep vs power graph, as depicted in the screenshot below. Demand is highest during the winter season and lowest in the summer months.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.58.44 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.25.27 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Statistical details and values distribution for electricity demand can be seen in the resource ribbon under the drop-down feature in the MgC. This applies to all loads such as batteries, building, cold, and heat storage, within the electricity, heating, and cooling domains.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-11 at 6.06.10 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
 **Project saving:** Saving a project in MgC is essential for preserving work progress. By clicking "Save," users securely store project data, ensuring easy retrieval and management.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.01.28 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.34.53 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Project simulation:** In MgC, the project simulation is initiated by selecting the "Simulate" option, enabling users to analyze and evaluate the performance of their microgrid design. This process provides valuable insights into system behavior and assists in making informed decisions for optimal operation and efficiency.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 5.01.39 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.36.48 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Results
 
