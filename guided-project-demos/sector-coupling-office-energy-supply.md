@@ -55,7 +55,7 @@ Step 1: To start a new project in MgC, simply click on the "New Project" option 
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.13.26 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Step 2: Choose the project location, allowing MgC to access energy sources like weather data for wind and solar.
+Step 2: Choose the project location, allowing MgC to access energy sources like weather data for wind, solar, and other parameters.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.02.31 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
