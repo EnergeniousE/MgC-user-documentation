@@ -35,7 +35,7 @@ MgC stands out in the rooftop system by offering a unified platform for designin
 
 By leveraging these features, MgC empowers users to model Rooftop Systems with confidence, ensuring efficient design, optimal performance, and positive environmental and economic outcomes.
 
-CO\<sub>2\</sub>
+\CO\<sub>2\</sub>
 
 {% hint style="info" %}
 The following template guides through the public project's key aspects: objectives, resources, technologies, and loads for effective rooftop system project modeling.
