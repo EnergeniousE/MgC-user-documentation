@@ -16,7 +16,7 @@
     * [Project simulation](user-interface-ui-navigation/project-setup-and-simulation/project-simulation.md)
 * [Analytics and features](data-analysis-and-visualization/README.md)
   * [Sensitivity analysis](data-analysis-and-visualization/sensitivity-analysis.md)
-  * [Key Performance Indicators(KPI´s)](data-analysis-and-visualization/key-performance-indicators-kpi-s.md)
+  * [Key Performance Indicators](data-analysis-and-visualization/key-performance-indicators-kpi-s.md)
   * [Project results](data-analysis-and-visualization/project-results.md)
   * [Exporting the project](data-analysis-and-visualization/save-and-exporting-the-project.md)
 * [Modeling and optimization](modeling-and-optimization/README.md)
