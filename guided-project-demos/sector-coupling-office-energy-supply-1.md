@@ -201,7 +201,7 @@ Accessible within the results section's summary page, the project summary in MgC
 
 **Installed capacities:** As per the project specifications, the grid connection capacity is highest at approximately 68 kW, while the capacity of PV modules is lowest at 30 kW among installed capacities. This aligns with the expectation that PV generation occurs primarily during daylight hours.
 
-**CO\_2 emissions:** In line with project specifications, rooftop PV substantially cuts emissions by about 0.7 tonnes, making a meaningful impact on reducing the overall environmental footprint.
+**CO<sub>2</sub> emissions:** In line with project specifications, rooftop PV substantially cuts emissions by about 0.7 tonnes, making a meaningful impact on reducing the overall environmental footprint.
 
 **Operation time:** The power grid connection maintains a longer operational time, approximately 8300 hours, compared to PV, which operates for about 4900 hours. This difference stems from the grid's continuous availability, contrasting with PV's reliance on daylight hours for generation.
 
