@@ -79,7 +79,7 @@ The following template guides through the public project's key aspects: objectiv
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" data-size="original">
 
-**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO\_2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving 25% of CAPEX/OPEX has been selected here.
+**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving $$CO_{2}$$emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving 25% of CAPEX/OPEX has been selected here.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 3.53.52 PM.png" alt="" data-size="original">
 
@@ -195,11 +195,11 @@ Following simulation, MgC presents users with a results section for flexible exp
 
 **Summary**
 
-Accessible within the results section's summary page, the project summary in MgC offers a comprehensive overview of key metrics including installed capacities, CO2 emissions, operation time, and asset costs. This enables users to swiftly grasp the project's performance and financial implications.
+Accessible within the results section's summary page, the project summary in MgC offers a comprehensive overview of key metrics including installed capacities, $$CO_{2}$$ emissions, operation time, and asset costs. This enables users to swiftly grasp the project's performance and financial implications.
 
 **Installed capacities:** As per the project specifications, the grid connection capacity is highest at approximately 68 kW, while the capacity of PV modules is lowest at 30 kW among installed capacities. This aligns with the expectation that PV generation occurs primarily during daylight hours.
 
-**CO2 emissions:** In line with project specifications, rooftop PV substantially cuts emissions by about 0.7 tonnes, making a meaningful impact on reducing the overall environmental footprint.
+$$CO_{2}$$**emissions:** In line with project specifications, rooftop PV substantially cuts emissions by about 0.7 tonnes, making a meaningful impact on reducing the overall environmental footprint.
 
 **Operation time:** The power grid connection maintains a longer operational time, approximately 8300 hours, compared to PV, which operates for about 4900 hours. This difference stems from the grid's continuous availability, contrasting with PV's reliance on daylight hours for generation.
 

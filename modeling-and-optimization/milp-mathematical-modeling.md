@@ -4,11 +4,10 @@ MgC enhances decision-making and optimization in microgrid design, and MILP serv
 
 **Weighted multi-objective**
 
-The MgC uses a weighted multi-objective approach to evaluate and optimize microgrid designs. It calculates a single metric, "F" by considering various components ($$F_1, F_2, ..., F_k$$) and their importance. The weights ($$α_1, α_2, ..., α_k$$) are assigned to these components, and "$$F_{1,ref}, F_{2,ref},..., F_{k,ref}$$" serve as reference values. This formula allows for a customized evaluation of microgrid designs and facilitates decision-making by producing a clear and objective result.&#x20;
+The MgC uses a weighted multi-objective approach to evaluate and optimize microgrid designs. It calculates a single metric, "F" by considering various components ($$F_1, F_2, ..., F_k$$) and their importance. The weights ($$α_1, α_2, ..., α_k$$) are assigned to these components, and "$$F_{1,ref}, F_{2,ref},..., F_{k,ref}$$" serve as reference values. This formula allows for a customized evaluation of microgrid designs and facilitates decision-making by producing a clear and objective result.
 
 $$
-min\ F = (α_1\frac{F_1}{F_1,ref}+α_2\frac{F_2}{F_2,ref}+....α_k\frac{F_k}{F_k,ref}); 
-\\∑_{}^kα_k=1(k=1,2,...K)
+min\ F = (α_1\frac{F_1}{F_1,ref}+α_2\frac{F_2}{F_2,ref}+....α_k\frac{F_k}{F_k,ref}); \\∑_{}^kα_k=1(k=1,2,...K)
 $$
 
 This is crucial for microgrid design because it enables:
@@ -24,9 +23,7 @@ A core feature of MgC, it ensures economic viability in microgrid design, optimi
 MgC minimizes total economic cost, consisting of component costs, energy costs, and income from energy production by this approach.
 
 $$
-min\:F_{ecn} =∑_{\substack{i}}C_{Cmp,i}+∑_{\substack{n}}C_{Ene,n}-∑_{\substack{i}}B_{Ene,i} \\\ \\∑_{\substack{i}}C_{Cmp,i} \:is\:component\:cost
-\\∑_{\substack{n}}C_{Ene,n} \:is\:Energy\:cost 
-\\∑_{\substack{i}}B_{Ene,i} \:is\:Energy\:income
+min\:F_{ecn} =∑_{\substack{i}}C_{Cmp,i}+∑_{\substack{n}}C_{Ene,n}-∑_{\substack{i}}B_{Ene,i} \\\ \\∑_{\substack{i}}C_{Cmp,i} \:is\:component\:cost \\∑_{\substack{n}}C_{Ene,n} \:is\:Energy\:cost \\∑_{\substack{i}}B_{Ene,i} \:is\:Energy\:income
 $$
 
 MgC approaches for precise **component cost evaluation**, ensuring economic considerations in microgrid design. It is crucial for comprehensive cost assessment, considering all economic aspects of individual components.
@@ -34,13 +31,10 @@ MgC approaches for precise **component cost evaluation**, ensuring economic cons
 It calculates the total cost of a microgrid component "i", including investment cost, financing cost, incentives, and operational and maintenance costs.
 
 $$
-C_{cmp,i} =γ_iC_{Cmp,i}+γ_iC_{Fnc,i}-γ_{i}ρ_{Inc,i}+∑_{\substack{v}}C_{OM,v,i} \\\ Where\:(γ_iC_{Cmp,i})\:is\:Investment\:cost
-\\(γ_iC_{Fnc,i}) \:is\:Financing\:cost 
-\\(γ_{i}ρ_{Inc,i} )\:is\:Incentives  
-\\(∑_{\substack{v}}C_{OM,v,i})\:is\:OMC
+C_{cmp,i} =γ_iC_{Cmp,i}+γ_iC_{Fnc,i}-γ_{i}ρ_{Inc,i}+∑_{\substack{v}}C_{OM,v,i} \\\ Where\:(γ_iC_{Cmp,i})\:is\:Investment\:cost \\(γ_iC_{Fnc,i}) \:is\:Financing\:cost \\(γ_{i}ρ_{Inc,i} )\:is\:Incentives \\(∑_{\substack{v}}C_{OM,v,i})\:is\:OMC
 $$
 
-Mgc cleverly calculates the **operational and maintenance cost (OMC)** of a microgrid component "i" by considering three key components: size-independent OMC, size-dependent OMC, and operation-dependent OMC.&#x20;
+Mgc cleverly calculates the **operational and maintenance cost (OMC)** of a microgrid component "i" by considering three key components: size-independent OMC, size-dependent OMC, and operation-dependent OMC.
 
 It provides a detailed breakdown of the costs associated with maintaining and operating the component. In MgC, this approach plays a vital role in precisely estimating OMC, aiding in cost assessment and informed decision-making during microgrid design.
 
@@ -57,10 +51,7 @@ $$
 Mgc calculates the **"energy income"** for a specific microgrid component "i" by taking into account the revenue generated from "exporting power" and "self-consumption" over a specified time. It is a vital tool in the economic analysis of microgrid components, providing insights into the income earned from exporting excess power and self-consuming generated energy, thus supporting sound financial decision-making within the context of MgC (Microgrid Control).
 
 $$
-B_{Ene,i}=∑_{\substack{t}}P_{exp,i}b_{exp,i}\varDelta t-∑_{\substack{t}}P_{sfc,i}b_{sfc,i}\varDelta t
-
-\\\\Where (∑_{\substack{t}}P_{exp,i}b_{exp,i}\varDelta t)\:is\:Export\:income\\
-(∑_{\substack{t}}P_{sfc,i}b_{sfc,i}\varDelta t)\:is\:Self-consumption\:income
+B_{Ene,i}=∑_{\substack{t}}P_{exp,i}b_{exp,i}\varDelta t-∑_{\substack{t}}P_{sfc,i}b_{sfc,i}\varDelta t \\\\Where (∑_{\substack{t}}P_{exp,i}b_{exp,i}\varDelta t)\:is\:Export\:income\\ (∑_{\substack{t}}P_{sfc,i}b_{sfc,i}\varDelta t)\:is\:Self-consumption\:income
 $$
 
 **Environmental modeling**
@@ -73,7 +64,7 @@ $$
 f_{PE}=\frac{\displaystyle\sum_{t=1}^T\displaystyle\sum_{n=1}^NPE_{n,t}}{\displaystyle\sum_{t=1}^T\displaystyle\sum_{k=1}^KNE_{k,t}}
 $$
 
-MgC quantifies the **proportion of final energy**(FE) used within a system´s net energy(NE), aiding energy efficiency assessments and sustainable decision-making. As a MgC feature, it optimizes final energy utilization in the microgrid, fostering eco-friendly practices for efficiency and sustainability.
+MgC quantifies the **proportion of final energy**(FE) used within a system's net energy(NE), aiding energy efficiency assessments and sustainable decision-making. As a MgC feature, it optimizes final energy utilization in the microgrid, fostering eco-friendly practices for efficiency and sustainability.
 
 $$
 f_{FE}=\frac{\displaystyle\sum_{t=1}^T\displaystyle\sum_{f=1}^MFE_{m,t}}{\displaystyle\sum_{t=1}^T\displaystyle\sum_{k=1}^KNE_{k,t}}
