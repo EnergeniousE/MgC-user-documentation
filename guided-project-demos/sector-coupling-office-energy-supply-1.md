@@ -77,11 +77,9 @@ The following template guides through the public project's key aspects: objectiv
 
 **Step 4:** In the second step of project specifications, users can configure the initial settings of system components like resources, loads, and technologies to tailor the solar rooftop system to specific requirements. This customization ensures that the microgrid system is optimized to meet the unique needs and goals of the project.
 
-<img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" data-size="original"> <img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" data-size="original">
 
-<img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" data-size="original">
-
-**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving \CO<sub>2</sub> emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving 25% of CAPEX/OPEX has been selected here.
+**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving \CO\_2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving 25% of CAPEX/OPEX has been selected here.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 3.53.52 PM.png" alt="" data-size="original">
 
@@ -97,7 +95,7 @@ The following template guides through the public project's key aspects: objectiv
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.00.23 PM.png" alt="" data-size="original">
 
-MgC provides flexibility and time-saving benefits to the user by offering templates with required technologies and loads. Users can easily modify attributes of selected elements and add new elements or loads as needed.&#x20;
+MgC provides flexibility and time-saving benefits to the user by offering templates with required technologies and loads. Users can easily modify attributes of selected elements and add new elements or loads as needed.
 
 </details>
 
@@ -117,7 +115,7 @@ The features of the MgC can be explored more by clicking on the respective featu
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.09.29 PM.png" alt="" data-size="original">
 
-#### Weather data
+**Weather data**
 
 The weather data is gathered automatically from the selected location by the MgC. The weather profile such as global horizontal radiation for solar energy, dry bulb temperature, and wind speed can be seen as shown in the below screenshot.
 
@@ -127,15 +125,15 @@ Statistical details for the weather data at the Stuttgart location can be seen i
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.13.58 PM.png" alt="" data-size="original">
 
-#### Consumer electricity
+**Consumer electricity**
 
-MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time.&#x20;
+MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time.
 
 Here in the below image, the increase in the base cost of consumer electricity tariff composition likely aims to stabilize the grid by encouraging more efficient energy use. Adjusting the equivalent GHG emissions for a rooftop system without additional technologies ensures accurate environmental impact assessment, supporting informed decision-making and sustainability goals.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 5.56.48 PM.png" alt="" data-size="original">
 
-#### Feed-in tariff
+**Feed-in tariff**
 
 Innovatively, users can swiftly customize feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters, enhancing flexibility and efficiency.
 
@@ -163,7 +161,7 @@ Additional specifications like technical, economic, and environmental parameters
 
 In the rooftop system template, initially only building and battery loads are selected, but users can choose additional loads such as heating and cooling before simulating the project. Peak values for electrical, cooling, and heating loads can be adjusted by double-clicking on the relevant element. MgC seamlessly manages changes in load data in the sector coupling model, offering intuitive interfaces for parameter updates and advanced algorithms for resource allocation. This ensures optimal microgrid operation and resilience, making MgC essential for effective sector coupling modeling.
 
-#### Timestep:&#x20;
+**Timestep:**
 
 The timestep determines how often the weather data updates and plots the kW values on the diagram over time. If the timestep is smaller, we get more frequent updates and a finer view of power changes. With a larger timestep, updates are less frequent, giving a broader view.
 
@@ -213,11 +211,9 @@ Accessible within the results section's summary page, the project summary in MgC
 
 Within this section, users can examine how energy production and demand are distributed within the "Rooftop System," gaining valuable insights into the balance between sources and requirements. This analysis aids in optimizing resource allocation and strengthening the sustainability of the microgrid system.
 
-**Electricity generation:** Consumer electricity comprises 84% of the energy mix, indicating its substantial role in meeting demand, while rooftop PV contributes 16%, highlighting its growing importance in renewable energy integration. &#x20;
+**Electricity generation:** Consumer electricity comprises 84% of the energy mix, indicating its substantial role in meeting demand, while rooftop PV contributes 16%, highlighting its growing importance in renewable energy integration.
 
 **Electricity demand:** The electricity demand solely originates from the building loads, accounting for 100% of the overall demand within the system.
-
-
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.39.59 PM.png" alt="" data-size="original">
 
@@ -239,7 +235,7 @@ Visualization of heating and cooling domain loads data is accessible upon modeli
 
 **Cost analysis**
 
-The project lifetime vs expenses graph typically depicts high CAPEX and OPEX during the initial period, consistent with standard project financing trends. NPV, or net present value, represents the present value of all cash inflows and outflows over the project's lifetime, adjusted for the time value of money.&#x20;
+The project lifetime vs expenses graph typically depicts high CAPEX and OPEX during the initial period, consistent with standard project financing trends. NPV, or net present value, represents the present value of all cash inflows and outflows over the project's lifetime, adjusted for the time value of money.
 
 Users can adjust the discount rate above the graph to reflect changes in project financing conditions, influencing NPV calculations accordingly.
 
