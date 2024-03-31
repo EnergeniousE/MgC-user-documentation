@@ -35,7 +35,5 @@
 * [\[WIP\] Elements creation](elements-creation.md)
 * [\[WIP\] Guided projects](guided-project-demos/README.md)
   * [Sector coupling-offices](guided-project-demos/sector-coupling-office-energy-supply.md)
-  * [Copy of Sector coupling-offices](guided-project-demos/sector-coupling-office-energy-supply-1.md)
-  * [Rooftop system](guided-project-demos/sector-coupling-office-energy-supply-1-1.md)
-  * [Copy of Rooftop system](guided-project-demos/sector-coupling-office-energy-supply-1-2.md)
+  * [Rooftop system](guided-project-demos/sector-coupling-office-energy-supply-1-2.md)
   * [Electric vehicle-EV](guided-project-demos/electric-vehicle-ev.md)
