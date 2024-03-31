@@ -40,7 +40,7 @@ In the Resources section, users have the ability to edit the resources of energy
 <figure><img src="../.gitbook/assets/3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-MgC users can also upload the weather data from their own weather database. Get more info in XYZ.&#x20;
+MgC users can also upload the weather data from their own weather database. &#x20;
 {% endhint %}
 
 **Loads**
