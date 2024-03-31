@@ -17,11 +17,11 @@ layout:
     visible: true
 ---
 
-# Copy of Rooftop system
+# Rooftop system
 
 **Concept:**
 
-The 'Rooftop system concept' refers to the design and implementation of solar panels on building rooftops to generate electricity from sunlight. By harnessing solar power directly from rooftops, this approach helps to reduce reliance on traditional energy sources, lower electricity bills, and contribute to a more sustainable and environmentally friendly energy system.
+It refer to the design and implementation of solar panels on building rooftops to generate electricity from sunlight. By harnessing solar power directly from rooftops, this approach helps to reduce reliance on traditional energy sources, lower electricity bills, and contribute to a more sustainable and environmentally friendly energy system.
 
 **MgC's capability in "Rooftop System" modeling:**
 

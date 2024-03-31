@@ -19,7 +19,7 @@ layout:
 
 # Sector coupling-offices
 
-**Sector coupling concept:**
+**Concept:**
 
 Sector coupling refers to the integration and coordination of different energy sectors, such as electricity, heating, and transportation, to enhance overall efficiency and sustainability. The aim is to create synergies between traditionally isolated sectors, allowing them to interact and complement each other. For instance, surplus electricity generated from renewable sources can be used to produce heat or power electric vehicles, contributing to a more integrated and flexible energy system.
 
