@@ -35,6 +35,8 @@ MgC stands out in the rooftop system by offering a unified platform for designin
 
 By leveraging these features, MgC empowers users to model Rooftop Systems with confidence, ensuring efficient design, optimal performance, and positive environmental and economic outcomes.
 
+CO\<sub>2\</sub>
+
 {% hint style="info" %}
 The following template guides through the public project's key aspects: objectives, resources, technologies, and loads for effective rooftop system project modeling.
 {% endhint %}
@@ -63,6 +65,8 @@ The following template guides through the public project's key aspects: objectiv
 
 <summary>Template selection</summary>
 
+
+
 **Step 1:** To get the benefits of the rooftop system in MgC, simply click on the "New Project" option available in the MgC interface.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.13.26 PM (1).png" alt="" data-size="original">
@@ -77,9 +81,9 @@ The following template guides through the public project's key aspects: objectiv
 
 **Step 4:** In the second step of project specifications, users can configure the initial settings of system components like resources, loads, and technologies to tailor the solar rooftop system to specific requirements. This customization ensures that the microgrid system is optimized to meet the unique needs and goals of the project.
 
-<img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" data-size="original"> <img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" data-size="original"><img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" data-size="original">
 
-**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO<sub>2</sub> emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving 25% of CAPEX/OPEX has been selected here.
+**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving 25% of CAPEX/OPEX has been selected here.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 3.53.52 PM.png" alt="" data-size="original">
 
