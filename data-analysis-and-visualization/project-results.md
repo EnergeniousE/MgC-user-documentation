@@ -11,13 +11,13 @@ description: >-
 
 The simulation results in MgC can be accessed and explored by clicking on the **"Results"** section, conveniently located under the **"Action"** feature on the left side of the MgC layout. Here, a comprehensive summary of crucial project details, including [**installed capacities**](../glossary/definitions.md#reference-for-kpi-formulas)**,** [**emissions data**](../glossary/definitions.md#reference-for-kpi-formulas)**,** [**operational timelines**](../glossary/definitions.md#reference-for-kpi-formulas)**, and** [**annualized asset costs**](../glossary/definitions.md#reference-for-kpi-formulas), can be viewed, facilitating a thorough examination of key project insights and outcomes.
 
-<figure><img src="../.gitbook/assets/23 (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/23 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Energy mix**
 
 Access to data on electricity, heat, and cooling demand and generation can be obtained by choosing the **"Energy Mix"** option within the "Results" menu. A comprehensive overview of how these critical energy components are interrelated within the project can be provided, facilitating a deeper understanding of energy dynamics and the optimization of the microgrid system for efficiency and sustainability.
 
-<figure><img src="../.gitbook/assets/24.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/24.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Sankey diagram**
 
@@ -31,7 +31,7 @@ Choose the Sankey diagram in the results section of the MgC and **select the lay
 
 Once the layer is selected, the built-in functions within the MgC automatically visualize the relevant flows based on the simulated data. Here the total energy flow is selected for the explanation purpose.
 
-<figure><img src="../.gitbook/assets/26.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/26.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Optimal operation**
 
@@ -39,7 +39,7 @@ MgC offers "optimal operation" which involves using the data and visualization p
 
 Checkout this functionality within the "Optimal Operation" section located under the "Results" category. It offers noteworthy recommendations for optimizing the efficiency of the microgrid's operation.
 
-<figure><img src="../.gitbook/assets/27.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/27.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Cost analysis**
 
@@ -47,4 +47,4 @@ Cost analysis in the MgC is facilitated, allowing valuable insights into the fin
 
 The MgC offers a detailed cost analysis covering project expenses throughout its lifespan, encompassing both [CAPEX](../glossary/definitions.md#reference-for-kpi-formulas) and [OPEX](../glossary/definitions.md#reference-for-kpi-formulas). This feature can be accessed by clicking on "Cost Analysis" within the "Results" section, providing valuable financial insights for effective project management.
 
-<figure><img src="../.gitbook/assets/28.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/28.png" alt="" width="375"><figcaption></figcaption></figure>

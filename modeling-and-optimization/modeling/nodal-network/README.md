@@ -10,11 +10,11 @@ MgC enables users to model networked nodes and their connections, optimize these
 
 Figure ´a´ displays the energy flow between Node 1, other nodes, and the external distribution network. By utilizing nodal network techniques, MgC enables the exchange of energy transfer information between Node 1, other nodes, and the external distribution network. This ensures microgrid stability and efficient energy management.
 
-<figure><img src="../../../.gitbook/assets/2023-10-29 09_43_57-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit) (1).png" alt="" width="427"><figcaption><p>a). Individual nodal network</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-10-29 09_43_57-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit) (1).png" alt="" width="285"><figcaption><p>a). Individual nodal network</p></figcaption></figure>
 
 The concept represented in Figure 'b' illustrates MgC's approach of interconnected nodal networks, exchanging energy sources and information. This concept is integral to MgC's functionality.
 
-<figure><img src="../../../.gitbook/assets/2023-10-29 09_44_31-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit) (2).png" alt="" width="460"><figcaption><p>b). Nodal network</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-10-29 09_44_31-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit) (2).png" alt="" width="307"><figcaption><p>b). Nodal network</p></figcaption></figure>
 
 MgC works with networked nodes in the following way:
 
@@ -27,4 +27,4 @@ MgC works with networked nodes in the following way:
 
 MgC's nodal network concept is at the core of its technology. It efficiently manages energy distribution and ensures microgrid stability. It takes inputs from nodal networks and considers user-defined objectives. Figure 'C' illustrates how MgC coordinates energy from environmental and external resources, distributing it to technical components. It maintains stability by balancing energy demand, supply, and grid connection. The nodal network technique facilitates seamless communication between domains (electric, heating, cooling) within nodes, allowing energy transfer to other nodes for grid stability. This concept achieves effective energy distribution and system stability, aligning with user objectives. The examples for the nodal networks are given in the [examples section.](nodal-networks-examples.md)
 
-<figure><img src="../../../.gitbook/assets/2023-10-29 09_46_28-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit).png" alt="" width="563"><figcaption><p>c). Single node network</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-10-29 09_46_28-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit).png" alt="" width="375"><figcaption><p>c). Single node network</p></figcaption></figure>

@@ -15,7 +15,7 @@ coverY: 113
 
 1. ### Simple and ease-of-use
 
-<figure><img src=".gitbook/assets/steps-normalized-light-grey.png" alt=""><figcaption><p>Simple Application</p></figcaption></figure>
+<figure><img src=".gitbook/assets/steps-normalized-light-grey.png" alt="" width="450"><figcaption><p>Simple Application</p></figcaption></figure>
 
 In 4 steps to your goal:
 
@@ -26,7 +26,7 @@ In 4 steps to your goal:
 
 2. **Data visualization & export**
 
-<figure><img src=".gitbook/assets/data-visualization-normalized-1.jpg" alt=""><figcaption><p>Comprehensive data visualization features</p></figcaption></figure>
+<figure><img src=".gitbook/assets/data-visualization-normalized-1.jpg" alt="" width="450"><figcaption><p>Comprehensive data visualization features</p></figcaption></figure>
 
 The extensive visualization features give you a quick overview of the most important parameters and optimization results.
 
@@ -37,7 +37,7 @@ Seeing what matters at a glance saves you a lot of time and effort.
 
 3. **Work flexibility**
 
-<figure><img src=".gitbook/assets/work-normalized-1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/work-normalized-1.jpg" alt="" width="450"><figcaption></figcaption></figure>
 
 Manage your project on any device at any time.
 
@@ -45,7 +45,7 @@ Manage your project on any device at any time.
 * deal with it more closely on the way to your customers,
 * and change it when meeting with your project partners.
 
-**MicrogridCreator** 's cloud concept enables you to work together on your projects whenever you want.
+**MicrogridCreator** 's cloud concept enables the user to work together on projects whenever there is a requirement.
 
 4. **Learning & Teaching**
 

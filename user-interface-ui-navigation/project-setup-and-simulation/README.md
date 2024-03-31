@@ -17,5 +17,3 @@ Project setup and simulation in the MgC involve the following key steps:
 4. **Export and documentation:** Export simulation results as PDF reports for documentation and sharing.
 
 MgC simplifies project setup and simulation, aiding efficient microgrid design and performance evaluation.
-
-\

@@ -2,7 +2,7 @@
 
 The image represents a nodal network encompassing various energy domains: electric power, heat, and cooling in MgC network modeling. Within each domain, medium and low energy networks are interconnected. These networks draw energy from sources like the power grid, natural gas grid, and on-site renewables. Technical components like transformers, PV plants, co-generation units, and others efficiently transfer energy to their respective domains. MgC manages this energy distribution seamlessly through nodal networks, ensuring an efficient and stable grid. This approach guarantees uninterrupted operations, making it possible to achieve project objectives successfully.
 
-<figure><img src="../../../.gitbook/assets/2023-10-29 09_48_07-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit).png" alt=""><figcaption><p>a). MgC 3-node-system network modeling</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-10-29 09_48_07-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit).png" alt="" width="375"><figcaption><p>a). MgC 3-node-system network modeling</p></figcaption></figure>
 
 MgC intelligently models nodes using domain layers, as depicted in image 'b', while taking into account constraints and pertinent parameters. The top two domain layers cater to Alternating Current(AC) with both Medium and Low voltages(MV & LV). Subsequently, the heating and cooling domains are represented. Notably, the black dots signify nodes where energy inputs and outputs facilitate the exchange of energy and information. This interconnected approach ensures an efficient and stable network system.
 
@@ -20,6 +20,4 @@ The heating domain layer is succeeded by the cooling domain layer, housing a nod
 
 This approach, guided by MgC, allows for the systematic and efficient operation of various components, creating a well-coordinated and interconnected energy ecosystem.
 
-
-
-<figure><img src="../../../.gitbook/assets/2023-10-29 09_48_53-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit).png" alt=""><figcaption><p>b). MgC decentralized Multi-energy systems</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-10-29 09_48_53-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit).png" alt="" width="375"><figcaption><p>b). MgC decentralized Multi-energy systems</p></figcaption></figure>

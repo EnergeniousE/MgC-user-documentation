@@ -52,9 +52,9 @@ Through the use of MILP techniques, MgC offers an optimized model that closely a
 
 MgC's modeling approach is both methodical and user-friendly, allowing for efficient and effective application in various contexts.&#x20;
 
-As shown in below graph, It begins with linear programming, represented in grey, and then seamlessly transitions to integer programming, illustrating feasible solutions with black dots on the x and y axes. The next step involves plotting user-specified objective planes, pinpointing the exact intersection point where two lines meet. This point of convergence, closely matching the user's objective, is highlighted as a blue line in the graph below.&#x20;
+As shown in the below graph, It begins with linear programming, represented in grey, and then seamlessly transitions to integer programming, illustrating feasible solutions with black dots on the x and y axes. The next step involves plotting user-specified objective planes, and pinpointing the exact intersection point where two lines meet. This point of convergence, closely matching the user's objective, is highlighted as a blue line in the graph below.&#x20;
 
-<figure><img src="../../.gitbook/assets/2023-10-28 11_41_55-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit) (1).png" alt="" width="408"><figcaption><p>MgC modeling approach</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-10-28 11_41_55-MicroGrid-Creator_Modeling-Optimization.pdf - Adobe Acrobat Reader (32-bit) (1).png" alt="" width="272"><figcaption><p>MgC modeling approach</p></figcaption></figure>
 
 MgC's approach is distinctive, combining both network and process-oriented modeling. This integration provides a comprehensive understanding of microgrid dynamics, optimizing configurations based on a complete view of the network structure and operational processes. MgC ensures the efficient design and reliable operation of microgrids, meeting user-defined objectives for cost-efficiency and performance reliability.
 
@@ -62,7 +62,7 @@ MgC's approach is distinctive, combining both network and process-oriented model
 
 MgC harnesses network-oriented modeling to map the intricate web of connections between energy sources, loads, and storage within a microgrid. This approach resembles creating a digital blueprint of technical component interactions, optimizing the microgrid for enhanced performance and cost-effectiveness.
 
-<figure><img src="../../.gitbook/assets/Picture6 (1).png" alt="" width="563"><figcaption><p>MgC´s network-oriented modeling approach</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Picture6 (1).png" alt="" width="375"><figcaption><p>MgC´s network-oriented modeling approach</p></figcaption></figure>
 
 **Process-oriented modeling approach**
 

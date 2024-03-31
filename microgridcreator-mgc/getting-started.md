@@ -20,24 +20,24 @@ description: >-
 
 **Step 4:** Select the **"Sign Up for Free"** toggle button.
 
-<figure><img src="../.gitbook/assets/4 (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step 5:** Complete the account creation process by providing the necessary information on the **account registration** **page** on the Energenious website.
 
-<figure><img src="../.gitbook/assets/5 (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step 6:** After the account has been created, access to the tools provided by Energenious will be granted. Among these tools, **"MgC"** can be clicked on.
 
-<figure><img src="../.gitbook/assets/6 (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step 7:** Then, initiate a formal request for a free trial to begin exploring the **MgC** tool.
 
-<figure><img src="../.gitbook/assets/7 (7).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7 (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step 8:** Upon the completion of the trial period, access to the **"Run"** option will be provided, enabling the commencement of your journey with MgC.
 
-<figure><img src="../.gitbook/assets/8 (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8 (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step 9:** Upon clicking the Run button, the initial page of MgC will be displayed as follows.
 
-<figure><img src="../.gitbook/assets/9 (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9 (4).png" alt="" width="375"><figcaption></figcaption></figure>

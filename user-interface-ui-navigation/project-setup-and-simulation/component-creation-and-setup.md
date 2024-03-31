@@ -8,15 +8,15 @@ description: >-
 
 The creation of components in the domains of MgC is initiated by selecting the **'Network'** option under the 'System Design' feature. The design of the network, incorporating various equipment and loads, can be seamlessly achieved within the **electricity, heating, and cooling domains**, as demonstrated in the illustration below. On the right side of the layout, a comprehensive display of the **loads, technologies, and resources** utilized in the network's domains will be displayed. These intriguing features of MgC can be explored with a simple click on the 'Network' option.
 
-<figure><img src="../../.gitbook/assets/7 (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Component creation**
 
-Prescribed components and user-generated components in the selected template are depicted in a vivid color, while uncreated components are rendered in a pale shade.
+Prescribed components and user-generated components in the selected template are depicted in vivid color, while uncreated components are rendered in a pale shade.
 
 To generate a new component within the network, just **click on the uncreated component**, and **provide the necessary details** for project simulation.
 
-<figure><img src="../../.gitbook/assets/9 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Details input**
 
@@ -28,9 +28,9 @@ After the details have been provided, the element can be created by selecting th
 
 **Component Parameters and specifications**
 
-After the component is created in the network, the _**basic parameters, financial information, and specifications, including technical, economic, and environmental details**_, can be viewed and edited. This feature distinguishes MgC as a tool for designing reliable network components.
+After the component is created in the network, the **basic parameters, financial information, and specifications, including technical, economic, and environmental details**, can be viewed and edited. This feature distinguishes MgC as a tool for designing reliable network components.
 
-<figure><img src="../../.gitbook/assets/11 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <details>
 
@@ -54,13 +54,13 @@ Similarly, environmental specifications play a crucial role in assessing the eco
 
 </details>
 
-<figure><img src="../../.gitbook/assets/12 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Once a component is created with its specifications, it becomes visible in the network domain, under the relevant section on the right side, as shown below. For example, an Electric generator created in the network will be displayed under the 'Technologies' section.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/13 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/13 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 At any time, users have the flexibility to access the properties of loads, technologies, and resources for editing or removal within the 'Elements' section. This feature is one of the intriguing capabilities offered by MgC, and users can explore it using the MgC tool.
@@ -68,13 +68,13 @@ At any time, users have the flexibility to access the properties of loads, techn
 
 <figure><img src="../../.gitbook/assets/14 (1).png" alt="" width="145"><figcaption></figcaption></figure>
 
-_**Details of the domains**_
+**Details of the domains**
 
 Accessing input parameters for technical, economic, and environmental domains in the 'Details' section of system design is a notable feature in MgC, offering comprehensive insights into capacity, costs, and environmental impacts.
 
-<figure><img src="../../.gitbook/assets/15 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/15 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-_**Resources**_
+**Resources**
 
 Essential resources needed for simulating the project can be provided with a click on 'Add New Instance.' These parameters are vital for technology, load, and economic assessments.&#x20;
 
@@ -82,15 +82,15 @@ Essential resources needed for simulating the project can be provided with a cli
 MgC offers the flexibility to edit or create natural resources like weather and soil data, commodities including electricity, natural gas, hydrogen, and fuel, as well as financial resources like feed-in tariffs, PPAs, and grants at any given moment."
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/16 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/16 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-_**Loads**_
+**Loads**
 
 In MgC's 'Loads' section within the advanced features, users can effortlessly add instances of electrical, heating, and cooling loads, showcasing the tool's user-friendly approach to managing diverse load types.
 
-<figure><img src="../../.gitbook/assets/17 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/17 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-_**Adding loads in the domain network**_
+**Adding loads in a domain network**
 
 To include new loads in the domain, just select 'Add New Instance,' input the element name, choose the default hub for energy sourcing, and specify the data source for the load's name. A simple click on 'Add Element' will seamlessly integrate the load into the network domain, highlighting MgC's user-friendly functionality.
 
@@ -98,16 +98,16 @@ To include new loads in the domain, just select 'Add New Instance,' input the el
 If the user needs to add and edit the load or component, then simply click on "Add Element and Edit".
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/18 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/18 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-_**Timestep visualization**_
+**Timestep visualization**
 
-MgC's intriguing feature allows users to visualize loads and resources in timesteps by selecting specific elements, like 'Heat Load 1,' providing insights for whole year and particularly 5 months, covering the year's start and finish, where the heating load will be high in the network.
+MgC's intriguing feature allows users to visualize loads and resources in timesteps by selecting specific elements, like 'Heat Load 1,' providing insights for a whole year and particularly 5 months, covering the year's start and finish, where the heating load will be high in the network.
 
-<figure><img src="../../.gitbook/assets/19 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/19 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-_**Technologies**_
+**Technologies**
 
 MgC enables users to view various technologies in different domains by accessing the 'Technologies' feature, which displays the number of technologies within each domain. This flexibility allows users to create or add components to the network at any time, enhancing the management of Microgrid networks.
 
-<figure><img src="../../.gitbook/assets/20 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20 (1).png" alt="" width="375"><figcaption></figcaption></figure>

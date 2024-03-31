@@ -17,12 +17,12 @@ They enable seamless coordination between renewable energy sources, such as sola
 
 Following these steps, the process of creating new hubs is facilitated, enhancing the microgrid's capacity and control for efficient energy management.
 
-<figure><img src="../../.gitbook/assets/1 (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 To create the hub, begin by **clicking on the desired location** on the MgC layout map. Then the location data of the hub will be displayed in the popup. Next, **enter the hub's name** into the designated name box, and finally, submit the information to complete the hub creation process.
 
-<figure><img src="../../.gitbook/assets/2 (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 After submitting the hub creation request, the hub will be created and the relevant information about the hubs will be shown on the right side of the MgC layout as shown in the below image.
 
-<figure><img src="../../.gitbook/assets/3 (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3).png" alt="" width="375"><figcaption></figcaption></figure>

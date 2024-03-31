@@ -51,16 +51,15 @@ Considers the influence of inflation on operational costs, aiding in financial p
 
 Incorporating these KPIs will assist the MgC users in comprehending their importance and how they influence the performance and sustainability of a microgrid project. [**MgC's backend solver** ](../modeling-and-optimization/modeling/modeling-approach.md)empowers its users to shape the microgrid project according to the user's unique sustainability goals. By considering the user's specifications, it calculates emissions, ensuring a customized and environmentally responsible solution.
 
-\
 The performance indicators can be seen after simulating the project under the system design feature in the MgC layout.
 
-<figure><img src="../.gitbook/assets/1.png" alt="" width="563"><figcaption><p>Performance indicators for the project simulation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt="" width="375"><figcaption><p>Performance indicators for the project simulation</p></figcaption></figure>
 
 {% hint style="info" %}
-To access detailed information about a specific parameter, simply click on the adjacent information button for comprehensive guidance.
+To access detailed information about a specific parameter, simply click on the adjacent information button for comprehensive guidance as shown in below.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Explore the KPIs that steer the project towards cost-efficiency, reduced emissions, and optimized production. With MgC, one can put the project in control by providing precise insights into [LCOE (Levelized Cost of Energy)](../glossary/definitions.md#reference-for-kpi-formulas), total energy demand, renewable energy share, total grid exports, project lifetime, and total renewable energy in the microgrid. These turning points empower the users to make data-driven decisions, ensuring a sustainable and efficient energy future for the project.
 
@@ -94,4 +93,4 @@ Explore the KPIs that steer the project towards cost-efficiency, reduced emissio
 
 As part of MgC, the system overview showcases post-simulation results, presenting the project's essential KPIs in the report. This feature provides precise and relevant data for assessing and optimizing the system's key parameters, offering valuable insights for informed decision-making and performance evaluation within the microgrid. Utilizing MgC's insights into these factors optimizes project outcomes, promoting efficiency and sustainability.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption><p>Performance indicators after the project simulation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Performance indicators after the project simulation</p></figcaption></figure>
