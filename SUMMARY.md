@@ -34,6 +34,6 @@
   * [Stay connected and updated](glossary/stay-connected-and-updated.md)
 * [\[WIP\] Elements Creation](elements-creation.md)
 * [\[WIP\] Guided projects](guided-project-demos/README.md)
-  * [Sector coupling](guided-project-demos/sector-coupling-office-energy-supply.md)
+  * [Sector coupling-offices](guided-project-demos/sector-coupling-office-energy-supply.md)
   * [Rooftop system](guided-project-demos/sector-coupling-office-energy-supply-1.md)
-  * [Electric Vehicle-EV](guided-project-demos/retrofit-or-apartment-building-sector-coupling.md)
+  * [Electric vehicle-EV](guided-project-demos/retrofit-or-apartment-building-sector-coupling.md)
