@@ -6,7 +6,7 @@
   * [System requirements](microgridcreator-mgc/system-requirements.md)
   * [Getting started](microgridcreator-mgc/getting-started.md)
   * [Quick guide to MgC](microgridcreator-mgc/quick-guide-to-mgc.md)
-* [User Interface (UI) navigation](user-interface-ui-navigation/README.md)
+* [User interface navigation](user-interface-ui-navigation/README.md)
   * [Creating a project](user-interface-ui-navigation/creating-a-project.md)
   * [MgC´s layout](user-interface-ui-navigation/mgc-s-layout.md)
   * [Project setup and simulation](user-interface-ui-navigation/project-setup-and-simulation/README.md)
