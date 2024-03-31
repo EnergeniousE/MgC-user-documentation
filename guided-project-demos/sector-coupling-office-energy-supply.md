@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Sector coupling-office energy supply
+# Sector coupling-offices
 
 **Sector coupling concept:**
 
@@ -88,11 +88,9 @@ The following template guides through the public project's key aspects: objectiv
 
 **Step 4:** In the second step of project specifications, users can configure the initial settings of system components like resources, loads, and technologies to tailor the sector coupling to specific requirements. This customization ensures that the microgrid system is optimized to meet the unique needs and goals of the project.
 
-<img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.11 PM.png" alt="" data-size="original"> <img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" data-size="original">
 
-<img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" data-size="original">
-
-**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO<sub>2</sub> emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving a 75% reduction in emissions has been selected here.
+**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving a 75% reduction in emissions has been selected here.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.01 PM (1).png" alt="" data-size="original">
 
@@ -108,7 +106,7 @@ The following template guides through the public project's key aspects: objectiv
 
 <img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.54.15 PM.png" alt="" data-size="original">
 
-MgC provides flexibility and time-saving benefits to the user by offering templates with required technologies and loads. Users can easily modify attributes of selected elements and add new elements or loads as needed.&#x20;
+MgC provides flexibility and time-saving benefits to the user by offering templates with required technologies and loads. Users can easily modify attributes of selected elements and add new elements or loads as needed.
 
 </details>
 
@@ -124,7 +122,7 @@ The features of the MgC can be explored more by clicking on the respective featu
 
 <img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.03.40 PM.png" alt="" data-size="original">
 
-#### Weather data
+**Weather data**
 
 The weather data is gathered automatically from the selected location by the use of the MgC. The weather profile such as global horizontal radiation for solar energy, dry bulb temperature, and wind speed can be seen as shown in the below screenshot.
 
@@ -134,25 +132,25 @@ Statistical details for the weather data can be seen in the resource ribbon unde
 
 <img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.21.31 PM (1).png" alt="" data-size="original">
 
-#### Consumer electricity
+**Consumer electricity**
 
 MgC users can adjust the details and composition of costs, energy, and power parameters for consumer electricity by double-clicking on the respective parameters at any time, offering flexibility.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.03.55 PM.png" alt="" data-size="original">
 
-#### Natural gas
+**Natural gas**
 
 Different from conventional methods, MgC users can effortlessly adjust natural gas' technical, tariff, details, compositions, and environmental parameters by simply double-clicking on the respective parameters.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.04 PM.png" alt="" data-size="original">
 
-#### Diesel
+**Diesel**
 
 In MgC, users can easily adjust diesel's technical specs, tariffs, details, compositions, and environmental parameters with a simple double-click.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-11 at 5.04.13 PM.png" alt="" data-size="original">
 
-#### Feed-in tariff
+**Feed-in tariff**
 
 Innovatively, users can adjust feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters whenever needed.
 
@@ -180,11 +178,11 @@ The additional specifications such as technical, economic, and environmental par
 
 <summary>Loads</summary>
 
-In the sector coupling template, all loads except for EV vehicles and charging stations are initially unselected but can be chosen by the user at any point before simulating the project. Users can set electrical, cooling, and heating peak values in kW for loads by selecting the relevant element and double-clicking on the parameter as demonstrated below.&#x20;
+In the sector coupling template, all loads except for EV vehicles and charging stations are initially unselected but can be chosen by the user at any point before simulating the project. Users can set electrical, cooling, and heating peak values in kW for loads by selecting the relevant element and double-clicking on the parameter as demonstrated below.
 
 MgC efficiently handles changes in load data within the sector coupling model by providing intuitive interfaces for updating parameters and employing sophisticated algorithms for dynamic resource allocation. This ensures optimal operation and resilience of the microgrid, making MgC indispensable for effective sector coupling modeling.
 
-#### Timestep:&#x20;
+**Timestep:**
 
 The timestep determines how often the weather data updates and plots the kW values on the diagram over time. If the timestep is smaller, we get more frequent updates and a finer view of power changes. With a larger timestep, updates are less frequent, giving a broader view.
 
@@ -220,11 +218,11 @@ After simulation, MgC provides users with the results section, allowing for flex
 
 **Summary**
 
-The project summary, accessible on the results section's summary page, provides a comprehensive overview of key project metrics such as installed capacities, CO<sub>2</sub> emissions, operation time, and asset costs. This allows users to quickly understand and assess the project's performance and financial implications.
+The project summary, accessible on the results section's summary page, provides a comprehensive overview of key project metrics such as installed capacities, CO2 emissions, operation time, and asset costs. This allows users to quickly understand and assess the project's performance and financial implications.
 
 **Initialized capacities:** According to the project specifications, the hot water tank capacity is the highest, while the wind turbine capacity is the lowest among the installed capacities.
 
-**CO<sub>2</sub> emissions:** As per the project specification, rooftop PV significantly reduces emissions, while cold storage minimally reduces emissions. Heat pumps, heating rods, and hot water tanks contribute to moderate emissions reduction.
+**CO2 emissions:** As per the project specification, rooftop PV significantly reduces emissions, while cold storage minimally reduces emissions. Heat pumps, heating rods, and hot water tanks contribute to moderate emissions reduction.
 
 **Operation time:** The power grid connection and heat pump operation time is higher compared to the wind turbine, PV, chiller, and loads such as hot water tank, cold storage, and heating rod, which have lower operation times.
 
@@ -236,17 +234,17 @@ The project summary, accessible on the results section's summary page, provides 
 
 In this section, users can analyze the distribution of energy production and demands within the microgrid, gaining insights into the balance between sources and demands. This helps in optimizing resource allocation and enhancing the sustainability of the microgrid system.
 
-**Electricity generation:** Consumer electricity comprises 84% of the energy mix, indicating its substantial role in meeting demand, while rooftop PV contributes 16%, highlighting its growing importance in renewable energy integration.&#x20;
+**Electricity generation:** Consumer electricity comprises 84% of the energy mix, indicating its substantial role in meeting demand, while rooftop PV contributes 16%, highlighting its growing importance in renewable energy integration.
 
-**Heat generation:** The heat pump generates approximately 99.6% of the heat, with the remaining heat generated by the heating rod.&#x20;
+**Heat generation:** The heat pump generates approximately 99.6% of the heat, with the remaining heat generated by the heating rod.
 
-**Cold generation:** The chiller provides 100% of the cooling energy required to meet cooling demand.&#x20;
+**Cold generation:** The chiller provides 100% of the cooling energy required to meet cooling demand.
 
-**Electricity demand:** Approximately 79% of the electricity demand is met by loads or buildings, with the wind turbine supplying the remaining 21% for its operation. This breakdown highlights the significant contribution of loads to electricity demand and the wind turbine's role in renewable energy generation.&#x20;
+**Electricity demand:** Approximately 79% of the electricity demand is met by loads or buildings, with the wind turbine supplying the remaining 21% for its operation. This breakdown highlights the significant contribution of loads to electricity demand and the wind turbine's role in renewable energy generation.
 
-**Heat demand:** The hot water demand represents the highest at 77%, followed by space heating demand at 20%, with the hot water tank accounting for the least demand at 3%. This distribution underscores the importance of hot water supply within the microgrid.&#x20;
+**Heat demand:** The hot water demand represents the highest at 77%, followed by space heating demand at 20%, with the hot water tank accounting for the least demand at 3%. This distribution underscores the importance of hot water supply within the microgrid.
 
-**Cold demand:** Building space cooling accounts for 99.4% of the total cooling demand, with the remaining allocated to cold storage. This breakdown highlights the primary role of building space cooling within the microgrid's cooling system.&#x20;
+**Cold demand:** Building space cooling accounts for 99.4% of the total cooling demand, with the remaining allocated to cold storage. This breakdown highlights the primary role of building space cooling within the microgrid's cooling system.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-11 at 7.41.17 PM.png" alt="" data-size="original">
 
@@ -258,7 +256,7 @@ The parameters of the domains are displayed on the left (kW) and right (kWh) axe
 
 **Electricity domain**
 
-The graph illustrates high electricity demand input into the sector coupling system during the winter season, decreasing in the summer months. Despite these fluctuations, the output from consumer electricity, wind turbines, and rooftop PV consistently meets this demand, ensuring system stability and preventing blackouts.&#x20;
+The graph illustrates high electricity demand input into the sector coupling system during the winter season, decreasing in the summer months. Despite these fluctuations, the output from consumer electricity, wind turbines, and rooftop PV consistently meets this demand, ensuring system stability and preventing blackouts.
 
 This highlights MgC's significance in effectively managing energy supply and demand dynamics, optimizing resource utilization, and maintaining grid reliability throughout changing seasons and demand patterns.
 
@@ -266,7 +264,7 @@ This highlights MgC's significance in effectively managing energy supply and dem
 
 **Heating domain**
 
-The graph below depicts the heating domain, with parameters represented. During the winter season, the hot water tank and space heating demand peak, while the output from the heat pump, space heating, and heating rod sufficiently meets this demand, contributing to grid stabilization.&#x20;
+The graph below depicts the heating domain, with parameters represented. During the winter season, the hot water tank and space heating demand peak, while the output from the heat pump, space heating, and heating rod sufficiently meets this demand, contributing to grid stabilization.
 
 MgC's significance lies in its ability to accurately model and optimize the microgrid's heating system, ensuring reliable supply and demand balancing. By simulating various scenarios and optimizing system parameters, MgC empowers users to improve energy efficiency, reduce costs, and enhance overall system performance.
 
@@ -274,7 +272,7 @@ MgC's significance lies in its ability to accurately model and optimize the micr
 
 **Cooling domain**
 
-The graph below illustrates the cooling domain of the microgrid. Cooling demand peaks between May and September, coinciding with warmer temperatures, while the chiller output consistently meets this demand. The State of Charge (SOC) of the cold storage fluctuates between 0 and 20 kWh, indicating variations in stored cold energy over time. This fluctuation in SOC can be attributed to factors such as variations in cooling demand, chiller efficiency, and renewable energy availability.&#x20;
+The graph below illustrates the cooling domain of the microgrid. Cooling demand peaks between May and September, coinciding with warmer temperatures, while the chiller output consistently meets this demand. The State of Charge (SOC) of the cold storage fluctuates between 0 and 20 kWh, indicating variations in stored cold energy over time. This fluctuation in SOC can be attributed to factors such as variations in cooling demand, chiller efficiency, and renewable energy availability.
 
 MgC's significance lies in its ability to accurately model and optimize the microgrid's cooling system, allowing users to efficiently manage energy resources, ensure reliable cooling supply, and optimize system performance.
 
