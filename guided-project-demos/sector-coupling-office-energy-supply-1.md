@@ -81,7 +81,7 @@ The following template guides through the public project's key aspects: objectiv
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" data-size="original">
 
-**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO_2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving 25% of CAPEX/OPEX has been selected here.
+**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO\_2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving 25% of CAPEX/OPEX has been selected here.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 3.53.52 PM.png" alt="" data-size="original">
 
