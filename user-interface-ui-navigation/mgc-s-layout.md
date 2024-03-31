@@ -39,6 +39,10 @@ In the Resources section, users have the ability to edit the resources of energy
 
 <figure><img src="../.gitbook/assets/3.png" alt="" width="563"><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+MgC users can also upload the weather data from their own weather database. Get more info in XYZ.&#x20;
+{% endhint %}
+
 **Loads**
 
 In a resources feature manner, domains such as **electrical, heating, and cooling loads** are addressed within MgC, enabling users to conveniently manage and access information related to these aspects of their microgrid project.
