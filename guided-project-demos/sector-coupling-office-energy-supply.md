@@ -112,7 +112,7 @@ MgC provides flexibility and time-saving benefits to the user by offering templa
 
 <details>
 
-<summary>Resources</summary>
+<summary><strong>Resources</strong></summary>
 
 In MgC's sector coupling feature, data from resources such as weather data, natural gas, oil, and grid electricity are utilized to maintain stability. If excess energy is produced in the hub, it can be exported, allowing users to benefit from feed-in tariffs.
 
@@ -160,7 +160,7 @@ Innovatively, users can adjust feed-in tariff parameters like details and compos
 
 <details>
 
-<summary>Technologies</summary>
+<summary><strong>Technologies</strong></summary>
 
 Under the sector coupling template, resource capacities for PV panels, wind turbines, CHP, heating rods, boilers, heat pumps, and chillers in the electricity, heating, and cooling domains are automatically generated. Users simply need to select the appropriate data, such as capacity, asset lifetime, investment, operational costs, and technical, economic, and environmental parameters by double-clicking on the respective parameter.
 
@@ -176,7 +176,7 @@ The additional specifications such as technical, economic, and environmental par
 
 <details>
 
-<summary>Loads</summary>
+<summary><strong>Loads</strong></summary>
 
 In the sector coupling template, all loads except for EV vehicles and charging stations are initially unselected but can be chosen by the user at any point before simulating the project. Users can set electrical, cooling, and heating peak values in kW for loads by selecting the relevant element and double-clicking on the parameter as demonstrated below.
 
@@ -198,7 +198,7 @@ Statistical details and values distribution for electricity demand can be seen i
 
 <details>
 
-<summary>Project saving and simulation</summary>
+<summary><strong>Project saving and simulation</strong></summary>
 
 **Project saving:** Saving a project in MgC is essential for preserving work progress. By clicking "Save," users securely store project data, ensuring easy retrieval and management.
 
@@ -212,7 +212,7 @@ Statistical details and values distribution for electricity demand can be seen i
 
 <details>
 
-<summary>Project results</summary>
+<summary><strong>Project results</strong></summary>
 
 After simulation, MgC provides users with the results section, allowing for flexible exploration of various simulation outcomes. This feature offers detailed data analysis, empowering users to optimize energy management strategies effectively.
 

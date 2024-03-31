@@ -61,7 +61,7 @@ The following template guides through the public project's key aspects: objectiv
 
 <details>
 
-<summary>Template selection</summary>
+<summary><strong>Template selection</strong></summary>
 
 **Step 1:** To get the benefits of the rooftop system in MgC, simply click on the "New Project" option available in the MgC interface.
 
@@ -101,7 +101,7 @@ MgC provides flexibility and time-saving benefits to the user by offering templa
 
 <details>
 
-<summary>Resources</summary>
+<summary><strong>Resources</strong></summary>
 
 In MgC's rooftop system feature, information from resources like weather data and grid electricity is accessed to ensure system stability. Excess energy generated in the hub can be stored in batteries for later use during periods of high demand. Below is the network flowsheet of the rooftop system, presented through MgC's rooftop feature.
 
@@ -143,7 +143,7 @@ Innovatively, users can swiftly customize feed-in tariff parameters like details
 
 <details>
 
-<summary>Technologies</summary>
+<summary><strong>Technologies</strong></summary>
 
 In MgC's rooftop system template, PV panel capacities are automatically generated for electricity domains, streamlining setup. Users can customize parameters like capacity and costs by double-clicking and tailoring characteristics to project needs. This flexibility extends beyond PV modules, allowing the modeling of additional technologies and loads, optimizing project design and alignment with goals.
 
@@ -157,7 +157,7 @@ Additional specifications like technical, economic, and environmental parameters
 
 <details>
 
-<summary>Loads</summary>
+<summary><strong>Loads</strong></summary>
 
 In the rooftop system template, initially only building and battery loads are selected, but users can choose additional loads such as heating and cooling before simulating the project. Peak values for electrical, cooling, and heating loads can be adjusted by double-clicking on the relevant element. MgC seamlessly manages changes in load data in the sector coupling model, offering intuitive interfaces for parameter updates and advanced algorithms for resource allocation. This ensures optimal microgrid operation and resilience, making MgC essential for effective sector coupling modeling.
 
@@ -175,7 +175,7 @@ Statistical details and values distribution for electricity demand can be seen i
 
 <details>
 
-<summary>Project saving and simulation</summary>
+<summary><strong>Project saving and simulation</strong></summary>
 
 **Project saving:** Saving a project in MgC is essential for preserving work progress. By clicking "Save," users securely store project data, ensuring easy retrieval and management.
 
@@ -189,7 +189,7 @@ Statistical details and values distribution for electricity demand can be seen i
 
 <details>
 
-<summary>Results</summary>
+<summary><strong>Results</strong></summary>
 
 Following simulation, MgC presents users with a results section for flexible exploration of simulation outcomes. This feature facilitates detailed data analysis, empowering users to optimize energy management strategies effectively.
 
