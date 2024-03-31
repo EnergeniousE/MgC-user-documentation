@@ -224,7 +224,7 @@ The project summary, accessible on the results section's summary page, provides 
 
 **Initialized capacities:** According to the project specifications, the hot water tank capacity is the highest, while the wind turbine capacity is the lowest among the installed capacities.
 
-**CO\_2 emissions:** As per the project specification, rooftop PV significantly reduces emissions, while cold storage minimally reduces emissions. Heat pumps, heating rods, and hot water tanks contribute to moderate emissions reduction.
+**CO<sub>2</sub> emissions:** As per the project specification, rooftop PV significantly reduces emissions, while cold storage minimally reduces emissions. Heat pumps, heating rods, and hot water tanks contribute to moderate emissions reduction.
 
 **Operation time:** The power grid connection and heat pump operation time is higher compared to the wind turbine, PV, chiller, and loads such as hot water tank, cold storage, and heating rod, which have lower operation times.
 
