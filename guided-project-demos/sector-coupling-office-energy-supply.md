@@ -92,7 +92,7 @@ The following template guides through the public project's key aspects: objectiv
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 2.13.16 PM.png" alt="" data-size="original">
 
-**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO2 emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving a 75% reduction in emissions has been selected here.
+**Step 5:** Now, determine the project goal by adjusting the slide bar towards saving CO<sub>2</sub> emissions for a more eco-friendly project, which may result in higher CAPEX/OPEX, or vice versa. The project goal of achieving a 75% reduction in emissions has been selected here.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-04 at 4.03.01 PM (1).png" alt="" data-size="original">
 
@@ -220,7 +220,7 @@ After simulation, MgC provides users with the results section, allowing for flex
 
 **Summary**
 
-The project summary, accessible on the results section's summary page, provides a comprehensive overview of key project metrics such as installed capacities, CO2 emissions, operation time, and asset costs. This allows users to quickly understand and assess the project's performance and financial implications.
+The project summary, accessible on the results section's summary page, provides a comprehensive overview of key project metrics such as installed capacities, CO<sub>2</sub> emissions, operation time, and asset costs. This allows users to quickly understand and assess the project's performance and financial implications.
 
 **Initialized capacities:** According to the project specifications, the hot water tank capacity is the highest, while the wind turbine capacity is the lowest among the installed capacities.
 
