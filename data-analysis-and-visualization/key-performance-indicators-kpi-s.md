@@ -5,7 +5,7 @@ description: >-
   sustainable microgrids.
 ---
 
-# Key Performance Indicators(KPI´s)
+# Key Performance Indicators
 
 KPIs are essential metrics used to assess and measure the success of a microgrid project. They help formal entities and professionals in the world make informed decisions. The key KPIs provided by the MgC include:
 
@@ -35,7 +35,7 @@ Emissions KPI quantifies the reduction in [greenhouse gas emissions(GHG)](../glo
 
 <details>
 
-<summary><strong>Interest Rate</strong></summary>
+<summary><strong>Interest rate</strong></summary>
 
 Reflects the cost of financing the microgrid project, impacting its financial feasibility.
 
