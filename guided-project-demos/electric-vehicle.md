@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/240_F_429062226_0oahbEalgP5UQzrYZWGevXYvnIO1OckF.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Electric vehicle
 
 Concept:
