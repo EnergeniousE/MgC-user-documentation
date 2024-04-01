@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/istockphoto-1204702669-612x612.jpg
-coverY: 77.83516483516483
+cover: ../.gitbook/assets/240_F_766543305_mB2ni7BJ4z0YcARN9MNAEEh5BUynMdkB.jpg
+coverY: -67
 layout:
   cover:
     visible: true
