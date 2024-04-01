@@ -21,9 +21,9 @@ layout:
 
 **Concept:**
 
-It refer to the design and implementation of solar panels on building rooftops to generate electricity from sunlight. By harnessing solar power directly from rooftops, this approach helps to reduce reliance on traditional energy sources, lower electricity bills, and contribute to a more sustainable and environmentally friendly energy system.
+It refers to the design and implementation of solar panels on building rooftops to generate electricity from sunlight. By harnessing solar power directly from rooftops, this approach helps to reduce reliance on traditional energy sources, lower electricity bills, and contribute to a more sustainable and environmentally friendly energy system.
 
-**MgC's capability in "Rooftop System" modeling:**
+**MgC's capability in "Rooftop system" modeling:**
 
 MgC stands out in the rooftop system by offering a unified platform for designing and managing integrated energy systems. Its functionalities encompass:
 
