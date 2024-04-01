@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/240_F_508407822_XLb7LGJpPsXlLpCKg62DdsArQnd5EKvD.jpg
-coverY: -37
+cover: ../.gitbook/assets/240_F_245393308_vuswgMmxuPQASLIJtPkLKgZNQrs7TXQE.jpg
+coverY: 0
 layout:
   cover:
     visible: true
