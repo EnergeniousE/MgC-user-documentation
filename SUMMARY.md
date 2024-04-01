@@ -36,4 +36,4 @@
 * [\[WIP\] Guided projects](guided-project-demos/README.md)
   * [Sector coupling-offices](guided-project-demos/sector-coupling-office-energy-supply.md)
   * [Rooftop system](guided-project-demos/sector-coupling-office-energy-supply-1-2.md)
-  * [Electric vehicle-EV](guided-project-demos/electric-vehicle-ev.md)
+  * [Electric vehicle](guided-project-demos/electric-vehicle.md)
