@@ -37,7 +37,9 @@ The following template guides through the public project's key aspects: objectiv
 
 {% tabs %}
 {% tab title="Objective" %}
-* Model a electric vehicle network including various resources, technologies, and loads to maintain stability in the grid.
+* Model an electric vehicle network including various resources, technologies, and loads to maintain stability in the grid.
+* In the base scenario, a factory building with integrated administration is introduced. A typical office and a factory-specific production demand need to be covered. Electricity from the grid is available with a flat tariff.&#x20;
+* Two EVs are part of the company's car fleet and a charging station is to be installed at the premises. The factory operators are interested in optimizing their energy supply.
 {% endtab %}
 
 {% tab title="Resources" %}
@@ -58,3 +60,10 @@ The following template guides through the public project's key aspects: objectiv
 {% endtab %}
 {% endtabs %}
 
+<details>
+
+<summary>Template selection</summary>
+
+
+
+</details>
