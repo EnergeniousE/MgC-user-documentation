@@ -57,8 +57,6 @@ The following template guides through the public project's key aspects: objectiv
 * Charging stations
 * Electric vehicles
 * Electrical loads
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -76,11 +74,11 @@ Proceed with the instructions provided within the user interface to configure th
 
 <summary>Resources</summary>
 
-In MgC's EV feature, information from resources like weather data and grid electricity is accessed to ensure system stability. The energy generated in the hub will be stored in batteries for EVs. Below is the network flowsheet of the EV network system, presented through MgC.
+In MgC's EV feature, information from resources like weather data(origin: here EPW) and consumer electricity is accessed to ensure system stability. The energy generated in the hub will be stored in batteries for EVs. Below is the network flowsheet of the EV system, presented through MgC.
 
 <img src="../.gitbook/assets/Screenshot 2024-04-06 at 6.39.30 PM.png" alt="" data-size="original">
 
-Users can access comprehensive project details in the system design's details section, offering thorough information on the technical, environmental, and economic aspects of technologies, loads, and resources involved in the project as shown below.
+Users can access comprehensive project details under the MgC ribbon "System design-details" section, offering thorough information on the technical, environmental (such as GHG emissions), and economic aspects (like base, operational, etc costs), as well as details on technologies, loads, and resources involved in the project.
 
 <img src="../.gitbook/assets/Screenshot 2024-04-06 at 6.40.12 PM.png" alt="" data-size="original">
 
@@ -90,7 +88,17 @@ To further explore MgC features, users can access them by clicking within the "A
 
 **Weather data**
 
-MgC automatically collects weather data from the selected location. Detailed weather statistics can be found in the 'Advanced' section of the resource ribbon as explained in the previous projects.&#x20;
+MgC automatically collects weather data from the selected location.&#x20;
+
+<img src="../.gitbook/assets/Screenshot 2024-04-06 at 6.40.47 PM.png" alt="" data-size="original">
+
+Detailed weather statistics can be found in the 'Advanced' section of the resource ribbon as explained in the previous projects.&#x20;
+
+<img src="../.gitbook/assets/Screenshot 2024-04-06 at 8.22.08 PM.png" alt="" data-size="original">
+
+**Consumer electricity-** MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time as shown in the below image.
+
+<img src="../.gitbook/assets/Screenshot 2024-04-06 at 8.23.31 PM.png" alt="" data-size="original">
 
 </details>
 
