@@ -33,7 +33,7 @@
   * [Abbreviations and technical terminology](glossary/definitions.md)
   * [Stay connected and updated](glossary/stay-connected-and-updated.md)
 * [\[WIP\] Elements creation](elements-creation.md)
-* [\[WIP\] Guided projects](guided-project-demos/README.md)
+* [\[WIP\] Public projects](guided-project-demos/README.md)
   * [Sector coupling-offices](guided-project-demos/sector-coupling-office-energy-supply.md)
   * [Rooftop system](guided-project-demos/sector-coupling-office-energy-supply-1-2.md)
   * [Electric vehicle](guided-project-demos/electric-vehicle.md)

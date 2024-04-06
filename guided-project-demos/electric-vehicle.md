@@ -57,12 +57,56 @@ The following template guides through the public project's key aspects: objectiv
 * Charging stations
 * Electric vehicles
 * Electrical loads
+
+
 {% endtab %}
 {% endtabs %}
 
 <details>
 
-<summary>Template selection</summary>
+<summary>Project setup</summary>
+
+Follow the steps outlined in the [User interface navigation](../user-interface-ui-navigation/project-setup-and-simulation/) to establish the project setup.
+
+Proceed with the instructions provided within the user interface to configure the initial settings and parameters for the EV project. This typically involves navigating through various screens or menus to define project objectives, specify input data, and set preferences according to user requirements.&#x20;
+
+</details>
+
+<details>
+
+<summary>Resources</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Technologies</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Loads</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Project saving and simulation</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Project results</summary>
 
 
 
