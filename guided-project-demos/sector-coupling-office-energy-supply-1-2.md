@@ -103,7 +103,7 @@ MgC provides flexibility and time-saving benefits to the user by offering templa
 
 <summary><strong>Resources</strong></summary>
 
-In MgC's rooftop system feature, information from resources like weather data and grid electricity is accessed to ensure system stability. Excess energy generated in the hub can be stored in batteries for later use during periods of high demand. Below is the network flowsheet of the rooftop system, presented through MgC's rooftop feature.
+MgC's rooftop system feature ensures network stability by utilizing weather data and grid electricity. Excess energy is stored in batteries for later use during high-demand periods. The network flowsheet that is shown below is accessible through MgC's rooftop feature.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.01.43 PM.png" alt="" data-size="original">
 
@@ -115,27 +115,21 @@ The features of the MgC can be explored more by clicking on the respective featu
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.09.29 PM.png" alt="" data-size="original">
 
-**Weather data**
-
-The weather data is gathered automatically from the selected location by the MgC. The weather profile such as global horizontal radiation for solar energy, dry bulb temperature, and wind speed can be seen as shown in the below screenshot.
+**Weather data-** The weather data is gathered automatically from the selected location by the MgC. The weather profile such as global horizontal radiation for solar energy, dry bulb temperature, and wind speed can be seen as shown in the below screenshot.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.11.58 PM.png" alt="" data-size="original">
 
-Statistical details for the weather data at the Stuttgart location can be seen in the resource ribbon under the "Advanced" feature in the MgC.
+Statistical details for the weather data at the selected location can be seen in the resource ribbon under the "Advanced" feature in the MgC.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.13.58 PM.png" alt="" data-size="original">
 
-**Consumer electricity**
+**Consumer electricity-** MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time.
 
-MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time.
-
-Here in the below image, the increase in the base cost of consumer electricity tariff composition likely aims to stabilize the grid by encouraging more efficient energy use. Adjusting the equivalent GHG emissions for a rooftop system without additional technologies ensures accurate environmental impact assessment, supporting informed decision-making and sustainability goals.
+In the below image, the rise in the base cost of consumer electricity tariff composition aims to stabilize the grid by promoting more efficient energy use. Adjusting equivalent GHG emissions for a rooftop system without extra technologies ensures precise environmental impact assessment, aiding informed decision-making and sustainability objectives.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 5.56.48 PM.png" alt="" data-size="original">
 
-**Feed-in tariff**
-
-Innovatively, users can swiftly customize feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters, enhancing flexibility and efficiency.
+**Feed-in-tariff-** Innovatively, users can swiftly customize feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters, enhancing flexibility and efficiency.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.03.58 PM.png" alt="" data-size="original">
 

@@ -38,7 +38,7 @@ The following template guides through the public project's key aspects: objectiv
 {% tabs %}
 {% tab title="Objective" %}
 * Model an electric vehicle network including various resources, technologies, and loads to maintain stability in the grid.
-* In the base scenario, a factory building with integrated administration is introduced. A typical office and a factory-specific production demand need to be covered. Electricity from the grid is available with a flat tariff.&#x20;
+* In the base scenario, a typical office and a factory-specific production demand need to be covered. Electricity from the grid is available with a flat tariff.&#x20;
 * Two EVs are part of the company's car fleet and a charging station is to be installed at the premises. The factory operators are interested in optimizing their energy supply.
 {% endtab %}
 
@@ -66,7 +66,7 @@ The following template guides through the public project's key aspects: objectiv
 
 <summary>Project setup</summary>
 
-Follow the steps outlined in the [User interface navigation](../user-interface-ui-navigation/project-setup-and-simulation/) to establish the project setup.
+Follow the steps outlined in the [User interface navigation](../user-interface-ui-navigation/creating-a-project.md) to establish the project setup.
 
 Proceed with the instructions provided within the user interface to configure the initial settings and parameters for the EV project. This typically involves navigating through various screens or menus to define project objectives, specify input data, and set preferences according to user requirements.&#x20;
 
@@ -76,7 +76,21 @@ Proceed with the instructions provided within the user interface to configure th
 
 <summary>Resources</summary>
 
+In MgC's EV feature, information from resources like weather data and grid electricity is accessed to ensure system stability. The energy generated in the hub will be stored in batteries for EVs. Below is the network flowsheet of the EV network system, presented through MgC.
 
+<img src="../.gitbook/assets/Screenshot 2024-04-06 at 6.39.30 PM.png" alt="" data-size="original">
+
+Users can access comprehensive project details in the system design's details section, offering thorough information on the technical, environmental, and economic aspects of technologies, loads, and resources involved in the project as shown below.
+
+<img src="../.gitbook/assets/Screenshot 2024-04-06 at 6.40.12 PM.png" alt="" data-size="original">
+
+To further explore MgC features, users can access them by clicking within the "Advanced" section.
+
+<img src="../.gitbook/assets/Screenshot 2024-04-06 at 6.40.35 PM.png" alt="" data-size="original">
+
+**Weather data**
+
+MgC automatically collects weather data from the selected location. Detailed weather statistics can be found in the 'Advanced' section of the resource ribbon as explained in the previous projects.&#x20;
 
 </details>
 
