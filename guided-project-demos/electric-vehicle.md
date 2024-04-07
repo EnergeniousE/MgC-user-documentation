@@ -86,9 +86,7 @@ To further explore MgC features, users can access them by clicking within the "A
 
 <img src="../.gitbook/assets/Screenshot 2024-04-06 at 6.40.35 PM.png" alt="" data-size="original">
 
-**Weather data**
-
-MgC automatically collects weather data from the selected location.&#x20;
+**Weather data-** MgC automatically collects weather data like dry bulb temperature, wind speed, etc from the selected location.&#x20;
 
 <img src="../.gitbook/assets/Screenshot 2024-04-06 at 6.40.47 PM.png" alt="" data-size="original">
 
