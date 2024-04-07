@@ -108,9 +108,11 @@ For this project, essential technologies include electric grids, electric vehicl
 
 <img src="../.gitbook/assets/Screenshot 2024-04-07 at 8.09.54 PM.png" alt="" data-size="original">
 
-For EV 2 as an example, technical, economic, and environmental specifications can be edited by double-clicking on the parameters. A round-trip efficiency of 81% is set as a realistic value, adjustable to project specifications. Investment costs include €9000 fixed and €340/kWh variable costs for CAPEX, while OPEX incurs a variable cost of €6.8/a/kWh aligning with the project's financial and operational requirements.
+For example EV 2 in the below image, technical, economic, and environmental specifications can be edited by double-clicking on the parameters. A round-trip efficiency of 81% is set as a realistic value, adjustable to project specifications. Investment costs include €9000 fixed and €340/kWh variable costs for CAPEX, while OPEX incurs a variable cost of €6.8/a/kWh aligning with the project's financial and operational requirements.
 
 <img src="../.gitbook/assets/Screenshot 2024-04-07 at 8.14.23 PM.png" alt="" data-size="original">
+
+To adjust the specifications of technologies, loads, and resources, users can follow the same procedure by double-clicking on the parameter. This ensures that MgC's flexibility and customization are in line with the project's specific requirements.
 
 </details>
 
