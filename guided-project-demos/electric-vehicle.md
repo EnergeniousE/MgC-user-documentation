@@ -120,7 +120,29 @@ To adjust the specifications of technologies, loads, and resources, users can fo
 
 <summary>Loads</summary>
 
+**Load setup-** To create loads according to the required quantity, simply click on "New Instance" as depicted in the image below.
 
+<img src="../.gitbook/assets/Screenshot 2024-04-07 at 9.21.43 PM.png" alt="" data-size="original">
+
+Next, provide the name of the element, such as "EV 2 driving day," and select the data source for the loads from the "office load" library. Then, click on either the "Add Element" or "Add Element and Edit" option, as illustrated in the MgC interface.
+
+<img src="../.gitbook/assets/Screenshot 2024-04-07 at 9.03.01 PM.png" alt="" data-size="original">
+
+The current project includes 1 production load and 2 EV driving day loads requiring charging. Users can view all loads in the project at any time by accessing the loads section under the advanced ribbon in MgC.
+
+<img src="../.gitbook/assets/Screenshot 2024-04-07 at 9.04.41 PM.png" alt="" data-size="original">
+
+**Time domain-** The timestep, or interval between updates, influences how often weather data is refreshed and kW values are plotted over time. Smaller timesteps lead to more frequent updates, offering a detailed view of power changes. Conversely, larger timesteps result in less frequent updates, providing a broader perspective.
+
+The electricity demand profile can be visualized in the timestep vs power graph, as depicted in the screenshot below. One can observe that as demand is highest during the winter season and lowest in the summer months.
+
+<img src="../.gitbook/assets/Screenshot 2024-04-07 at 8.57.34 PM.png" alt="" data-size="original">
+
+
+
+
+
+<img src="../.gitbook/assets/Screenshot 2024-04-07 at 8.49.46 PM.png" alt="" data-size="original">
 
 </details>
 
