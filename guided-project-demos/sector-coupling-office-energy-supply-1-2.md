@@ -153,13 +153,13 @@ Additional specifications like technical, economic, and environmental parameters
 
 <summary><strong>Loads</strong></summary>
 
-In the rooftop system template, initially only building and battery loads are selected, but users can choose additional loads such as heating and cooling before simulating the project. Peak values for electrical, cooling, and heating loads can be adjusted by double-clicking on the relevant element. MgC seamlessly manages changes in load data in the sector coupling model, offering intuitive interfaces for parameter updates and advanced algorithms for resource allocation. This ensures optimal microgrid operation and resilience, making MgC essential for effective sector coupling modeling.
+In the rooftop system template, initially only building and battery loads are selected, but users can choose additional loads such as heating and cooling before simulating the project. Peak values for electrical, cooling, and heating loads can be adjusted by double-clicking on the relevant element.&#x20;
 
-**Timestep:**
+MgC seamlessly manages changes in load data in the sector coupling model, offering intuitive interfaces for parameter updates and advanced algorithms for resource allocation. This ensures optimal microgrid operation and resilience, making MgC essential for effective sector coupling modeling.
 
-The timestep determines how often the weather data updates and plots the kW values on the diagram over time. If the timestep is smaller, we get more frequent updates and a finer view of power changes. With a larger timestep, updates are less frequent, giving a broader view.
+**Timestep-** The timestep determines how often the weather data updates and plots the kW values on the diagram over time. If the timestep is smaller, we get more frequent updates and a finer view of power changes. With a larger timestep, updates are less frequent, giving a broader view.
 
-The electricity demand profile can be visualized in the timestep vs power graph, as depicted in the screenshot below. Demand is highest during the winter season and lowest in the summer months.
+The electricity demand profile can be visualized in the timestep vs power graph, as depicted in the screenshot below. One can observe that as demand is highest during the winter season and lowest in the summer months.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.25.27 PM.png" alt="" data-size="original">
 
