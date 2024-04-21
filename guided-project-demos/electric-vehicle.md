@@ -134,9 +134,11 @@ The current project includes 1 production load and 2 EV driving day loads requir
 
 **Time domain-** The timestep, or interval between updates, influences how often weather data is refreshed and kW values are plotted over time. Smaller timesteps lead to more frequent updates, offering a detailed view of power changes. Conversely, larger timesteps result in less frequent updates, providing a broader perspective.
 
+<img src="../.gitbook/assets/Screenshot 2024-04-07 at 8.57.34 PM.png" alt="" data-size="original">
+
 The electricity demand profile can be visualized in the timestep vs power graph, as depicted in the screenshot below. One can observe that demand is highest during the winter season and lowest in the summer months.
 
-<img src="../.gitbook/assets/Screenshot 2024-04-07 at 8.57.34 PM.png" alt="" data-size="original">
+**Value distribution**
 
 Within MgC, users can benefit from accessing the value distribution feature to observe the profile distribution and yearly pattern of loads. This provides valuable insights into load behavior, showcasing the frequency of load values (kW) at different moments and variations throughout the year. By understanding these distributions, users can effectively plan energy management strategies and optimize resource utilization within their projects.
 
