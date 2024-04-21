@@ -41,7 +41,7 @@ The following template guides through the public project's key aspects: objectiv
 
 {% tabs %}
 {% tab title="Objective" %}
-* Model a PV system including various resources, technologies, and loads to maintain stability in the energy supply.
+Model a PV system including various resources, technologies, and loads to maintain stability in the energy supply.
 {% endtab %}
 
 {% tab title="Resources" %}
@@ -115,7 +115,7 @@ The features of the MgC can be explored more by clicking on the respective featu
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.09.29 PM.png" alt="" data-size="original">
 
-**Weather data-** The weather data is gathered automatically from the selected location by the MgC. The weather profile such as global horizontal radiation for solar energy, dry bulb temperature, and wind speed can be seen as shown in the below screenshot.
+**Weather data:** The weather data is gathered automatically from the selected location by the MgC. The weather profile such as global horizontal radiation for solar energy, dry bulb temperature, and wind speed can be seen as shown in the below screenshot.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.11.58 PM.png" alt="" data-size="original">
 
@@ -123,13 +123,13 @@ Statistical details for the weather data at the selected location can be seen in
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 4.13.58 PM.png" alt="" data-size="original">
 
-**Consumer electricity-** MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time.
+**Consumer electricity:** MgC users have the flexibility to adjust costs, energy, and power parameters for consumer electricity simply by double-clicking on the respective parameters, allowing for easy customization at any time.
 
 In the below image, the rise in the base cost of consumer electricity tariff composition aims to stabilize the grid by promoting more efficient energy use. Adjusting equivalent GHG emissions for a rooftop system without extra technologies ensures precise environmental impact assessment, aiding informed decision-making and sustainability objectives.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 5.56.48 PM.png" alt="" data-size="original">
 
-**Feed-in-tariff-** Innovatively, users can swiftly customize feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters, enhancing flexibility and efficiency.
+**Feed-in-tariff:** Innovatively, users can swiftly customize feed-in tariff parameters like details and compositions with a simple double-click on the respective parameters, enhancing flexibility and efficiency.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.03.58 PM.png" alt="" data-size="original">
 
@@ -157,9 +157,9 @@ In the rooftop system template, initially only building and battery loads are se
 
 MgC seamlessly manages changes in load data in the sector coupling model, offering intuitive interfaces for parameter updates and advanced algorithms for resource allocation. This ensures optimal microgrid operation and resilience, making MgC essential for effective sector coupling modeling.
 
-**Timestep-** The timestep determines how often the weather data updates and plots the kW values on the diagram over time. If the timestep is smaller, we get more frequent updates and a finer view of power changes. With a larger timestep, updates are less frequent, giving a broader view.
+**Timestep:** The timestep determines how often the weather data updates and plots the kW values on the diagram over time. If the timestep is smaller, we get more frequent updates and a finer view of power changes. With a larger timestep, updates are less frequent, giving a broader view.
 
-The electricity demand profile can be visualized in the timestep vs power graph, as depicted in the screenshot below. One can observe that as demand is highest during the winter season and lowest in the summer months.
+The electricity demand profile can be visualized in the timestep vs power graph, as depicted in the screenshot below. One can observe that demand is highest during the winter season and lowest in the summer months.
 
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.25.27 PM.png" alt="" data-size="original">
 
@@ -189,7 +189,7 @@ Following simulation, MgC presents users with a results section for flexible exp
 
 **Summary**
 
-Accessible within the results section's summary page, the project summary in MgC offers a comprehensive overview of key metrics including installed capacities, $$CO_{2}$$ emissions, operation time, and asset costs. This enables users to swiftly grasp the project's performance and financial implications.
+&#x20;Accessible within the results section's summary page, the project summary in MgC offers a comprehensive overview of key metrics including installed capacities, $$CO_{2}$$ emissions, operation time, and asset costs. This enables users to swiftly grasp the project's performance and financial implications.
 
 **Installed capacities:** As per the project specifications, the grid connection capacity is highest at approximately 68 kW, while the capacity of PV modules is lowest at 30 kW among installed capacities. This aligns with the expectation that PV generation occurs primarily during daylight hours.
 
@@ -221,9 +221,9 @@ The parameters of the domains are displayed on the left (kW) and right (kWh) axe
 
 The graph illustrates variations in building demand throughout seasons, peaking in winter and decreasing in summer. Despite these fluctuations, both consumer electricity and Standard PV module outputs consistently meet demand, ensuring system stability and mitigating blackout risks.
 
-This highlights MgC's significance in effectively managing energy supply and demand dynamics, optimizing resource utilization, and maintaining grid reliability throughout changing seasons and demand patterns.
-
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.41.58 PM.png" alt="" data-size="original">
+
+This highlights MgC's significance in effectively managing energy supply and demand dynamics, optimizing resource utilization, and maintaining grid reliability throughout changing seasons and demand patterns.
 
 Visualization of heating and cooling domain loads data is accessible upon modeling specific loads and generation technologies within their respective domains.
 
@@ -231,9 +231,9 @@ Visualization of heating and cooling domain loads data is accessible upon modeli
 
 The project lifetime vs expenses graph typically depicts high CAPEX and OPEX during the initial period, consistent with standard project financing trends. NPV, or net present value, represents the present value of all cash inflows and outflows over the project's lifetime, adjusted for the time value of money.
 
-Users can adjust the discount rate above the graph to reflect changes in project financing conditions, influencing NPV calculations accordingly.
-
 <img src="../.gitbook/assets/Screenshot 2024-02-18 at 6.45.08 PM.png" alt="" data-size="original">
+
+Users can adjust the discount rate above the graph to reflect changes in project financing conditions, influencing NPV calculations accordingly.
 
 </details>
 
