@@ -150,7 +150,15 @@ Within MgC, users can benefit from accessing the value distribution feature to o
 
 <summary>Project saving and simulation</summary>
 
+**Notifications?:** MgC notifies users to save the project when changes are made. In the image, one warning notification prompts the user to save the project. This feature helps users avoid losing any modifications or updates made to their project.
 
+<img src="../.gitbook/assets/Screenshot 2024-04-21 at 7.50.04 PM.png" alt="" data-size="original">
+
+**Project saving:** Saving a project in MgC is essential for preserving work progress. By clicking "Save," users securely store project data, ensuring easy retrieval and management.
+
+<img src="../.gitbook/assets/Screenshot 2024-04-21 at 7.50.16 PM.png" alt="" data-size="original">
+
+**Simulation:** In MgC, the project simulation is initiated by selecting the "Simulate" option, enabling users to analyze and evaluate the performance of their microgrid design. This process provides valuable insights into system behavior and assists in making informed decisions for optimal operation and efficiency.
 
 </details>
 
