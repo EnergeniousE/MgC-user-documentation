@@ -138,9 +138,11 @@ The current project includes 1 production load and 2 EV driving day loads requir
 
 The electricity demand profile can be visualized in the timestep vs power graph, as depicted in the screenshot below. One can observe that demand is highest during the winter season and lowest in the summer months.
 
-**Value distribution:** Within MgC, users can benefit from accessing the value distribution feature to observe the profile distribution and yearly pattern of loads. This provides valuable insights into load behavior, showcasing the frequency of load values (kW) at different moments and variations throughout the year. By understanding these distributions, users can effectively plan energy management strategies and optimize resource utilization within their projects.
+**Value distribution:** Within MgC, users can benefit from accessing the value distribution feature to observe the profile distribution and yearly pattern of loads. This provides valuable insights into load behavior, showcasing the frequency of load values (kW) at different moments and variations throughout the year.&#x20;
 
 <img src="../.gitbook/assets/Screenshot 2024-04-07 at 8.49.46 PM.png" alt="" data-size="original">
+
+By understanding these distributions, users can effectively plan energy management strategies and optimize resource utilization within their projects.
 
 </details>
 
