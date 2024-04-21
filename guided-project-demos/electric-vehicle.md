@@ -160,6 +160,8 @@ By understanding these distributions, users can effectively plan energy manageme
 
 **Simulation:** In MgC, the project simulation is initiated by selecting the "Simulate" option, enabling users to analyze and evaluate the performance of their microgrid design. This process provides valuable insights into system behavior and assists in making informed decisions for optimal operation and efficiency.
 
+<img src="../.gitbook/assets/Screenshot 2024-04-21 at 8.14.22 PM.png" alt="" data-size="original">
+
 </details>
 
 <details>
